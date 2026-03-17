@@ -1,10 +1,7 @@
 @echo off
-echo Inicializando Git en Obsidian...
-git init
-git remote add origin git@github-obsidian:nihonk03/Obsidian-Personal.git
-git add .
-git commit -m "Backup inicial"
-echo Intentando subir archivos a GitHub...
+echo Corrigiendo nombre de rama y subiendo a GitHub...
+git branch -M main
 git push -u origin main
-echo Proceso finalizado.
+echo.
+echo !Hecho! Tus archivos ya deberian estar en GitHub.
 pause
