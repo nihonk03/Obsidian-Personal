@@ -7,3 +7,9 @@ requisicion de personal "Puestos Temproales"
 
 Nombre de Plaza a Nombre de Puesto
 Agregar link de postulacion en web
+
+cotizacion inss o carta de no cotizante
+
+
+
+COlaboradores agregar fecha de vencimiento de CS
