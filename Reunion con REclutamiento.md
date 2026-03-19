@@ -1,4 +1,4 @@
-aciocnal cambiar a plaza a cubrir
+adiocnal cambiar a plaza a cubrir
 agregar plza temporal
 
 requisicion de personal "Puestos Adicionales"
