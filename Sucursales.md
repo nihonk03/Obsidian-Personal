@@ -3,7 +3,7 @@
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana
-- [ ] Granada
+- [x] Granada
 - [x] Las Colinas
 - [ ] Masaya
 - [x] Natura
