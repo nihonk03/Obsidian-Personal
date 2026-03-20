@@ -10,4 +10,4 @@
 - [x] Las Brisas
 - [x] Rivas
 - [ ] Unica
-- [ ] Ticuantepe
+- [x] Ticuantepe
