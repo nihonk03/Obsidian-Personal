@@ -4,3 +4,6 @@ No esta claro lo de reembolo de las deducciond einventario, la deducciond e caja
 Mas claridad sobre el  ascenso y evaluaciones
 
 pRotocolo de presentacion debe de ser  obligatorio
+
+no se asciende a lider 
+
