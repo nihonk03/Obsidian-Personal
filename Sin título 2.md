@@ -1,12 +1,11 @@
 
 
-Agrega notas para cada producto en la factura.
 
 
 
-El tamaño del producto falta.
 
-Agregar ícono si es para llevar (to go) o comer en tienda (for here).
+
+
 
 
 
