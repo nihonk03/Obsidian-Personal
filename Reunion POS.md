@@ -6,12 +6,12 @@
 - [ ] Por DIscutir: Como funcionar cambios y quitar isnumos de rectas
 - [x] selecciona tamano por defecto normal / pequeno
 - [ ] Boton de copiar producto configurado
-- [ ] No agrupar productos iguales  en ventana de facturacion
+- [x] No agrupar productos iguales  en ventana de facturacion
 - [ ] Pagina de PErsonalizacion : agregar combos sugeridos en funcion de cumple productos
 - [ ] Clasificacion de promociones para visibilidad en pagina principal de factura
 - [ ] editable +505 de membresia 
-- [ ] banner de venta de membresia
-- [ ] ELiminar registro de membresia, imprimir qr para formulario  con nro pedido 
+- [x] banner de venta de membresia
+- [x] ELiminar registro de membresia, imprimir qr para formulario  con nro pedido 
 - [ ] Puntos Anteriores no es afectado por la factura en curso
 - [ ] Enesta compra acumularia XX puntos / Puntos canjeados
 - [ ] Cambiar Efectivo a Efectivo Recibido 
