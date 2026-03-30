@@ -19,7 +19,7 @@
 
 
 - [x] *****Inline de nombre + inline de membresia , opcion de quitar eleccion con un X   CLub  o cedula 
-- [ ] QR para ingreso de foto de membresia o cedula 
+- [x] QR para ingreso de foto de membresia o cedula 
 
 
 - [x] Lista de club no visible 
