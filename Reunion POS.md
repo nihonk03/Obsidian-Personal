@@ -1,31 +1,31 @@
-Compras = Pagos de Caja
-boton nuevo pedido grane
+- [ ] Compras = Pagos de Caja
+- [ ] boton nuevo pedido grane
 
-extras sugeridos + boton otros
-cambio de receta mistrar cantidad
-Como funcionar cambios y quitar isnumos de rectas
-selecciona tamano por defecto normal / pequeno
-Boton de copiar producto configurado
-No agrupar productos iguales  en ventana de facturacion
-Pagina de PErsonalizacion : agregar combos sugeridos en funcion de cumple productos
-Clasificacion de promociones para visibilidad en pagina principal de factura
-editable +505 de membresia 
-banner de venta de membresia
-ELiminar registro de membresia, imprimir qr para formulario  con nro pedido 
-Puntos Anteriores no es afectado por la factura en curso
-Enesta compra acumularia XX puntos / Puntos canjeados
-Cambiar Efectivo a Efectivo Recibido 
-Pendiente / Cambio*
-
-
-*****Inline de nombre + inline de membresia , opcion de quitar eleccion con un X   CLub  o cedula 
-QR para ingreso de foto de membresia o cedula 
+- [ ] extras sugeridos + boton otros
+- [ ] cambio de receta mistrar cantidad
+- [ ] Como funcionar cambios y quitar isnumos de rectas
+- [ ] selecciona tamano por defecto normal / pequeno
+- [ ] Boton de copiar producto configurado
+- [ ] No agrupar productos iguales  en ventana de facturacion
+- [ ] Pagina de PErsonalizacion : agregar combos sugeridos en funcion de cumple productos
+- [ ] Clasificacion de promociones para visibilidad en pagina principal de factura
+- [ ] editable +505 de membresia 
+- [ ] banner de venta de membresia
+- [ ] ELiminar registro de membresia, imprimir qr para formulario  con nro pedido 
+- [ ] Puntos Anteriores no es afectado por la factura en curso
+- [ ] Enesta compra acumularia XX puntos / Puntos canjeados
+- [ ] Cambiar Efectivo a Efectivo Recibido 
+- [ ] Pendiente / Cambio*
 
 
-Lista de club no visible 
-solo mostrar resultado de busqueda de lista de miembros
+- [ ] *****Inline de nombre + inline de membresia , opcion de quitar eleccion con un X   CLub  o cedula 
+- [ ] QR para ingreso de foto de membresia o cedula 
 
 
-Foto de factura registro con sello de caja para detectar CAJA / CENTRAL PRODICUTOS LEIDOS FOTO
+- [ ] Lista de club no visible 
+- [ ] solo mostrar resultado de busqueda de lista de miembros
 
-ALigeramiento con Foto  , aligeramiento inverso contabilidad 
+
+- [ ] Foto de factura registro con sello de caja para detectar CAJA / CENTRAL PRODICUTOS LEIDOS FOTO
+
+- [ ] ALigeramiento con Foto  , aligeramiento inverso contabilidad 
