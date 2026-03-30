@@ -1,10 +1,10 @@
 - [ ] Compras = Pagos de Caja
 - [ ] boton nuevo pedido grane
 
-- [ ] extras sugeridos + boton otros
+- [x] extras sugeridos + boton otros
 - [ ] cambio de receta mistrar cantidad
-- [ ] Como funcionar cambios y quitar isnumos de rectas
-- [ ] selecciona tamano por defecto normal / pequeno
+- [ ] Por DIscutir: Como funcionar cambios y quitar isnumos de rectas
+- [x] selecciona tamano por defecto normal / pequeno
 - [ ] Boton de copiar producto configurado
 - [ ] No agrupar productos iguales  en ventana de facturacion
 - [ ] Pagina de PErsonalizacion : agregar combos sugeridos en funcion de cumple productos
