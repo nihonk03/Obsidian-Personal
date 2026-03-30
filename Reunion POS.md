@@ -1,5 +1,6 @@
 Compras = Pagos de Caja
 boton nuevo pedido grane
+
 extras sugeridos + boton otros
 cambio de receta mistrar cantidad
 Como funcionar cambios y quitar isnumos de rectas
