@@ -9,3 +9,10 @@ kmolly220@gmail.com
 https://www.opcionempleo.com.ni/
 kmolly220@gmail.com
 KattyColeman0003
+
+https://www.tecoloco.com.ni/
+kmolly220@gmail.com
+KattyColeman0003
+
+https://www.encuentra24.com/nicaragua-es/empleos
+kmolly220@gmail.com
