@@ -16,9 +16,9 @@
 	017Mv20 a 017Mv22 Fresona 134
 	017Mv21d a 017Mv23d Fresona 149
 
-220Gv5 a 220Gv7 Gigantona 149
-220Mv4 a 220Mv6 Gigantona 134
-220Mv4d a 220Mv6d Gigantona 149
+	220Gv5 a 220Gv7 Gigantona 149
+	220Mv4 a 220Mv6 Gigantona 134
+	220Mv4d a 220Mv6d Gigantona 149
 
 
 222Gv4 a 222Gv6 Guasacate 149
