@@ -8,13 +8,13 @@
 	119Mv21 a 119Mv23 El Tuani 134
 	119Mv22d a 119Mv24d El Tuani 149
 
-130Gv21 a 130Gv23 Fresa Passion 149
-130Mv21 a 130Mv23 Fresa Passion 134
-130Mv22d a 130Mv24d Fresa Passion 149
+	130Gv21 a 130Gv23 Fresa Passion 149
+	130Mv21 a 130Mv23 Fresa Passion 134
+	130Mv22d a 130Mv24d Fresa Passion 149
 
-017Gv21 a 017Gv23 Fresona 149
-017Mv20 a 017Mv22 Fresona 134
-017Mv21d a 017Mv23d Fresona 149
+	017Gv21 a 017Gv23 Fresona 149
+	017Mv20 a 017Mv22 Fresona 134
+	017Mv21d a 017Mv23d Fresona 149
 
 220Gv5 a 220Gv7 Gigantona 149
 220Mv4 a 220Mv6 Gigantona 134
