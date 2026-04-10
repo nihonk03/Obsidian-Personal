@@ -4,9 +4,9 @@
 	87Mv22 a 87Mv24 Diacachimba 134
 	87Mv23d a 87Mv25d Diacachimba 149
 
-119Gv22 a 119Gv24 El Tuani 149
-119Mv21 a 119Mv23 El Tuani 134
-119Mv22d a 119Mv24d El Tuani 149
+	119Gv22 a 119Gv24 El Tuani 149
+	119Mv21 a 119Mv23 El Tuani 134
+	119Mv22d a 119Mv24d El Tuani 149
 
 130Gv21 a 130Gv23 Fresa Passion 149
 130Mv21 a 130Mv23 Fresa Passion 134
