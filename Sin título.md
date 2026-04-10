@@ -1,8 +1,8 @@
 **premium
 
-87Gv23 a 87Gv25 Diacachimba 149
-87Mv22 a 87Mv24 Diacachimba 134
-87Mv23d a 87Mv25d Diacachimba 149
+	87Gv23 a 87Gv25 Diacachimba 149
+	87Mv22 a 87Mv24 Diacachimba 134
+	87Mv23d a 87Mv25d Diacachimba 149
 
 119Gv22 a 119Gv24 El Tuani 149
 119Mv21 a 119Mv23 El Tuani 134
