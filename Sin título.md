@@ -74,3 +74,56 @@ Saludavles
 
 Especiales
 
+	217Gv5 a 217Gv6 Cipote 130
+	217Mv4 a 217Mv5 Cipote 115
+	217Mv4d a 217Mv5d Cipote 129
+
+	22Gv24 a 22Gv25 Dinamita 130
+	22Mv24 a 22Mv25 Dinamita 115
+	22Mv25d a 22Mv26d Dinamita 129
+
+	204Gv9 a 204Gv10 El Chele 130
+	204Mv9 a 204Mv10 El Chele 115
+	204Mv9d a 204Mv10d El Chele 129
+
+	216Gv4 a 216Gv5 Las Peñitas 130
+	216Mv3 a 216Mv4 Las Peñitas 115
+	216Mv3d a 216Mv4d Las Peñitas 129
+
+	28Gv23 a 28Gv24 Leon 130
+	28Mv22 a 28Mv23 Leon 115
+	28Mv23d a 28Mv24d Leon 129
+
+	205Gv9 a 205Gv10 Nicoya 130
+	205Mv9 a 205Mv10 Nicoya 115
+	205Mv9d a 205Mv10d Nicoya 129
+
+claiscos
+
+53Gv21 a 53Gv22 Caribeño 114
+53Mv20 a 53Mv21 Caribeño 99
+53Mv21d a 53Mv22d Caribeño 109
+
+203Gv9 a 203Gv10 Chavalo 114
+203Mv9 a 203Mv10 Chavalo 99
+203Mv9d a 203Mv10d Chavalo 109
+
+15Gv21 a 15Gv22 Curioso 114
+15Mv20 a 15Mv21 Curioso 99
+15Mv21d a 15Mv22d Curioso 109
+
+27Gv21 a 27Gv22 Guardabarranco 114
+27Mv20 a 27Mv21 Guardabarranco 99
+27Mv21d a 27Mv22d Guardabarranco 109
+
+114Gv21 a 114Gv22 Piña Colada 114
+114Mv20 a 114Mv21 Piña Colada 99
+114Mv21d a 114Mv22d Piña Colada 109
+
+24Gv23 a 24Gv24 Poneloya 114
+24Mv22 a 24Mv23 Poneloya 99
+24Mv23d a 24Mv24d Poneloya 109
+
+16Gv22 a 16Gv23 Tropical 114
+16Mv21 a 16Mv22 Tropical 99
+16Mv22d a 16Mv23d Tropical 109
