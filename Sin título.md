@@ -53,3 +53,24 @@
 	110Mv22 a 110Mv24 Triple Berry 134
 	110Mv23d a 110Mv25d Triple Berry 149
 
+Saludavles
+
+
+	218Gv4 a 218Gv5 Catarina 130
+	218Mv3 a 218Mv4 Catarina 115
+	218Mv3d a 218Mv4d Catarina 129
+
+	20Gv20 a 20Gv21 Detox 130
+	20Mv20 a 20Mv21 Detox 115
+	20Mv21d a 20Mv22d Detox 129
+
+	219Gv3 a 219Gv4 El Fit 130
+	219Mv3 a 219Mv4 El Fit 115
+	219Mv3d a 219Mv4d El Fit 129
+
+	109Gv19 a 109Gv20 Energy Green 130
+	109Mv19 a 109Mv20 Energy Green 115
+	109Mv20d a 109Mv21d Energy Green 129
+
+Especiales
+
