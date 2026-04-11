@@ -1,13 +1,13 @@
-- [x] Leon
-- [x] Matagalpa
-- [x] Esteli
-- [x] Altamira
-- [x] Villa Fontana
+- [ ] Leon
+- [ ] Matagalpa
+- [ ] Esteli
+- [ ] Altamira
+- [ ] Villa Fontana
 - [x] Granada
-- [x] Las Colinas
+- [ ] Las Colinas
 - [ ] Masaya
-- [x] Natura
-- [x] Las Brisas
-- [x] Rivas
-- [x] Unica
-- [x] Ticuantepe
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
