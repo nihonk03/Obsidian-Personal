@@ -5,7 +5,7 @@
 - [ ] Villa Fontana
 - [x] Granada
 - [ ] Las Colinas
-- [ ] Masaya
+- [x] Masaya
 - [ ] Natura
 - [ ] Las Brisas
 - [ ] Rivas
