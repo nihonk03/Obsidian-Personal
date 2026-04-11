@@ -49,6 +49,7 @@
 	221Mv3 a 221Mv5 Tisey 134
 	221Mv3d a 221Mv5d Tisey 149
 
-110Gv24 a 110Gv26 Triple Berry 149
-110Mv22 a 110Mv24 Triple Berry 134
-110Mv23d a 110Mv25d Triple Berry 149
+	110Gv24 a 110Gv26 Triple Berry 149
+	110Mv22 a 110Mv24 Triple Berry 134
+	110Mv23d a 110Mv25d Triple Berry 149
+
