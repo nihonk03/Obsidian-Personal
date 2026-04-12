@@ -1,10 +1,10 @@
 - [x] Leon
 - [ ] Matagalpa
 - [ ] Esteli
-- [ ] Altamira
-- [ ] Villa Fontana
+- [x] Altamira
+- [x] Villa Fontana
 - [x] Granada
-- [ ] Las Colinas
+- [x] Las Colinas
 - [x] Masaya
 - [ ] Natura
 - [ ] Las Brisas
