@@ -1,3 +1,4 @@
+Sistema nuevas prociones
 - [x] Leon
 - [ ] Matagalpa
 - [ ] Esteli
@@ -11,3 +12,20 @@
 - [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
+- [x] Calli
+
+Wiresock
+- [ ] Leon
+- [ ] Matagalpa
+- [ ] Esteli
+- [ ] Altamira
+- [ ] Villa Fontana
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
+- [ ] Calli
