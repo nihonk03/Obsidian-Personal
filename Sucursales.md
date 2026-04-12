@@ -1,4 +1,4 @@
-- [ ] Leon
+- [x] Leon
 - [ ] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
