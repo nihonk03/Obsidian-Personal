@@ -19,7 +19,7 @@ Wiresock
 - [ ] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
-- [ ] Villa Fontana
+- [x] Villa Fontana
 - [ ] Granada
 - [ ] Las Colinas
 - [ ] Masaya
