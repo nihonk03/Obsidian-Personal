@@ -17,10 +17,10 @@ Sistema nuevas prociones
 Wiresock
 - [x] Leon
 - [x] Matagalpa
-- [ ] Esteli
-- [ ] Altamira
-- [ ] Villa Fontana
-- [ ] Granada
+- [x] Esteli
+- [x] Altamira
+- [x] Villa Fontana
+- [x] Granada
 - [ ] Las Colinas
 - [ ] Masaya
 - [ ] Natura
