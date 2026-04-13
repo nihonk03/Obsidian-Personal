@@ -15,11 +15,11 @@ Sistema nuevas prociones
 - [x] Calli
 
 Wiresock
-- [ ] Leon
+- [x] Leon
 - [ ] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
-- [x] Villa Fontana
+- [ ] Villa Fontana
 - [ ] Granada
 - [ ] Las Colinas
 - [ ] Masaya
