@@ -16,7 +16,7 @@ Sistema nuevas prociones
 
 Wiresock
 - [x] Leon
-- [ ] Matagalpa
+- [x] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
 - [ ] Villa Fontana
