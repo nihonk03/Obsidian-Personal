@@ -7,3 +7,5 @@ pRotocolo de presentacion debe de ser  obligatorio
 
 no se asciende a lider 
 
+  
+
