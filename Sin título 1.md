@@ -7,5 +7,11 @@ pRotocolo de presentacion debe de ser  obligatorio
 
 no se asciende a lider 
 
-  
 
+	F028
+	F032
+	F007
+	F003
+	F002
+	F001
+F015
