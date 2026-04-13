@@ -7,4 +7,3 @@ pRotocolo de presentacion debe de ser  obligatorio
 
 no se asciende a lider 
 
-Liso, ahora agrega todo el detalle del segmento Nuevo Sistema en la guia de ayuda de accessantiguo_visor_recetas.php lo ams detallado posible
