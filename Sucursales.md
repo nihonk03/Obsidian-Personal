@@ -28,4 +28,4 @@ Wiresock
 - [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
-- [ ] Calli
+- [x] Calli
