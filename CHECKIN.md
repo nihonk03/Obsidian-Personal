@@ -35,3 +35,18 @@ Elige tu punto
 Arma tu batido
 Recargate de energia
 
+
+
+Foto de 3 años
+31 dic 2028
+Facturacion 8MM
+CUantifiacable:
+250 colaboradores
+expansion  Salvador
+40 tiendas 
+sistema ERP automatizado 
+proceso de preparacion 2min
+ALmacen  de produccion stock  8 meses producto
+Linea de produccin automatizada lavado, despulpado  porcionado
+
+
