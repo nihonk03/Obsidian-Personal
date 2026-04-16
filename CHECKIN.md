@@ -53,5 +53,10 @@ Linea de produccin automatizada lavado, despulpado  porcionado
 31 dic 2026
 Facturacion 2.8MM
 
+para fines de 2026 tendremos un equipo consolidado enfocado en planes estrategoicos con miras a la expansion del  2027 
+perfil de puesto de todo el equipo de ldierzgo con kpis claros , dimensionamiento de equipo
+Estraegias claras y presupuesto del 2027
+Cultura firme con respecto a la vida saudable
+
 
 
