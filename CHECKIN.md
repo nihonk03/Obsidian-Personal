@@ -64,4 +64,9 @@ Propridad del ano, rocas para los proxmo 90 dias
 - SIeno de tienda modelo apra sucursales 
 - plan de clima laboral
 
+Lista de asuntos
+Diseno de tienda proceso y layout
+Manual de oepraciones robusto
+Estudio de palnificacion de distribucion
+
 
