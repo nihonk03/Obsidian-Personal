@@ -21,3 +21,11 @@ Energía natural y sin culpa | Rapidez en el servicio | Sentirse parte de una co
 
 Dolor 
 Filas largas o tiempos de espera elevados | Productos que no estén disponibles | Opciones que no se adapten a su régimen (sin azúcar, alta proteína) | Que el producto no sea 100% natural como se promete
+
+
+1. Velocidad sin sacfiicar calidad : listo en menos de 3 min 100% natural
+2. Precio accesible sin verse barato: el lujo saludable al alcance de todos
+3. Personalizacion express : tu abtido, tu cuerpo tu objetivo
+4. Convivencia radical: Donde estas tu estamos nosotros
+5. Igual de rico siempre en cualqueir sucursal
+6. No es un batido es una comunidad
