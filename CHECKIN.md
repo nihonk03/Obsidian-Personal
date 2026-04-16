@@ -60,6 +60,8 @@ Cultura firme con respecto a la vida saudable
 
 
 Propridad del ano, rocas para los proxmo 90 dias
-- 
+- DIseno de tienda modelo para escuela
+- SIeno de tienda modelo apra sucursales 
+- plan de clima laboral
 
 
