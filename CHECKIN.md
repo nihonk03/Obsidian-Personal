@@ -50,6 +50,8 @@ ALmacen  de produccion stock  8 meses producto
 Linea de produccin automatizada lavado, despulpado  porcionado
 
 
-Tomando decisiones a gran escala 
+31 dic 2026
+Facturacion 2.8MM
+
 
 
