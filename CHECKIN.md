@@ -1,0 +1,5 @@
+- noticia personal; viaje con familia por semana santa
+- noticia profecionsl: conslusion del proyecto pitaya calli
+- que esta funcionando: discusion y solucion de problemas urgentes en las reuniones
+- herramientas para definir actividades, subactividades 
+- Visina mas robusta y realista
