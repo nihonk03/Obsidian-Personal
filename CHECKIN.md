@@ -29,3 +29,8 @@ Filas largas o tiempos de espera elevados | Productos que no estén disponibles 
 4. Convivencia radical: Donde estas tu estamos nosotros
 5. Igual de rico siempre en cualqueir sucursal
 6. No es un batido es una comunidad
+
+
+Elige tu punto
+Arma tu batido
+Recargate de energia
