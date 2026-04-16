@@ -50,3 +50,6 @@ ALmacen  de produccion stock  8 meses producto
 Linea de produccin automatizada lavado, despulpado  porcionado
 
 
+Tomando decisiones a gran escala 
+
+
