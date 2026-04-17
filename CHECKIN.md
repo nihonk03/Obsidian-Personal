@@ -69,4 +69,14 @@ Diseno de tienda proceso y layout
 Manual de oepraciones robusto
 Estudio de palnificacion de distribucion
 
+1. Que estas pensando?
+mucho trabajo por delante , ordenar  y lo muucho que falta para que se cumpan las metas en personas
+2. QUe estas sintiendo?
+que nos flata espacio par ainnovar optimizar replantear cosas
+3. que nos lelvmao de la sesion
+ideas claras de la meta y lo que debemos de hacer para logrrlo
+4. se cu,lieron las expectativas
+si
+5. Claificacion
+7
 
