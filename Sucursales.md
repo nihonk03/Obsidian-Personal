@@ -7,9 +7,9 @@ ANulaciones
 - [ ] Granada
 - [ ] Las Colinas
 - [ ] Masaya
-- [ ] Natura
+- [x] Natura
 - [ ] Las Brisas
 - [ ] Rivas
-- [ ] Unica
+- [x] Unica
 - [ ] Ticuantepe
 - [ ] Calli
