@@ -5,7 +5,7 @@ ANulaciones
 - [ ] Altamira
 - [x] Villa Fontana
 - [x] Granada
-- [ ] Las Colinas
+- [x] Las Colinas
 - [ ] Masaya
 - [ ] Natura
 - [x] Las Brisas
