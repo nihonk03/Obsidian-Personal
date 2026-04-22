@@ -1,6 +1,6 @@
 ANulaciones
-- [ ] Leon
-- [ ] Matagalpa
+- [x] Leon
+- [x] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
 - [x] Villa Fontana
@@ -8,7 +8,7 @@ ANulaciones
 - [ ] Las Colinas
 - [ ] Masaya
 - [x] Natura
-- [ ] Las Brisas
+- [x] Las Brisas
 - [ ] Rivas
 - [x] Unica
 - [ ] Ticuantepe
