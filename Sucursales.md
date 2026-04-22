@@ -1,15 +1,15 @@
 ANulaciones
 - [x] Leon
-- [x] Matagalpa
-- [x] Esteli
-- [x] Altamira
-- [x] Villa Fontana
+- [ ] Matagalpa
+- [ ] Esteli
+- [ ] Altamira
+- [ ] Villa Fontana
 - [ ] Granada
-- [x] Las Colinas
+- [ ] Las Colinas
 - [ ] Masaya
-- [x] Natura
-- [x] Las Brisas
-- [x] Rivas
-- [x] Unica
-- [x] Ticuantepe
-- [x] Calli
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
+- [ ] Calli
