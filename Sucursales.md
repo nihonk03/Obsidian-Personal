@@ -1,31 +1,15 @@
-Sistema nuevas prociones
-- [x] Leon
+ANulaciones
+- [ ] Leon
 - [ ] Matagalpa
 - [ ] Esteli
-- [x] Altamira
+- [ ] Altamira
 - [x] Villa Fontana
-- [x] Granada
-- [x] Las Colinas
-- [x] Masaya
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
 - [ ] Natura
 - [ ] Las Brisas
 - [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
-- [x] Calli
-
-Wiresock
-- [x] Leon
-- [x] Matagalpa
-- [x] Esteli
-- [x] Altamira
-- [x] Villa Fontana
-- [x] Granada
-- [x] Las Colinas
-- [x] Masaya
-- [ ] Natura
-- [ ] Las Brisas
-- [ ] Rivas
-- [ ] Unica
-- [ ] Ticuantepe
-- [x] Calli
+- [ ] Calli
