@@ -1,15 +1,17 @@
-ANulaciones
+ventas  21 / 26
 - [x] Leon
-- [x] Matagalpa
+- [ ] Matagalpa
 - [ ] Esteli
-- [x] Altamira
-- [x] Villa Fontana
-- [x] Granada
-- [x] Las Colinas
-- [x] Masaya
-- [x] Natura
-- [x] Las Brisas
-- [x] Rivas
+- [ ] Altamira
+- [ ] Villa Fontana
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
 - [ ] Unica
-- [x] Ticuantepe
-- [x] Calli
+- [ ] Ticuantepe
+- [ ] Calli
+
+Anulaciones
