@@ -1,5 +1,5 @@
-- [ ] Inventario
-- [ ] Ajustes
-- [ ] Compras    -> Igresos
-- [ ] preingresos  -> ingresos
-- [ ] Mermas
+- [ ] Inventario  Inventario Cotizacion
+- [ ] Ajustes  AjustesInventario
+- [ ] Compras    -> Igresos    Compras 
+- [ ] preingresos  -> ingresos  PreIngresoPitaya   SubPreIngresosPitaya
+- [ ] Mermas   Merma Cotizacion
