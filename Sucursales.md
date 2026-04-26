@@ -1,9 +1,9 @@
 ventas  21 / 26
 - [x] Leon
-- [ ] Matagalpa
-- [ ] Esteli
-- [ ] Altamira
-- [ ] Villa Fontana
+- [x] Matagalpa
+- [x] Esteli
+- [x] Altamira
+- [x] Villa Fontana
 - [ ] Granada
 - [ ] Las Colinas
 - [ ] Masaya
@@ -13,5 +13,3 @@ ventas  21 / 26
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
-
-Anulaciones
