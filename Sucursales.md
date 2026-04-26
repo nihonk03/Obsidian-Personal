@@ -12,4 +12,4 @@ ventas  21 / 26
 - [x] Rivas
 - [ ] Unica
 - [x] Ticuantepe
-- [ ] Calli
+- [x] Calli
