@@ -7,9 +7,9 @@ ventas  21 / 26
 - [x] Granada
 - [x] Las Colinas
 - [x] Masaya
-- [ ] Natura
-- [ ] Las Brisas
-- [ ] Rivas
+- [x] Natura
+- [x] Las Brisas
+- [x] Rivas
 - [ ] Unica
-- [ ] Ticuantepe
+- [x] Ticuantepe
 - [ ] Calli
