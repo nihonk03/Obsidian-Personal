@@ -6,7 +6,7 @@ ventas  21 / 26
 - [x] Villa Fontana
 - [x] Granada
 - [x] Las Colinas
-- [ ] Masaya
+- [x] Masaya
 - [ ] Natura
 - [ ] Las Brisas
 - [ ] Rivas
