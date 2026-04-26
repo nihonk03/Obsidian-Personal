@@ -1,0 +1,5 @@
+- [ ] Inventario
+- [ ] Ajustes
+- [ ] Compras    -> Igresos
+- [ ] preingresos  -> ingresos
+- [ ] Mermas

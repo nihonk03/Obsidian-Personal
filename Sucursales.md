@@ -4,8 +4,8 @@ ventas  21 / 26
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana
-- [ ] Granada
-- [ ] Las Colinas
+- [x] Granada
+- [x] Las Colinas
 - [ ] Masaya
 - [ ] Natura
 - [ ] Las Brisas
