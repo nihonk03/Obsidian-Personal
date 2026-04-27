@@ -19,12 +19,12 @@ combos + kardex datos
 - [ ] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
-- [ ] Villa Fontana
+- [x] Villa Fontana  pendiente kardex
 - [ ] Granada
 - [ ] Las Colinas
 - [ ] Masaya
 - [ ] Natura
-- [ ] Las Brisas
+- [x] Las Brisas
 - [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
