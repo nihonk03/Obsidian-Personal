@@ -1,6 +1,0 @@
-- [ ] Inventario  Inventario Cotizacion
-- [ ] Ajustes  AjustesInventario
-- [ ] Compras    -> Igresos    Compras 
-- [ ] preingresos  -> ingresos  PreIngresoPitaya   
-- [ ] SubPreIngresosPitaya
-- [ ] Mermas   Merma Cotizacion+ 6f 
