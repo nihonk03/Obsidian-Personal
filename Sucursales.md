@@ -2,7 +2,7 @@
 combos + kardex datos
 - [x] Leon
 - [x] Matagalpa
-- [ ] Esteli
+- [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana  pendiente kardex
 - [x] Granada
@@ -10,7 +10,7 @@ combos + kardex datos
 - [x] Masaya
 - [x] Natura
 - [x] Las Brisas
-- [ ] Rivas
+- [x] Rivas
 - [x] Unica
 - [x] Ticuantepe
 - [x] Calli
