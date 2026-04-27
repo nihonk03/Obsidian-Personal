@@ -1,18 +1,3 @@
-ventas  21 / 26
-- [x] Leon
-- [x] Matagalpa
-- [x] Esteli
-- [x] Altamira
-- [x] Villa Fontana
-- [x] Granada
-- [x] Las Colinas
-- [x] Masaya
-- [x] Natura
-- [x] Las Brisas
-- [x] Rivas
-- [ ] Unica
-- [x] Ticuantepe
-- [x] Calli
 
 combos + kardex datos
 - [ ] Leon
@@ -26,6 +11,6 @@ combos + kardex datos
 - [ ] Natura
 - [x] Las Brisas
 - [ ] Rivas
-- [ ] Unica
+- [x] Unica
 - [ ] Ticuantepe
 - [ ] Calli
