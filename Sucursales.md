@@ -3,10 +3,10 @@ combos + kardex datos
 - [ ] Leon
 - [ ] Matagalpa
 - [ ] Esteli
-- [ ] Altamira
+- [x] Altamira
 - [x] Villa Fontana  pendiente kardex
 - [ ] Granada
-- [ ] Las Colinas
+- [x] Las Colinas
 - [ ] Masaya
 - [ ] Natura
 - [x] Las Brisas
