@@ -13,3 +13,19 @@ ventas  21 / 26
 - [ ] Unica
 - [x] Ticuantepe
 - [x] Calli
+
+combos + kardex datos
+- [ ] Leon
+- [ ] Matagalpa
+- [ ] Esteli
+- [ ] Altamira
+- [ ] Villa Fontana
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
+- [ ] Calli
