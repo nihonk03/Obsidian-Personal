@@ -5,7 +5,7 @@ combos + kardex datos
 - [ ] Esteli
 - [x] Altamira
 - [x] Villa Fontana  pendiente kardex
-- [ ] Granada
+- [x] Granada
 - [x] Las Colinas
 - [x] Masaya
 - [x] Natura
