@@ -12,5 +12,5 @@ combos + kardex datos
 - [x] Las Brisas
 - [ ] Rivas
 - [x] Unica
-- [ ] Ticuantepe
+- [x] Ticuantepe
 - [x] Calli
