@@ -14,3 +14,6 @@ combos + kardex datos
 - [x] Unica
 - [x] Ticuantepe
 - [x] Calli
+
+
+Ahora si, actualiza las guias de ayuda de los header de https://erp.batidospitaya.com/modulos/productos/accessantiguo_visor_recetas.php y el documento erp.batidospitaya.com\modulos\productos\guia_reportes_consumo.md
