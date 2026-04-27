@@ -1,7 +1,7 @@
 
 combos + kardex datos
 - [x] Leon
-- [ ] Matagalpa
+- [x] Matagalpa
 - [ ] Esteli
 - [x] Altamira
 - [x] Villa Fontana  pendiente kardex
