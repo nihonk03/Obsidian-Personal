@@ -3,7 +3,7 @@ Validacion Ia anulacion
 - [ ] Leon
 - [ ] Matagalpa
 - [ ] Esteli
-- [ ] Altamira
+- [x] Altamira
 - [ ] Villa Fontana  pendiente kardex
 - [ ] Granada
 - [ ] Las Colinas
