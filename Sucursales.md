@@ -4,14 +4,14 @@ Validacion Ia anulacion
 - [ ] Matagalpa
 - [ ] Esteli
 - [x] Altamira
-- [ ] Villa Fontana  pendiente kardex
-- [ ] Granada
-- [ ] Las Colinas
+- [x] Villa Fontana 
+- [x] Granada
+- [x] Las Colinas
 - [ ] Masaya
-- [ ] Natura
+- [x] Natura
 - [ ] Las Brisas
-- [ ] Rivas
+- [x] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
-- [ ] Calli
+- [x] Calli
 
