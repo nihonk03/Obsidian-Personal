@@ -1,0 +1,1 @@
+jede inmeditato lista completa 
