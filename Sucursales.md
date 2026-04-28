@@ -12,6 +12,6 @@ Validacion Ia anulacion
 - [ ] Las Brisas
 - [x] Rivas
 - [ ] Unica
-- [ ] Ticuantepe
+- [x] Ticuantepe
 - [x] Calli
 
