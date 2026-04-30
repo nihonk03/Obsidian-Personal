@@ -6,3 +6,6 @@ agregar nida de despacho calulada
 agregar total inventrario(sin unidades granel)
 Stock Mínimo traducir en apquetes 
 ecabezados y estructura segund excel
+
+
+revisar cierre 21 altamira
