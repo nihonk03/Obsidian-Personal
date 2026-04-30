@@ -38,3 +38,5 @@
 
 - TV
 - Solo sillas y meas inicio en area 
+- Personal 8 
+- Fecha apeertura 23/Mayo
