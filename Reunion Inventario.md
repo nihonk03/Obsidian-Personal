@@ -9,3 +9,5 @@ ecabezados y estructura segund excel
 
 
 revisar cierre 21 altamira
+
+corregir faltante de inventario
