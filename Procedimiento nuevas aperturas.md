@@ -35,3 +35,6 @@
 | DIa 4 APertura                                         |                                   |                                              |                                                                                        |                                                              |                                                                                                              |
 |                                                        |                                   |                                              | MOntaje                                                                                | OPeracion                                                    |                                                                                                              |
 
+
+- TV
+- Solo sillas y meas inicio en area 
