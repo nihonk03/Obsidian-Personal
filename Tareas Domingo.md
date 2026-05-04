@@ -1,6 +1,6 @@
 
 
-plano de leon compelto
+
 preliinar de plano de oficinas
 
 calculo de inventario corregido de joshua
