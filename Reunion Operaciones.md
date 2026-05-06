@@ -1,10 +1,5 @@
 Tardanzas RRHH
 * Crear reporte global
-Horas Extras 
-- Sevilla 
-- No Alegria
-- Si Katherine
-
 
 |                             | Sevilla          | Alegria          | Katherine         | RRHH       | Marketing | Daniela |
 | --------------------------- | ---------------- | ---------------- | ----------------- | ---------- | --------- | ------- |
