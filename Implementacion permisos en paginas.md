@@ -4,9 +4,6 @@ vamos a implementar la estructura de permisos como en erp.batidospitaya.com\modu
   
 revisa ben la estructura de las tablas donde se registra los permisos  
   
--- u839374897_erp.tools_erp definition
-
-  
 
 CREATE TABLE `tools_erp` (
 
@@ -46,8 +43,6 @@ KEY `idx_tipo_componente` (`tipo_componente`,`activo`)
 
 ) ENGINE=InnoDB AUTO_INCREMENT=123 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;  
   
--- u839374897_erp.permisos_tools_erp definition
-
   
 
 CREATE TABLE `permisos_tools_erp` (
@@ -72,8 +67,6 @@ CONSTRAINT `fk_accion_tool_erp` FOREIGN KEY (`accion_tool_erp_id`) REFERENCES `a
 
 ) ENGINE=InnoDB AUTO_INCREMENT=11580 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;  
   
--- u839374897_erp.acciones_tools_erp definition
-
   
 
 CREATE TABLE `acciones_tools_erp` (
