@@ -28,4 +28,3 @@ Tardanzas RRHH
 
 Centro de descarga RFM habilitar 
 
-revisa que archivos en la raiz erp.batidospitaya.com\modulos\lideres son endpoint ajax para moverlos a erp.batidospitaya.com\modulos\lideres\ajax, una vez que enlistes cuales son ajax revisa si otros archivos dentro de erp.batidospitaya.com\modulos lo llaman tambien
