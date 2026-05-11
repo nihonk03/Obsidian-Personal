@@ -28,14 +28,3 @@ Tardanzas RRHH
 
 Centro de descarga RFM habilitar 
 
-Mostrar
-
-25
-
-registros
-
-  
-  
-muevelo al final de la tabla  
-  
-modifica los modales a premium como esta en
