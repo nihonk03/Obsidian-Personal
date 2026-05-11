@@ -41,4 +41,3 @@
 - Personal 8 
 - Fecha apeertura 23/Mayo
 Mover congeladores antes del 19
-82657431
