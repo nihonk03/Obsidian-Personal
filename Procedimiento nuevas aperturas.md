@@ -40,3 +40,4 @@
 - Solo sillas y meas inicio en area 
 - Personal 8 
 - Fecha apeertura 23/Mayo
+Mover congeladores antes del 19
