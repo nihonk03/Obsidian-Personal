@@ -43,4 +43,4 @@
 Mover congeladores antes del 19
 
 
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDTHk5sIyYuPG+7LvVOqGinoXLhpkn7Jy3klavG9crG8 sucursal_villafontana
+ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -o ServerAliveCountMax=3 -R 0.0.0.0:9554:192.168.1.100:554 root@198.211.97.243 -N
