@@ -15,3 +15,4 @@ Worker dvr
 - [ ] Ticuantepe
 - [ ] Calli
 
+TestCamaraPrincipal(C:\Users\Pitaya\Desktop\Sistema)
