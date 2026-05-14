@@ -1,9 +1,3 @@
-Stop-ScheduledTask -TaskName "TunelDVR_Granada"
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOqcZbUx82ab13HR7+JrCZRWbeuo4GwM0k0D8KQSFXSX sucursal_leon
 
-Start-ScheduledTask -TaskName "TunelDVR_Granada"
-
-python3 /tmp/patch_snapshot.py && systemctl restart hikvision-snapshot
-
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDhtesYyu+6SctsqEDKJNa8PcDwuC3hqBqToHt5cbXX/ sucursal_lascolinas
-
-ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=30 -o ServerAliveCountMax=3 -R 0.0.0.0:9581:192.168.1.110:554 root@198.211.97.243 -N
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOqcZbUx82ab13HR7+JrCZRWbeuo4GwM0k0D8KQSFXSX sucursal_leon" >> ~/.ssh/authorized_keys
