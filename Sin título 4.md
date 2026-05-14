@@ -1,3 +1,1 @@
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOqcZbUx82ab13HR7+JrCZRWbeuo4GwM0k0D8KQSFXSX sucursal_leon
-
-echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOqcZbUx82ab13HR7+JrCZRWbeuo4GwM0k0D8KQSFXSX sucursal_leon" >> ~/.ssh/authorized_keys
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICtI3B+BokQBlIBYsZPxgDGCSXJ6IZiMa6CyABgfROcx sucursal_matagalpa" >> ~/.ssh/authorized_keys
