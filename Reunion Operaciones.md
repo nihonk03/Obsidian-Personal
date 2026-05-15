@@ -1,7 +1,7 @@
 Tardanzas RRHH
 * Crear reporte global
 
-|                             | Sevilla          | Alegria          | Katherine         | RRHH       | Marketing | Daniela |                                                                         |
+|                             | Daniela          | Alegria          | Katherine         | RRHH       | Marketing | Daniela |                                                                         |
 | --------------------------- | ---------------- | ---------------- | ----------------- | ---------- | --------- | ------- | ----------------------------------------------------------------------- |
 | Tardanzas                   | Vita             | VIsta            | Vista             | AProbacion |           | No      | https://erp.batidospitaya.com/modulos/operaciones/tardanzas_manual.php? |
 | Haoras Extras               | Vista            | VIsta            | Aprobacion        | Vista      |           | No      |                                                                         |
