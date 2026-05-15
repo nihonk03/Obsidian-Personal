@@ -15,5 +15,3 @@ Worker dvr
 - [ ] Ticuantepe
 - [ ] Calli
 
-373185883
-560
