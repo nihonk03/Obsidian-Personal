@@ -1,1 +1,0 @@
-echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICtI3B+BokQBlIBYsZPxgDGCSXJ6IZiMa6CyABgfROcx sucursal_matagalpa" >> ~/.ssh/authorized_keys

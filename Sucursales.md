@@ -4,9 +4,9 @@ Worker dvr
 - [ ] Matagalpa
 - [ ] Esteli
 - [ ] Altamira
-- [x] Villa Fontana 
+- [ ] Villa Fontana 
 - [ ] Granada
-- [ ] Las Colinas
+- [x] Las Colinas
 - [ ] Masaya
 - [ ] Natura
 - [ ] Las Brisas
@@ -15,4 +15,3 @@ Worker dvr
 - [ ] Ticuantepe
 - [ ] Calli
 
-TestCamaraPrincipal(C:\Users\Pitaya\Desktop\Sistema)
