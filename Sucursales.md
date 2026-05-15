@@ -1,17 +1,19 @@
 
 Worker dvr 
-- [ ] Leon
+- [x] Leon
 - [x] Matagalpa
 - [x] Esteli
 - [ ] Altamira
-- [ ] Villa Fontana 
+- [x] Villa Fontana 
 - [ ] Granada
 - [x] Las Colinas
-- [ ] Masaya
+- [x] Masaya
 - [ ] Natura
-- [ ] Las Brisas
+- [x] Las Brisas
 - [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
 
+373185883
+560
