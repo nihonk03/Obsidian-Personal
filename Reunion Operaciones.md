@@ -28,48 +28,4 @@ Tardanzas RRHH
 
 Centro de descarga RFM habilitar 
 
-{
-
-"id_pp": 83,
-
-"nombre": "Melon 4oz",
-
-"unidad": null,
-
-"categoria_insumo": "B",
-
-"prom_consumo": 55.25,
-
-"desv_estandar": 11.5866,
-
-"cons_semanal": 66.8366,
-
-"ajuste_demanda": 0.2,
-
-"dias_ciclo": 7,
-
-"dias_desfase": 1,
-
-"dias_stock_min": 3,
-
-"cons_diario": 11.457708,
-
-"stock_minimo": 3.4373,
-
-"stock_maximo": 12.6035,
-
-"stock_max_final": 0.3504,
-
-"es_ajustado": true,
-
-"fecha_proximo_despacho": "2026-05-18",
-
-"dias_hasta_despacho": 2,
-
-"despacho_factor": 10,
-
-"despacho_nombre": "Melon paquete 20 unid",
-
-"despacho_unidad": "unid"
-
-},
+kevin2027.
