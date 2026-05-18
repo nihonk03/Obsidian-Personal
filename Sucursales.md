@@ -15,6 +15,5 @@ Worker dvr
 - [ ] Ticuantepe
 - [ ] Calli
 
-melon 
-55.25
-131.67   mango 255
+
+melon 131.67   mango -61.77  limon -158  leche coco 122.53
