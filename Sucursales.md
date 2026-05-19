@@ -5,7 +5,7 @@ Worker dvr
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana 
-- [ ] Granada
+- [x] Granada
 - [x] Las Colinas
 - [x] Masaya
 - [x] Natura
