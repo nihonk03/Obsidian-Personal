@@ -3,7 +3,7 @@ Worker dvr
 - [x] Leon
 - [x] Matagalpa
 - [x] Esteli
-- [ ] Altamira
+- [x] Altamira
 - [x] Villa Fontana 
 - [ ] Granada
 - [x] Las Colinas
