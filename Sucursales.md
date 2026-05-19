@@ -8,9 +8,9 @@ Worker dvr
 - [ ] Granada
 - [x] Las Colinas
 - [x] Masaya
-- [ ] Natura
+- [x] Natura
 - [x] Las Brisas
-- [ ] Rivas
+- [x] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
