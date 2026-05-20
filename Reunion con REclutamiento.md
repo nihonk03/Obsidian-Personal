@@ -1,5 +1,4 @@
 
-agregar plza temporal
 
 requisicion de personal "Puestos Adicionales"
 ----requisicion de personal "Plazas Nuevas"
