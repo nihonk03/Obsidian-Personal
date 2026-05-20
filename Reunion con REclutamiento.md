@@ -13,16 +13,3 @@ cotizacion inss o carta de no cotizante
 
 COlaboradores agregar fecha de vencimiento de CS
 
-
-
-Conserje
-
-Ejecutivo/a de Mercadeo
-
-Analista de Procesos y SIstema
-Coordinador de Infraestructura y Mantenimiento
-
-Lider de Centro de FOrmacion
-Lider de Tienda Rotativo
-
-Analista de Organizacion y Metodo
