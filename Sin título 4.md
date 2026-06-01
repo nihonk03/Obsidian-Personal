@@ -1,11 +1,8 @@
-104
-
-205Gv10
-
-205Mv10
-
-
-134660
+Impresora Villa Fontana
+Rotulo de Esteli
+Puntos de galletas en sistema
+Spotify
+Drive 
 
 
 
