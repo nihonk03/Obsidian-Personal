@@ -56,5 +56,5 @@ L010Gv4 a L010Gv5 Limonada con Sandia 114
 L010Mv4 a L010Mv5 Limonada con Sandia 99
 
 
-busca todas las paginas dentro de erp.batidospitaya.com\modulos donde se haya llamado a fab_button.css para que agregues el .js
+busca todas las paginas dentro de erp.batidospitaya.com\modulos donde se haya llamado a fab_button.css para que agregues el .js  con el ?v=<?php echo mt_rand(1, 10000); ?>
 
