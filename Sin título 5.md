@@ -60,3 +60,7 @@ enfoqeu de camara
 eliminar km de cierre de informe
 
 
+Liverar restriccicon para rh de registro de justificacion falta cuando haya marcacion, agregar mensaje de adevetencia que existe maracaiocn ese dia si/no
+
+Agregar a la suma de faltas reales =  faltas sistems - faltas jsutifaicadas   + Justifacaiones que tienen marcacion ese dia
+
