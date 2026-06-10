@@ -57,7 +57,6 @@ L010Mv4 a L010Mv5 Limonada con Sandia 99
 
 
 
-eliminar km de cierre de informe
 
 
 
