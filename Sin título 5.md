@@ -56,7 +56,9 @@ L010Gv4 a L010Gv5 Limonada con Sandia 114
 L010Mv4 a L010Mv5 Limonada con Sandia 99
 
 
-
+Informe semanal
+- boton de reembolos de facturas
+- historial de marcaciones
 
 
 
