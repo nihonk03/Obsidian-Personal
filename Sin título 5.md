@@ -8,6 +8,10 @@ Informe semanal
 - boton de reembolos de facturas
 - historial de marcaciones
 
+rrhh
+- qr de formulario digital directo sin pasar por registro desde cv
+- 
+
 
 
 
