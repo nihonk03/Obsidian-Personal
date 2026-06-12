@@ -10,7 +10,7 @@ Informe semanal
 
 rrhh
 - qr de formulario digital directo sin pasar por registro desde cv
-- 
+- boton omitir entrevista de jefe inmediato para pasar directo a postalnte seldciconado
 
 
 
