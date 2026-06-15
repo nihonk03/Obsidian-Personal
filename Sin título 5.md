@@ -5,7 +5,6 @@ Spotify distribuir cuenta de spotify
 
 
 Informe semanal
-- boton de reembolos de facturas
 - historial de marcaciones
 
 rrhh
