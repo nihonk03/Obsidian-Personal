@@ -21,3 +21,6 @@ Triple Berry EnTienda Mediano 110Mv24
 
 =(SiInm(EsNulo([codporcion]),VentasXTipoNoPorcionSemana([semana1],[CodIngrediente]),VentasXTipoPorcionSemana([semana1],[codporcion])))/[factor]
 
+unidadex: SiInm(EsNulo([SubReceta]![codporcion]),SiInm([DBIngredientes]![Unidad]="gr","oz",[DBIngredientes]![Unidad]),nombreproductocotiprocesadosolounidad([SubReceta]![codporcion]))
+unidadex: SiInm(EsNulo([SubReceta]![codporcion]),SiInm([DBIngredientes]![Unidad]="gr","oz",[DBIngredientes]![Unidad]),nombreproductocotiprocesadosolounidad([SubReceta]![codporcion]))
+
