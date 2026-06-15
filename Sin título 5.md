@@ -17,9 +17,7 @@ Triple Berry EnTienda Mediano 110Mv24
 
 
 
-(SiInm(EsNulo([codporcion]),StockCotizacionSinPorciones([CodIngrediente],numerosemana(Fecha()))+StockIngrediente([CodIngrediente],numerosemana(Fecha())),StockSinProcesar([codporcion],numerosemana(Fecha()))))/[factor]
+=-1*((SiInm(EsNulo([codporcion]),VentasXTipoNoPorcionSemana(numerosemana(Fecha()),[CodIngrediente]),VentasXTipoPorcionSemana(numerosemana(Fecha()),[codporcion])))/[factor])
 
-(SiInm(EsNulo([codporcion]),StockCotizacionSinPorciones([CodIngrediente],[semana1])+StockIngrediente([CodIngrediente],[semana1]),StockSinProcesar([codporcion],[semana1])))/[factor]
-
-
+=(SiInm(EsNulo([codporcion]),VentasXTipoNoPorcionSemana([semana1],[CodIngrediente]),VentasXTipoPorcionSemana([semana1],[codporcion])))/[factor]
 
