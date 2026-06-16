@@ -1,0 +1,17 @@
+1. *Depurar bases de datos para dar mayor rapidez a sistema de tiendas : Testeo en Leon DOmingo
+2. *Cambio de recetas de 4oz a 2oz, incorporacion de yogurt y nueva presentacion de Mmebresia: Listo Pedidos, Balances e Inventario, Pendiente actualizar recetas reales el yogurt
+3. Plataforma de pronostico de pedidos para despacho: Reunion Jueves 18 para testeo herramienta
+4. [Finalizado]Cierres de caja de tiendas no jala el nombre de líder. Solo poner “LIDER DE TIENDA”: Se cambio a LIDER DE TIENDA ya no busca lider vigente
+5. **ERP-RH hace movimientos de personal que no se reflejan en plataforma de deducciones/auditorias de OPE: se hiso pruebas semana pasada y corroboro movimiento inmediato de personal en funcion de registros hechos
+6. *Plataforma para planificación de vacaciones (RH confirmara formato): Hoy reunion para testeo de herramienta.
+7. [Finalizado]Panel de edición de cargos vigentes para registros de ERP – RH (Hay varios cargos no vigentes en listas): Se habilito a RRHH en el panel de cargos la columna para habilitar inhabilitar cargos
+8. Plataforma de histórico de demanda para planificación de producción y compras: Reunion Jueves 18 para testeo herramienta 4:00pm
+9. *Estandarizacion de reportes físicos y digitales en unidad de presentación de CDS y OPE : En Proceso revisando formato por formato
+10. OC automática desde compras para contabilidad : Reunion Viernes para probar herrameinta
+11. [Finalizado]Plataforma de mantenimiento. Cuando le da cerrado, que se agregue foto, quien hizo la tarea, día, y descripción opcinal : Se cambio el campo Descripcion a Opcional y se optimizo la pagina para vista celular y eliminando el control de kilometraje como obligatorio, se creo un reporte semanal de todos los informes
+12. [Finalizado]Exportar Excel con faltantes sobrante de cierres, Herramienta web para revisar balance de cierres : Pagina web de historial de cierres y balance de cierre diario con opcion de descargar excel por rango de fecha
+13. Bypass de entrevistas a solicitud de empleo
+14. ENvio de correo saldia de perosnal e ingreso de personal
+15. Instalacion de aplicativo para TV futbol
+16. Modal para registrar postulante directo a solicitud de empleo
+17. MOver candiato de cargo y sucursal
