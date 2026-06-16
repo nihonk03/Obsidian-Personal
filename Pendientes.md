@@ -1,5 +1,5 @@
 1. *Depurar bases de datos para dar mayor rapidez a sistema de tiendas : Testeo en Leon DOmingo
-2. *Cambio de recetas de 4oz a 2oz, incorporacion de yogurt y nueva presentacion de Mmebresia: Listo Pedidos, Balances e Inventario, Pendiente actualizar recetas reales el yogurt
+2. [FInalizado]Cambio de recetas de 4oz a 2oz, incorporacion de yogurt y nueva presentacion de Mmebresia: Listo Pedidos, Balances e Inventario, Pendiente actualizar recetas reales el yogurt
 3. Plataforma de pronostico de pedidos para despacho: Reunion Jueves 18 para testeo herramienta
 4. [Finalizado]Cierres de caja de tiendas no jala el nombre de líder. Solo poner “LIDER DE TIENDA”: Se cambio a LIDER DE TIENDA ya no busca lider vigente
 5. **ERP-RH hace movimientos de personal que no se reflejan en plataforma de deducciones/auditorias de OPE: se hiso pruebas semana pasada y corroboro movimiento inmediato de personal en funcion de registros hechos
