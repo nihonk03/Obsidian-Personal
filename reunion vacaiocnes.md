@@ -14,3 +14,5 @@ producccion = jessica
 
 
 **No Pagado**. a Rechazado 
+
+Subsidio 
