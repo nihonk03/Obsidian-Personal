@@ -1,0 +1,1 @@
+cambiar Días intervalo: a Días de Vacaiones
