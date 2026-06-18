@@ -12,6 +12,6 @@
 12. [Finalizado]Exportar Excel con faltantes sobrante de cierres, Herramienta web para revisar balance de cierres : Pagina web de historial de cierres y balance de cierre diario con opcion de descargar excel por rango de fecha
 13. Bypass de entrevistas a solicitud de empleo
 14. ENvio de correo saldia de perosnal e ingreso de personal
-15. Instalacion de aplicativo para TV futbol
+15. [Finalizado]Instalacion de aplicativo para TV futbol
 16. Modal para registrar postulante directo a solicitud de empleo
 17. MOver candiato de cargo y sucursal
