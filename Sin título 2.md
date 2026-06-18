@@ -7,4 +7,4 @@ orden de estante e almcen
 grafica dashboard consumo agregar cantidad de pedido en toolkit
 consumo semana en paquetes nueva columna
 stock maximo revisr fomula despachos continuos 
-considerar 
+considerar datos de hoy p/ despacho 
