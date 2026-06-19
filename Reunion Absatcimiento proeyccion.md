@@ -13,3 +13,5 @@ colkumna consumo diario proyectado
 Calculo de consumo proyectado diario  = **OLS con pesos decrecientes (WLS)** semanal /7
 consumo proyectado diario *  dias proximo depsacho(Dx+1 - Dx)  + dias tock minimio * consumo proyectado diario
 Calculo de Existencia proyectada : usar consumo proyectado diario para ventas
+
+stick mimimo 3.5 dias
