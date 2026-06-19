@@ -10,6 +10,6 @@ stock maximo revisr fomula despachos continuos
 considerar datos de hoy p/ despacho 
 colkumna consumo diario proyectado
 
-Calculo de consumo proyectado diario  = **OLS con pesos decrecientes (WLS)**
+Calculo de consumo proyectado diario  = **OLS con pesos decrecientes (WLS)** semanal /7
 consumo proyectado diario *  dias proximo depsacho(Dx+1 - Dx)  + dias tock minimio * consumo proyectado diario
 Calculo de Existencia proyectada : usar consumo proyectado diario para ventas
