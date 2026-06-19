@@ -23,9 +23,3 @@
 23. mantenimiento de laptop de Marketing
 
 
-
-https://erp.batidospitaya.com/modulos/productos/pronostico_abastecimiento.php El calculo de Pronóstico Inventario considera unciamente hasta ayer todos los movimientos , pero cuando tenemos un despacho hoy jsutamente no incluye los movimientos reales de hoy , haremos una excepcion controlada unicamente de los preingresos que existen hoy osea de la tabla de msaccess_masivo_PreIngresoPitaya con un toggle que se vera en el encabezado de esa columna llamada Despacho en Curso y cuando active el toggle se mostraran losd atos y a lo que ya estacalculado en Pronóstico Inventario lo aumentara para que el calculo Despahco ya sea con ese dato adicional  
-  
-Tener en cuenta que los pregingresos ya estan incluidos dentro de la formula de Pronóstico Inventario incluyendo compras, ajustes mermas, etc pero no vamos a considerar anda de eso de hoy sino unicamente si existe preingreso hoy eld ia que toca despacho solo ese vamos a considerar cunado se active el toogle osea la formula de Pronóstico Inventario no se toca para nada solo es coo un dato adicional con la opcion de incluir o no via toggle  
-  
-Entonces el caso que vamos a mitigar erroes es cuando por ejemplo hoy viernes toca despacho y el siguiente despacho es lunes, en esta ehrramienta no me sale hoy
