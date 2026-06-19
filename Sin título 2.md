@@ -8,3 +8,4 @@ grafica dashboard consumo agregar cantidad de pedido en toolkit
 consumo semana en paquetes nueva columna
 stock maximo revisr fomula despachos continuos 
 considerar datos de hoy p/ despacho 
+colkumna consumo diario proyectado
