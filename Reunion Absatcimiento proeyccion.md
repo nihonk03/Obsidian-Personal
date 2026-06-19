@@ -15,3 +15,10 @@ consumo proyectado diario *  dias proximo depsacho(Dx+1 - Dx)  + dias tock minim
 Calculo de Existencia proyectada : usar consumo proyectado diario para ventas
 
 stick mimimo 3.5 dias
+
+
+547 148
+546 159
+545 173
+544 226
+543
