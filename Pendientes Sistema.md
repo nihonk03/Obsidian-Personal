@@ -18,7 +18,7 @@
 18. En la página colaboradores.php agrega una nueva columna con el dato de fecha de vencimiento de certificado de salud
 19. En la página colaboradores.php agrega una nueva columna mes contratado 
 20. Crear ejecutable para abrir camaras y pagina de produccion
-21. Mantenimiento Epson impresora Canon
+21. Mantenimiento  impresora Canon
 22. Test impresion con microservicio en pd para TM 20III
 23. mantenimiento de laptop de Marketing
 
