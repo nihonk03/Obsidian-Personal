@@ -9,10 +9,10 @@
 9. [F1]OC automática desde compras para contabilidad : Reunion Martes 23
 10. [F5]Anulacion de CIerres plataforma web: Reunion Martes 23
 11. [F4]Pagina de historial de cierres y balance de cierre diario con opcion de descargar excel por rango de fecha : Reunion Martes 23 afinar herrameinta
-12. [F4]Bypass de entrevistas a solicitud de empleo
+12. [F6]Bypass de entrevistas a solicitud de empleo
 13. [F4]ENvio de correo saldia de perosnal e ingreso de personal
-14. [F4]Modal para registrar postulante directo a solicitud de empleo
-15. [F4]Mover candidato de cargo y sucursal
+14. [F6]Modal para registrar postulante directo a solicitud de empleo
+15. [F6]Mover candidato de cargo y sucursal
 16. [F7]Pagina de colaboradores se agrega una nueva columna con el dato de fecha de vencimiento de certificado de salud
 17. [F7]Página colaboradores seagrega una nueva columna mes contratado 
 18. []Crear ejecutable para abrir camaras y pagina de produccion
