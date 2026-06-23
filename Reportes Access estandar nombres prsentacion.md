@@ -75,3 +75,6 @@ Leche de almendras cambiar a oz
 deshabilitar porciones en desuso 
 Compra cajilla banano x100 compra
 Leche Entera   /  proteina separa unidades 
+
+
+Decoracion: CHocolate liquido / leche condensda en batidos / yogurt 0.7oz 
