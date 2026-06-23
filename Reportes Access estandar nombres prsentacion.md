@@ -73,3 +73,5 @@ Balance de AJustes p/fecha
 Cambio de unidades 
 Leche de almendras cambiar a oz
 deshabilitar porciones en desuso 
+Compra cajilla banano x100 compra
+Leche Entera  
