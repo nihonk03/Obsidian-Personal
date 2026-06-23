@@ -16,9 +16,9 @@
 16. [F7]Pagina de colaboradores se agrega una nueva columna con el dato de fecha de vencimiento de certificado de salud
 17. [F7]Página colaboradores seagrega una nueva columna mes contratado 
 18. []Crear ejecutable para abrir camaras y pagina de produccion
-19. Mantenimiento  impresora Canon
-20. Test impresion con microservicio en pd para TM 20III
-21. []mantenimiento de laptop de Marketing
+19. []Mantenimiento  impresora Canon
+20. []Test impresion con microservicio en pd para TM 20III
+21. [Finalizado]mantenimiento de laptop de Marketing
 
 
 261
