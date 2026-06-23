@@ -51,6 +51,13 @@ alerta de diferencia no cantidad
 por grupos
 historial de cambios de conteo de lifderes 
 MOstrar cantidad de pues de gurar 
+hora impresion corte
+Impresion web
+2 conteos  + anulacion de conteo 
 
 MOdulo 2
 descuento / sin descuneto 
+
+Swmana de corte - conteo fisico de auditor 
+
+Balance AJustes 
