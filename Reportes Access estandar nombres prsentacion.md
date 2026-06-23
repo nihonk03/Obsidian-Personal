@@ -24,7 +24,7 @@ Mermas
 Inventario TIendas
 Facturas
 Visibilidad de Preingreso
-COnsumo DIario
+COnsumo DIario  (OCULTAR )
 AUditoria Insumos improtantes / MOstrador 
 Registro ajuste de inventario
 Historial Ingresos
@@ -60,4 +60,9 @@ descuento / sin descuneto
 
 Swmana de corte - conteo fisico de auditor 
 
-Balance AJustes 
+Modulo Nuevo: auditores
+Balance de AJustes p/fecha 
+
+**Módulo 9**:
+
+**Módulo 5**
