@@ -74,4 +74,4 @@ Cambio de unidades
 Leche de almendras cambiar a oz
 deshabilitar porciones en desuso 
 Compra cajilla banano x100 compra
-Leche Entera  
+Leche Entera   /  proteina separa unidades 
