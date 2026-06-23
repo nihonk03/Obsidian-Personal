@@ -78,3 +78,5 @@ Leche Entera   /  proteina separa unidades
 
 
 Decoracion: CHocolate liquido / leche condensda en batidos / yogurt 0.7oz 
+Waffle pote topping a 1 unidad 
+Cambiar paquete de fresa congelada y mora a 20 unid
