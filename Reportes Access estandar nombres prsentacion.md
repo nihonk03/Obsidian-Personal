@@ -36,3 +36,21 @@ Balance No Porciones
 Balance Mostrador
 
 
+Forato fisicos
+Inventario fisico semanal (Jshua) Oficial
+Inventario fisico semanal antiguo : ELiminar
+
+https://erp.batidospitaya.com/modulos/inventario/inventario_semanal.php: habilitar 
+https://erp.batidospitaya.com/modulos/productos/balance_inventario_access_host.php : habilitar 
+
+Modulo nuevo:
+
+
+**Módulo 1** 
+alerta de diferencia no cantidad
+por grupos
+historial de cambios de conteo de lifderes 
+MOstrar cantidad de pues de gurar 
+
+MOdulo 2
+descuento / sin descuneto 
