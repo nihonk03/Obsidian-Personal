@@ -1,20 +1,20 @@
 
-Worker dvr 
+Actualizar horas de depsoitos tiendas
 - [x] Leon
-- [x] Matagalpa
-- [x] Esteli
-- [x] Altamira
-- [x] Villa Fontana 
-- [x] Granada
-- [x] Las Colinas
-- [x] Masaya
-- [x] Natura
-- [x] Las Brisas
-- [x] Rivas
+- [ ] Matagalpa
+- [ ] Esteli
+- [ ] Altamira
+- [ ] Villa Fontana 
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
 
 
-melon 131.67   mango -61.77  limon -158  leche coco 122.53
+
 
