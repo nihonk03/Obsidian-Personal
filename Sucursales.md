@@ -1,16 +1,16 @@
 
 Actualizar horas de depsoitos tiendas
 - [x] Leon
-- [ ] Matagalpa
-- [ ] Esteli
-- [ ] Altamira
-- [ ] Villa Fontana 
-- [ ] Granada
-- [ ] Las Colinas
-- [ ] Masaya
-- [ ] Natura
-- [ ] Las Brisas
-- [ ] Rivas
+- [x] Matagalpa
+- [x] Esteli
+- [x] Altamira
+- [x] Villa Fontana 
+- [x] Granada
+- [x] Las Colinas
+- [x] Masaya
+- [x] Natura
+- [x] Las Brisas
+- [x] Rivas
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
