@@ -16,14 +16,14 @@ Actualizar horas de depsoitos tiendas
 - [ ] Calli
 
 Agregar hora a facturas
-- [x] Leon
+- [ ] Leon
 - [x] Matagalpa
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana 
 - [x] Granada
 - [x] Las Colinas
-- [x] Masaya
+- [ ] Masaya
 - [x] Natura
 - [x] Las Brisas
 - [x] Rivas
