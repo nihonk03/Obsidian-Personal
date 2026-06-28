@@ -15,7 +15,8 @@ Actualizar horas de depsoitos tiendas
 - [ ] Ticuantepe
 - [ ] Calli
 
-Agregar columna hora a facturas, actualizar hora con script en comrpas , actualizar sistema (Falta Unica) 
+Agregar columna hora a facturas, actualizar hora con script en comrpas , actualizar sistema (Falta Unica) ejecutar call SyncKardexComprasMasivo() call SyncDepositosMasivo
+
 - [x] Leon
 - [x] Matagalpa
 - [x] Esteli
