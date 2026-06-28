@@ -31,6 +31,7 @@ Agregar hora a facturas
 - [x] Ticuantepe
 - [x] Calli
 
+, #" & Time() & "#
 
 
 
