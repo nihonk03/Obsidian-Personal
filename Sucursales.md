@@ -15,15 +15,15 @@ Actualizar horas de depsoitos tiendas
 - [ ] Ticuantepe
 - [ ] Calli
 
-Agregar hora a facturas
-- [ ] Leon
+Agregar columna hora a facturas, actualizar hora con script en comrpas , actualizar sistema (Falta Unica) 
+- [x] Leon
 - [x] Matagalpa
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana 
 - [x] Granada
 - [x] Las Colinas
-- [ ] Masaya
+- [x] Masaya
 - [x] Natura
 - [x] Las Brisas
 - [x] Rivas
@@ -31,7 +31,7 @@ Agregar hora a facturas
 - [x] Ticuantepe
 - [x] Calli
 
-, #" & Time() & "#
+
 
 
 
