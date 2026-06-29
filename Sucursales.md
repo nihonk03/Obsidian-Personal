@@ -14,6 +14,7 @@ Actualizar horas de depsoitos tiendas
 - [ ] Unica
 - [ ] Ticuantepe
 - [ ] Calli
+- [ ] aaa
 
 Agregar columna hora a facturas, actualizar hora con script en comrpas , actualizar sistema (Falta Unica) ejecutar call SyncKardexComprasMasivo() call SyncDepositosMasivo, actualizar depositos via python
 
