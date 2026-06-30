@@ -7,7 +7,7 @@ Horas Extras
 
 Operaciones
 - CIerre de tardanzas + Faltas semanal
-- Formulario -> Decision
+- Formulario -> Decision (todas la categorias)
 
 Lideres
 - Falta -> Formulario 
