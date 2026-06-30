@@ -3,6 +3,7 @@ Justifiacaiaon de Faltas
 Feriados
 Vacaciones
 Horas Extras
+Subsidios
 
 
 Operaciones
