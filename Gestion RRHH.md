@@ -15,3 +15,6 @@ Lideres
 
 Contavilidad
 - Restringir descarga faltas / tardanzas pendientes 
+Fecha descansado
+
+MOdal de feriado
