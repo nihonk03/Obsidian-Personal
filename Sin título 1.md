@@ -1,9 +1,0 @@
-erp.batidospitaya.com/modulos/gerencia/ia_graficos_ventas.php crea un .sql con datos para entrenar la ia y poblar las tablas ia_graficos_diccionario_columnas, ia_graficos_filtros_conceptuales , ia_graficos_metricas_predefinidas y ia_graficos_validaciones Usa toda la informacion que procesamos en los dashboard : erp.batidospitaya.com/modulos/gerencia/dashboard_global_pitaya.php, https://erp.batidospitaya.com/modulos/productos/dashboard_consumo.php, erp.batidospitaya.com/modulos/marketing/dashboard_rfm.php, https://erp.batidospitaya.com/modulos/supervision/auditorias_original/desempeno_sucursales_v2.php ahi hay mucha informacion en las guias de ayuda como en el contenido de como procesamos ala informacion, los terminos que tenemos para los datos, la traduccion de nombres a consultas, etc Los datos actuales en las tablas de ia estan en erp.batidospitaya.com/tablas ia graficos/ , si es necesario cambiemos registros existentes
-
-
-
-Dim ruta As String
-Dim condic As String
-ruta = "C:\Users\" & NombreSistema() & "\Google Drive BP\Base de Datos Web\Actualizacion Ventas Automatico\" & codigoLocal() & "_" & cfechasqlfecha(fechi) & ".csv"
-condic = "WHERE Fecha BETWEEN '" & cfechasqlfecha(fechi) & "' AND '" & cfechasqlfecha(fechi) & "'"
-Call ExportarCSVConsultaCondicional("ResumenVentasMesExcelHostingerCSV", condic, ruta)
