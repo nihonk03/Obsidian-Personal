@@ -1,3 +1,3 @@
 - Verificacion automatica de facturas , subir lider despues de cierre 
 - restriccion de cierre de factura si factura esta incompleta sello, hora , fecha,  firma , monto; permitir en segunda opcion para vlaidacion claudia
-- 
+- Katherine, CLaudia
