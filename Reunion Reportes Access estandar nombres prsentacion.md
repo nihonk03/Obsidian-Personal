@@ -47,8 +47,8 @@ Modulo nuevo:
 
 
 **Módulo 1** 
-alerta de diferencia no cantidad
-por grupos
+- alerta de diferencia no cantidad para lideres, para auditores si les sale la cantidad que deberia de haber
+- imprimir lista de por grupos
 historial de cambios de conteo de lifderes 
 MOstrar cantidad de pues de gurar 
 hora impresion corte
