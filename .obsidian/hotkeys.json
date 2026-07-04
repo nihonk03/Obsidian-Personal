@@ -1,0 +1,10 @@
+{
+  "voice:play-or-stop-audio": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ]
+}
