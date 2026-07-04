@@ -1,0 +1,10 @@
+{
+  "id": "otoha-tts",
+  "name": "Otoha TTS",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Read the current note aloud — device voice, or high-quality neural voices via the free Otoha app — with sentence highlighting and smooth follow-scrolling.",
+  "author": "Otoha",
+  "authorUrl": "https://github.com/spacegrowth/otoha-tts",
+  "isDesktopOnly": false
+}
