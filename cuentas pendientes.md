@@ -1,58 +1,41 @@
 
 pitaya claude 20
 
-Quiero hacer un plan de trabajo para los siguientes 6 meses del ano con las siguientes herramientas:
+Searched for "expected_m"
+Searched for "ice"
+Searched for "base_val"
+Viewed dashboard_consumo.js:406-1205
+Searched for "calcularProyeccionWLS"
+Viewed pedido_sugerido_calcular_v2.php:1-800
 
-Despacho de centrala tienda
+He analizado exhaustivamente todo el flujo matemático del cálculo del pronóstico y la forma en la que se aplican los factores de crecimiento (ICE). 
 
-Despacho de tiena a tienda
+La solución es sorprendentemente elegante y afecta en cadena a todo lo que pides. 
 
-COnteo ciclico en tiendas
+### La Lógica a Implementar
+Actualmente, el sistema ya ancla el punto de inicio al **máximo de las últimas 2 semanas** solo cuando la tendencia es **negativa** (para evitar proyecciones a 0). 
 
-AUditoria sobre conteo ciclicos para extraer ajustes de inventarios y penalizacion sobre diferencias negativas
+Para cumplir tu requerimiento, haremos que **incluso cuando la tendencia (m) sea positiva**, se "mueva" la recta matemáticamente. Lo lograremos desplazando el **intercepto (`b`)** de la recta original para que, en la "semana actual", el punto de anclaje (`base_val`) sea forzosamente el pico de las últimas 2 semanas.
 
-Registro de Facturas de tiendas
+> **Magia matemática:** Al aplicar este pequeño desplazamiento de la base directamente desde la raíz, el bloque de código de Crecimiento Esperado (ICE) no necesitará tocarse, ya que este lee dinámicamente el `base_val` y automáticamente forzará su porcentaje por encima de este nuevo punto alto anclado.
 
-Registro de mermas de tiendas
+---
 
-Registro de solicitudes de compra por areas
+### Lista Detallada de Archivos Implicados (Para tu Aprobación)
 
-Registro de solicitudesde compra para convertirse en ordenes de compra y creacion de ordenes de compra del area de compras de la central
+Para que el ajuste sea completo en todo el ERP (Gráficas de pronóstico, Gráficas de Kardex dinámico, Tabla principal de abastecimiento, Tablas de dashboard y Exportaciones Excel), tocaré estos 4 archivos:
 
-Creacion de facturas apartir de las ordenes de compras despues de pasar por aprobacion validacion de almacen y de contabilidad
+**1. Backend (Donde se genera el WLS primario):**
+* `modulos/productos/ajax/pedido_sugerido_calcular_v2.php`
+* `modulos/productos/ajax/dashboard_consumo_get_datos.php`
+> **Acción:** En la función principal `calcularProyeccionWLS`, modificaremos el cálculo del intercepto `$intercept`. Añadiremos la condición de que si `$slope >= 0`, se calcule `$intercept = $max_ultimas2 - ($slope * $n)`.
 
-Rwgistro de ordenes de trabajo de produccion
+**2. Frontend (Donde se genera el OLS de respaldo y se dibujan las gráficas):**
+* `modulos/productos/js/pronostico_charts.js` 
+> **Acción:** En la función `renderChartTendencia`, modificaremos el fallback OLS para que `regIntercept = maxUlt2 - (regSlope * ultimaSem)`. Esto garantiza que si falla el backend o no hay datos WLS, el JS siga haciendo el anclaje correctamente.
+* `modulos/productos/js/dashboard_consumo.js`
+> **Acción:** Modificaremos `renderGrafico` (Gráfica del Dashboard) y `renderTablaProyeccion` (Tabla inferior del Dashboard) para que usen exactamente el mismo anclaje y las cifras cuadren al 100% con la vista de abastecimiento.
 
-registro de movimiento de existencias en almacen a produccion retorno a almacen
+*(No hace falta modificar `pronostico_abastecimiento.js` ni `alertas_agotamiento.js` ya que estos heredan las variables `wls_b` del backend y con el desplazamiento del intercepto, harán el trabajo de forma automática).*
 
-COntrol de exxistencia de almacen con todos los registros antes mencionados
-
-COntrol de costos unitarios con todos los registros antes mencionados
-
-COnteo ciclico para central
-
-POS: Registro de facturas de venta
-
-POS: Registro d promociones
-
-POS: Registro de miembros club
-
-POS: Panel de cientes publico para validar compras puntos prmociones
-
-POS: Pegistro y armado de productos de venta
-
-POS: Registro y armado de combos
-
-POS: Registro de conteo de efctivo para caja inicial y cierres de caja
-
-POS: Registro de aligeramientos de dinero
-
-POS: Bakance de CIerre de caja con todos los registros de arriba
-
-Pagina publica para venta online con servicio de motorizado propio
-
-COntexto Batidos pitaya es una empresa con 14 tiendas de modelo tipo cafe bar donde toda la produccion de insumos se centrslizan y se envian a todas las tiendas semanalmente , desde la central manejamos toda la logistica de la tienda desde controlar los cosumos proyecicond e ventas , publicidad , calcular cuanto despachar y en las tiendas solo reciben los insumos y se dedican a preparar y vender batidos, bowl, waffles y oriductos de mostrador principalmente
-
-Hasme todas las peguntas necesarias antes de armar un plan de los proximos 6 meses y si es viable o no cosa que lo veo bastante viable debido a la buena velocidad que venimos manejando cada herramienta con el apoyo de ia, es un equipo de 2 personas con mcuho conocimiento de proceso y programacion
-
-No hagas ningun documento solo enviame dentro del chat a rasgos generales el plan para ir afunandolo y una vez afinemos todo recien procederemos a hacer un documento mas extenso
+¿Estás de acuerdo con el alcance de esta solución? **Confírmame para proceder con la inyección del código.**
