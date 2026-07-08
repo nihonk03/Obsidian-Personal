@@ -3,3 +3,5 @@ solitado picking validado de almacen (planificado) recibido (finalizado) estado 
 auditoria top de productos con diferencia conteo 1 amarillos conteo 2 rojo alerta productos pasaran auditoria lista segund conteo solo las que se ingresara nuevamente tolerancia por grupo conteo auditor cpn daot o sin datos sin ajuste sobre diferncia de conteo ajuste
 
 
+
+
