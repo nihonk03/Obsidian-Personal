@@ -36,18 +36,13 @@ navegador (Chrome/Edge) en una PC de escritorio o en una tablet Android, sin app
 Implementar un sistema de marcación de personal por huella dactilar con identificación 1:N
 (reconoce al empleado solo con la huella, sin login previo), integrado a mi stack existente:
 
-- **Frontend/Backend PHP**: alojado en Hostinger (hosting compartido) — [Claude: revisa la
-  estructura real de mi repositorio de Hostinger en GitHub para integrarte a los archivos,
-  convenciones de nombres y estilo ya existentes]
-- **Base de datos**: MySQL en Hostinger — [Claude: revisa el esquema actual antes de proponer
-  nuevas tablas, para mantener consistencia con las tablas de empleados ya existentes]
-- **VPS (DigitalOcean droplet)**: para el servicio de matching biométrico — [Claude: revisa mi
-  repositorio del droplet para ver qué stack ya corre ahí (Node/Python/Docker/nginx, etc.) y
-  encajar el nuevo servicio con el resto de la infraestructura existente]
+- **Frontend/Backend PHP**: la herramienta actual de marcacion es erp.batidospitaya.com\modulos\sucursales\marcacion_express.php , haremos una primera version de herraienta solo que me permita capturar la huella y comprara con la huella almacenada por colaborador para testarlo , en esa herrmaienta de desteo tambien debe estar el segmento que me permita registrar las 3 minucias de un colaborador y en una segunda etapa moveremos todo ese codigo a la herrmaienta de marcacion para tener ambos metodos por ingreso de clave como es ahora o por captura de huella y la de captura de datos la moveremos a otro modulo ya existente donde se registra datos de colaborador, esta primera herramienta no tendra ningun tipo de restriccion por permiso tienepermiso()
+- **Base de datos**: MySQL en Hostinger — la tabla donde guardaremos las minucias de cada colaborador sera en operarios, revisa la estructura de esa tabla en dbpitaya para tener genera el script sql que me enviaras para ejcutarlo directamente y crear esa columna, la columna sera para guardar el json con las 3 minucias de cada colaborador 
+- **VPS (DigitalOcean droplet)**: para el servicio de matching biométrico vamos a replicar la herramienta que se hiso en ResumenReunionesIA que vive en el droplet de digitalocean muy independiente de las otras herramientas existentes con todas sus librerias propias , en este proyecto de ejemplo tambien se detalla la comunicacion con ero via api.batidospitaya.com api.batidospitaya.com\api\resumen_reuniones_ia entonces crearemos un nuevo respositorio para esta herrameinta , el repositorio lo llamaremos LectorHuellaMarcacion y crearemos la carpeta en el drooplet llamado lector-huella-marcacion donde subiremos todos los archivos 
 
 ### Componentes a construir:
 
-**1. Módulo WebUSB (JavaScript, para integrar en el frontend PHP existente)**
+**1. Módulo WebUSB (JavaScript, para integrar en el frontend PHP testlectorhuella.php)**
    - Botón "Conectar lector" que llama a `navigator.usb.requestDevice()` filtrando por
      vendorId 0x045e, productId 0x00bd.
    - Implementación de las funciones equivalentes a mi script Python: readReg, writeReg,
@@ -74,13 +69,12 @@ Implementar un sistema de marcación de personal por huella dactilar con identif
 
 **3. Integración en PHP (Hostinger)**
    - Endpoint que recibe la imagen capturada desde el frontend WebUSB, la reenvía al VPS para
-     identificación, y registra la marcación (empleado, timestamp, tipo entrada/salida) en
+     identificación, y rverifica la validez con registro en
      MySQL.
-   - Pantalla de administración para enrolar empleados (capturar 2-3 muestras de huella por
-     persona para mejorar precisión).
-   - Pantalla de marcación: solo botón "Marcar" + feedback de quién fue identificado.
-   - Reportes básicos de asistencia (esto puede aprovechar tablas/lógica ya existente si ya
-     tengo algo de gestión de empleados).
+   - Pantalla de administración para enrolar empleados (capturar 3 muestras de huella por
+     persona para mejorar precisión). igual en testlectorhuella.php
+   - Pantalla de validacion: solo botón "Validar" + feedback de quién fue identificado.
+
 
 **4. Documentación de despliegue (para incluir en el repo)**
    - Instrucciones para instalar el driver WinUSB en cada PC/tablet donde se conecte el lector,
@@ -91,13 +85,12 @@ Implementar un sistema de marcación de personal por huella dactilar con identif
    - Para tablet Android: requiere adaptador USB-OTG, Chrome para Android soporta WebUSB igual
      que en escritorio.
 
-## Instrucciones para Claude Code
+## Instrucciones para Antigravity
 
-1. Primero, explora mis repositorios existentes (Hostinger y droplet de DigitalOcean) para
+1. Primero, explora mis repositorios existentes (api.batidospitaya.com, erp.batidospitaya.com y ResumenReunionesIA) para
    entender la estructura de carpetas, convenciones de código, stack ya usado en el VPS, y el
-   esquema actual de la base de datos MySQL antes de proponer cualquier archivo nuevo.
-2. Propón el esquema de las tablas nuevas necesarias (empleados_huellas, marcaciones, etc.)
-   ajustándote a las que ya existan si hay coincidencia semántica.
+   esquema actual de la base de datos MySQL (dbpitaya) antes de proponer cualquier archivo nuevo.
+2. Propón el script sql de laedicion necesaria  de la tablas operarios
 3. Empieza por el módulo WebUSB de forma aislada (un HTML/JS de prueba) para validar que la
    captura funciona igual que en Python antes de integrarlo al resto del sistema.
 4. Luego arma el servicio de matching en el VPS, y por último la integración PHP + MySQL.
