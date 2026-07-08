@@ -1,41 +1,23 @@
-scp root@192.211.97.243:/opt/resumen-reuniones-ia/audio/9/final.webm ./final_reunion9.webm
-pitaya claude 20
 
-Searched for "expected_m"
-Searched for "ice"
-Searched for "base_val"
-Viewed dashboard_consumo.js:406-1205
-Searched for "calcularProyeccionWLS"
-Viewed pedido_sugerido_calcular_v2.php:1-800
 
-He analizado exhaustivamente todo el flujo matemático del cálculo del pronóstico y la forma en la que se aplican los factores de crecimiento (ICE). 
+¡Excelente! Me alegra muchísimo que haya funcionado a la perfección. Ha sido un reto muy interesante llegar al fondo del comportamiento interno de la API de Gemini.
 
-La solución es sorprendentemente elegante y afecta en cadena a todo lo que pides. 
+Aquí tienes el resumen ejecutivo de todas las optimizaciones y cambios que implementamos en tu módulo `gemini_client.py`:
 
-### La Lógica a Implementar
-Actualmente, el sistema ya ancla el punto de inicio al **máximo de las últimas 2 semanas** solo cuando la tendencia es **negativa** (para evitar proyecciones a 0). 
+### 1. 🔄 Separación en Llamadas Secuenciales (El cambio más crítico)
+* **Antes:** Le pedíamos a Gemini que, en una sola respuesta, calculara y generara dos bloques gigantescos de texto (El Resumen Ejecutivo y el Resumen General). Al sobrecargar su "razonamiento" en un solo ciclo, colapsaba y cortaba el texto abruptamente.
+* **Ahora:** Dividimos el proceso en **dos llamadas independientes a la API**. Primero se manda el audio para solicitar única y exclusivamente el Resumen Ejecutivo. Cuando termina, se hace una segunda llamada para solicitar únicamente el Resumen General. Esto libera muchísima carga del procesador de la IA.
 
-Para cumplir tu requerimiento, haremos que **incluso cuando la tendencia (m) sea positiva**, se "mueva" la recta matemáticamente. Lo lograremos desplazando el **intercepto (`b`)** de la recta original para que, en la "semana actual", el punto de anclaje (`base_val`) sea forzosamente el pico de las últimas 2 semanas.
+### 2. 🧠 Actualización del Modelo a `gemini-2.5-pro`
+* **Antes:** El sistema estaba usando `gemini-2.5-flash` (basado en lo que recibía de la base de datos). Aunque Flash es rapidísimo, sufre de falta de memoria para contextos monstruosos (como archivos de audio de +60MB que equivalen a horas de reunión).
+* **Ahora:** Forzamos permanentemente por código el uso de **`gemini-2.5-pro`** para estas tareas. El modelo "Pro" tiene una memoria y capacidad de razonamiento profundo inmensamente superiores, por lo que nunca se "ahogará" ni truncará la información, garantizando que no se pierda ningún detalle importante de la reunión.
 
-> **Magia matemática:** Al aplicar este pequeño desplazamiento de la base directamente desde la raíz, el bloque de código de Crecimiento Esperado (ICE) no necesitará tocarse, ya que este lee dinámicamente el `base_val` y automáticamente forzará su porcentaje por encima de este nuevo punto alto anclado.
+### 3. 🛡️ Abandono del JSON Estricto y Migración a Etiquetas XML
+* **Antes:** Usábamos el modo `application/json` y `responseSchema`. Este validador de JSON interno de Google es muy estricto y frágil; si la IA sentía que el texto iba a ser muy largo, cortaba y botaba un error para no "romper" la sintaxis del JSON.
+* **Ahora:** Quitamos la restricción de JSON y le pedimos al modelo que responda como texto normal, pero usando **etiquetas delimitadoras seguras** (`<RESULTADO_FINAL>` y `<RESUMEN>`). Esta técnica es a prueba de fallos.
 
----
+### 4. 🧲 Extracción de Texto a Prueba de Balas (Regex)
+* **Antes:** El script usaba expresiones regulares (`extraer_campo`) que dependían de comillas de cierre (`"`) y del orden de los datos. Si faltaba una sola comilla o el texto se cortaba, todo fallaba y veías el "No se pudo generar." en la pantalla.
+* **Ahora:** Implementamos `extraer_etiqueta` con la bandera de expresión regular `re.DOTALL`. Este código busca inteligentemente lo que haya dentro de las etiquetas, e incluso si la IA llegara a omitir una etiqueta de cierre por alguna razón extrema, el código lo rescatará automáticamente sin romperse.
 
-### Lista Detallada de Archivos Implicados (Para tu Aprobación)
-
-Para que el ajuste sea completo en todo el ERP (Gráficas de pronóstico, Gráficas de Kardex dinámico, Tabla principal de abastecimiento, Tablas de dashboard y Exportaciones Excel), tocaré estos 4 archivos:
-
-**1. Backend (Donde se genera el WLS primario):**
-* `modulos/productos/ajax/pedido_sugerido_calcular_v2.php`
-* `modulos/productos/ajax/dashboard_consumo_get_datos.php`
-> **Acción:** En la función principal `calcularProyeccionWLS`, modificaremos el cálculo del intercepto `$intercept`. Añadiremos la condición de que si `$slope >= 0`, se calcule `$intercept = $max_ultimas2 - ($slope * $n)`.
-
-**2. Frontend (Donde se genera el OLS de respaldo y se dibujan las gráficas):**
-* `modulos/productos/js/pronostico_charts.js` 
-> **Acción:** En la función `renderChartTendencia`, modificaremos el fallback OLS para que `regIntercept = maxUlt2 - (regSlope * ultimaSem)`. Esto garantiza que si falla el backend o no hay datos WLS, el JS siga haciendo el anclaje correctamente.
-* `modulos/productos/js/dashboard_consumo.js`
-> **Acción:** Modificaremos `renderGrafico` (Gráfica del Dashboard) y `renderTablaProyeccion` (Tabla inferior del Dashboard) para que usen exactamente el mismo anclaje y las cifras cuadren al 100% con la vista de abastecimiento.
-
-*(No hace falta modificar `pronostico_abastecimiento.js` ni `alertas_agotamiento.js` ya que estos heredan las variables `wls_b` del backend y con el desplazamiento del intercepto, harán el trabajo de forma automática).*
-
-¿Estás de acuerdo con el alcance de esta solución? **Confírmame para proceder con la inyección del código.**
+¡Tu módulo `ResumenReunionesIA` ahora es de "calidad industrial" y está listo para soportar horas y horas de audio sin pestañear! Si necesitas afinar algo más en el futuro, ya sabes dónde encontrarme.
