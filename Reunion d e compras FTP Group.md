@@ -1,3 +1,3 @@
 kpis 
 
-echo "PEGA_AQUI_TU_CLAVE_PUBLICA_COMPLETA" >> ~/.ssh/authorized_keys
+echo "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFU4kq76kWvyXHCEcTWLSmbAMjPAInSowofal8HRihz8 batidospitayaproyectos@gmail.com" >> ~/.ssh/authorized_keys
