@@ -7,3 +7,5 @@ solitado :supervisor ediicon y envio de cnatidades
 preparacion: jedfe d depacho cierre de 
 
 abasteciminto alertas de cantiddades ingresadas para supervisor 
+
+Immpresion de resuemn solo de cambios
