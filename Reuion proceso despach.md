@@ -30,7 +30,7 @@ Nombre | presentacion | cant enviada  | cant recibida despacho
 despacho esecial todo lo que s ehace fuera de planificador 
 
 elimianr versiones
-eliminar desbloqueo
+[]eliminar desbloqueo
 impresion libre cada etapa 
 
 Solicitado	supervisor tiendas ediicon y envio de cnatidades
