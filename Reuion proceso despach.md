@@ -24,8 +24,8 @@ otro color etapadas cerradas
 - [x] 0 decimal todo despachos / 0 decimal columna de pedido en absatecimietno
 - [x] mensaje de confirmacion de cambio de cantidad individual en cada etapa  con detalle de cambios canitdade snombre 
 
-- [x] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
-- [x] Nombre | presentacion | cant enviada  | cant recibida despacho
+- [ ] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
+- [ ] Nombre | presentacion | cant enviada  | cant recibida despacho
 
 despacho esecial todo lo que s ehace fuera de planificador 
 
@@ -44,3 +44,4 @@ Insumos importantes asignar toda la lista completa
 
 
 alerta items distitnos de requerido con solicitado en abastecimiento
+alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
