@@ -22,16 +22,16 @@ reposicion de despacho diferencias entre ecibido y solicitado
 otro color etapadas cerradas 
 
 - [x] 0 decimal todo despachos / 0 decimal columna de pedido en absatecimietno
-- [ ] mensaje de confirmacion de cambio de cantidad individual en cada etapa  con detalle de cambios canitdade snombre 
+- [x] mensaje de confirmacion de cambio de cantidad individual en cada etapa  con detalle de cambios canitdade snombre 
 
-Nombre | presentacion | cant solicitad  | cant evniada  predespacho
+- [x] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
 Nombre | presentacion | cant enviada  | cant recibida despacho
 
 despacho esecial todo lo que s ehace fuera de planificador 
 
-elimianr versiones
-[]eliminar desbloqueo
-impresion libre cada etapa 
+- [x] elimianr versiones
+- [x] eliminar desbloqueo
+- [x] impresion libre cada etapa 
 
 Solicitado	supervisor tiendas ediicon y envio de cnatidades
 En Validadacion	Supervisor de almacen cierre de edicion para supervision  , retroalimenta a supervision errores antes de cerrar e impresión , imrpirmir 1 lista (predespacho)
