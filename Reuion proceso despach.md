@@ -49,11 +49,12 @@ alerta cero fondo rojo tenue
 no borrar cambis al filtrar
 despacho finalizado bloquea abastecimiento
 2ta etapa insumos fijo bajo soliicitud
-
+Nueva columna nota de devolucion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
 
 Permisos
 soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
 Vlidacion de solciitud : supervisor de almacen / Jefe cds / jefe de produccion
 Preparacion: supervisor de almacen / Jefe cds / jefe de produccion
 Recepcion: Claboardor en turno 
-
+**Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
+**movimiento entre tienda :supervisor 
