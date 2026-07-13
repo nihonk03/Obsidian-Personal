@@ -46,3 +46,5 @@ Insumos importantes asignar toda la lista completa
 alerta items distitnos de requerido con solicitado en abastecimiento
 alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
 alerta cero fondo rojo tenue 
+no borrar cambis al filtrar
+despacho finalizado bloquea abastecimiento
