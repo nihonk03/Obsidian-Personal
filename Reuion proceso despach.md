@@ -60,6 +60,8 @@ Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion | Iniciar vaidacion
 Se imprimirá el ticket para  inicar  validación 
 cambiar version por hroa impresion 
 evnaido por preaprado en predespacho 
+Imprimir Copia ....
+Confirmar reducción a Confirmar cambio
 
 Permisos
 soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
