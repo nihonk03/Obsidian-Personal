@@ -40,3 +40,7 @@ Preparado	personal de amacen  edira cantidades en tablet/ lista fisica  y  Super
 
 
 Insumos importantes asignar toda la lista completa 
+
+
+
+alerta items distitnos de requerido con solicitado en abastecimiento
