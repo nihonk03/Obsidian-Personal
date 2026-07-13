@@ -32,3 +32,8 @@ despacho esecial todo lo que s ehace fuera de planificador
 elimianr versiones
 eliminar desbloqueo
 impresion libre cada etapa 
+
+Solicitado	supervisor tiendas ediicon y envio de cnatidades
+En Validadacion	Supervisor de almacen cierre de edicion para supervision  , retroalimenta a supervision errores antes de cerrar e impresión , imrpirmir 1 lista (predespacho)
+Preparado	personal de amacen  edira cantidades en tablet/ lista fisica  y  Supervisor de almacen aprueba y pasa a planificado, se imprime 1 lista (despacho ) 
+Recibido	Impresión de resumen solo de cambios para firma 
