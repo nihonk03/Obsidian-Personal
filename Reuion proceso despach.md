@@ -44,12 +44,22 @@ Insumos importantes asignar toda la lista completa
 
 
 alerta items distitnos de requerido con solicitado en abastecimiento
-alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
+codig de despacho en mensaje de despacho soicitado 
+tipo regular  / especial
+Fecha planeada  por fecha proogramado 
+ alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
 alerta cero fondo rojo tenue 
 no borrar cambis al filtrar
 despacho finalizado bloquea abastecimiento
 2ta etapa insumos fijo bajo soliicitud
 Nueva columna nota de devolucion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
+en circulos nombre y fecha 
+columna de grupos de prudcots
+boton de impromir y validar arriba junst a impriir
+Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion | Iniciar vaidacion 
+Se imprimirá el ticket para  inicar  validación 
+cambiar version por hroa impresion 
+evnaido por preaprado en predespacho 
 
 Permisos
 soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
