@@ -48,3 +48,12 @@ alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad 
 alerta cero fondo rojo tenue 
 no borrar cambis al filtrar
 despacho finalizado bloquea abastecimiento
+2ta etapa insumos fijo bajo soliicitud
+
+
+Permisos
+soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
+Vlidacion de solciitud : supervisor de almacen / Jefe cds / jefe de produccion
+Preparacion: supervisor de almacen / Jefe cds / jefe de produccion
+Recepcion: Claboardor en turno 
+
