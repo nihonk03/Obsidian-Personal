@@ -23,5 +23,13 @@ APrbacion de conteos : Adutiros (lideres + adutiores ) Daniela/Kartheirne (lider
 
 
 Agenda
-Margen por grupo : katherine / David  fijo no edjutable  margen en funcion ventas , existecias teoricas
+
+Jueves 16: Belfort + Daniela presenracion de herrmaienta final
+DOmingo 19: Ultimo conteo en access
 Martes 21: reunion revision final de herramienta Miguel Katherine +extras
+Miercoles 22: presentacion preliminar a lideres
+Miercoles 22: plan de conteo semanal de grupos en tienda Katherine
+Viernes 24 : Margen por grupo dinal katherine / David  fijo no edjutable  margen en funcion ventas , existecias teoricas
+DOmingo 26 : INicio de plan semanal de productos 
+
+
