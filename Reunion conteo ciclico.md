@@ -12,3 +12,16 @@ Herrmaienta registro de costos unitarios
 Invalidacion de conteo Katherine
 Cantidad teorica en imprimible auditor
 1 solo conteo apra uditor
+
+
+Supervisor / lider desarrollo  personal en https://erp.batidospitaya.com/modulos/operaciones/gestion_colaboradores.php 
+
+Permisos
+COteo ciclico: lideres
+Auditoria : auditor / supervisor /Daniela /Katherine
+APrbacion de conteos : Adutiros (lideres + adutiores ) Daniela/Kartheirne (lideres + auditores +supercitores )
+
+
+Agenda
+Margen por grupo : katherine / David  fijo no edjutable  margen en funcion ventas , existecias teoricas
+Martes 21: reunion revision final de herramienta Miguel Katherine +extras
