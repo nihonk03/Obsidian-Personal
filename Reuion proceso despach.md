@@ -64,6 +64,7 @@ Imprimir copia de recoccion de despacho
 Despacho Real por Despacho Preparado / recibido
 +agregar a +
 Nuevo Despacho  a   Nuevo Despacho Especial
+Pedido entre tiendas registrar hora de salida de tienda
 
 
 Permisos
