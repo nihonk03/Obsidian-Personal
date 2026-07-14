@@ -9,3 +9,6 @@ Nombre En Unidad  / En paquetes en luagr de unida de control y uniad de despacho
 clor rojo ultimo conteo valida 
 
 Herrmaienta registro de costos unitarios
+Invalidacion de conteo Katherine
+Cantidad teorica en imprimible auditor
+1 solo conteo apra uditor
