@@ -68,10 +68,22 @@ Pedido entre tiendas registrar hora de salida de tienda
 
 
 Permisos
-soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
+soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica 
 Vlidacion de solciitud : supervisor de almacen / Jefe cds / jefe de produccion
 Preparacion: supervisor de almacen / Jefe cds / jefe de produccion
 Recepcion: Claboardor en turno 
-**Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
+
+
+Segunda Etapa
+**Proceso reposicion de despacho diferencias entre ecibido y solicitado 
 **movimiento entre tienda :supervisor 
-Proceso reposicion de despacho diferencias entre ecibido y solicitado 
+**Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
+**Solciitud de productos insumos fijo
+
+Miercoles 15: Jessica inicio de herramienta web para despacho de viernes en adlenate 
+Miercoles 15: Reunion virtual tarde  para ultima revision de herramienta  Todos
+Jueves 16: Instructivo en tiendas Katherine
+Viernes 17: primer despacho web/access
+Viernes 24: Capactiacion a supervisores revisar proceso Jessica con supervisores 
+Lunes 27: traslado de solciitud de despacho de Jessica a Supervisores
+Miercoles 29: Primera solicitu de despacho por supervisores para despacho de 31
