@@ -2,24 +2,19 @@
 - [x] 2 copias de hoja de despacho envio a tienda 
 - [x] check despacho ok cambio
 - [x] edicion preparacion web permiso espeial
-
 - [x] solitado :supervisor ediicon y envio de cnatidades
 - [x] preparacion: jedfe d depacho cierre de 
-
 - [x] abasteciminto alertas de cantiddades ingresadas para supervisor 
-
 - [x] Immpresion de resuemn solo de cambios
-
 - [x] alerta de cantidad ingresada distinta a la requerida en abastecimiento, 
 - [x] bloquear ingreso mayor a despacho requerido  (preparadcion ) 
-edicion global de listas solciitu de despacho katherine
-bloqueo de crear solicitu de despacho supervison no asignado a tienda 
-hisotiral despacho cds , todo operaciones tienda lider  
+- [x] edicion global de listas solciitu de despacho katherine
+- [x] bloqueo de crear solicitu de despacho supervison no asignado a tienda 
+- [x] hisotiral despacho cds , todo operaciones tienda lider  
 - [x] detalle de despacho marcar fondo rojo cuando cuanod ha tenido cambio en alguna etapa 
 - [x] columna de alertas en etalle de despacho 
 - [x] alerta en historial de despacho de cambios
-reposicion de despacho diferencias entre ecibido y solicitado 
-otro color etapadas cerradas 
+- [x] otro color etapadas cerradas 
 
 - [x] 0 decimal todo despachos / 0 decimal columna de pedido en absatecimietno
 - [x] mensaje de confirmacion de cambio de cantidad individual en cada etapa  con detalle de cambios canitdade snombre 
@@ -27,7 +22,7 @@ otro color etapadas cerradas
 - [ ] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
 - [ ] Nombre | presentacion | cant enviada  | cant recibida despacho
 
-despacho esecial todo lo que s ehace fuera de planificador 
+- [x] despacho esecial todo lo que s ehace fuera de planificador 
 
 - [x] elimianr versiones
 - [x] eliminar desbloqueo
@@ -36,10 +31,8 @@ despacho esecial todo lo que s ehace fuera de planificador
 Solicitado	supervisor tiendas ediicon y envio de cnatidades
 En Validadacion	Supervisor de almacen cierre de edicion para supervision  , retroalimenta a supervision errores antes de cerrar e impresión , imrpirmir 1 lista (predespacho)
 Preparado	personal de amacen  edira cantidades en tablet/ lista fisica  y  Supervisor de almacen aprueba y pasa a planificado, se imprime 1 lista (despacho ) 
-	Recibido	Impresión de resumen solo de cambios para firma 
+Recibido	Impresión de resumen solo de cambios para firma 
 
-
-Insumos importantes asignar toda la lista completa 
 
 
 
@@ -67,14 +60,14 @@ Predespacho / depacho en circulos de esctadp 2 + 2
 despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
 Observaciones por Cambios ralizado: preaprado: Recibido : 
-## ¿Confirmar discrepancia? a ## ¿Confirmar Cambio?
-
+¿Confirmar discrepancia? a ¿Confirmar Cambio?
 Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
 Imprimir copia de recoccion de despacho 
 Despacho Real por Despacho Preparado / recibido
 +agregar a +
 Nuevo Despacho  a   Nuevo Despacho Especial
+
 
 Permisos
 soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
@@ -83,3 +76,4 @@ Preparacion: supervisor de almacen / Jefe cds / jefe de produccion
 Recepcion: Claboardor en turno 
 **Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
 **movimiento entre tienda :supervisor 
+Proceso reposicion de despacho diferencias entre ecibido y solicitado 
