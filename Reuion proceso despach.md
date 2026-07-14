@@ -62,6 +62,19 @@ cambiar version por hroa impresion
 evnaido por preaprado en predespacho 
 Imprimir Copia ....
 Confirmar reducción a Confirmar cambio
+Imprimir despacho y pasar a apreparado
+Predespacho / depacho en circulos de esctadp 2 + 2
+despacho #  en otra linea del modalidad de despacho regular o especial
+un solo color copia y cabio de estado
+Observaciones por Cambios ralizado: preaprado: Recibido : 
+## ¿Confirmar discrepancia? a ## ¿Confirmar Cambio?
+
+Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
+Firma Recibido por:  Relelnar con uusario de clave
+Imprimir copia de recoccion de despacho 
+Despacho Real por Despacho Preparado / recibido
++agregar a +
+Nuevo Despacho  a   Nuevo Despacho Especial
 
 Permisos
 soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre
