@@ -1,10 +1,10 @@
 - [x] Preparacion hito
 - [x] 2 copias de hoja de despacho envio a tienda 
 - [x] check despacho ok cambio
-edicion preparacion web permiso espeial
+- [x] edicion preparacion web permiso espeial
 
-solitado :supervisor ediicon y envio de cnatidades
-preparacion: jedfe d depacho cierre de 
+- [x] solitado :supervisor ediicon y envio de cnatidades
+- [x] preparacion: jedfe d depacho cierre de 
 
 - [x] abasteciminto alertas de cantiddades ingresadas para supervisor 
 
