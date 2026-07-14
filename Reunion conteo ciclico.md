@@ -6,3 +6,6 @@ nombre conteo ciclico / audotiria otro nombre
 Inciiar en lugar de iprimir
 
 Nombre En Unidad  / En paquetes en luagr de unida de control y uniad de despacho 
+clor rojo ultimo conteo valida 
+
+Herrmaienta registro de costos unitarios
