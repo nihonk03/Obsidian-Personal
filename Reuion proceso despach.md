@@ -22,14 +22,16 @@
 - [x] eliminar desbloqueo
 - [x] impresion libre cada etapa 
 
-- [ ] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
-- [ ] Nombre | presentacion | cant enviada  | cant recibida despacho
 
 Solicitado	supervisor tiendas ediicon y envio de cnatidades
 En Validadacion	Supervisor de almacen cierre de edicion para supervision  , retroalimenta a supervision errores antes de cerrar e impresión , imrpirmir 1 lista (predespacho)
 Preparado	personal de amacen  edira cantidades en tablet/ lista fisica  y  Supervisor de almacen aprueba y pasa a planificado, se imprime 1 lista (despacho ) 
 Recibido	Impresión de resumen solo de cambios para firma 
 
+
+
+- [ ] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
+- [ ] Nombre | presentacion | cant enviada  | cant recibida despacho
 
 alerta items distitnos de requerido con solicitado en abastecimiento
 codig de despacho en mensaje de despacho soicitado 
