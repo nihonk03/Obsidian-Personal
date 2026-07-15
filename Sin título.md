@@ -4,6 +4,7 @@ Haremos los siguientes ajustes:
 - CUando esta en SOlciitado no debe de hacer la comparacion para calcular los cambios qu se indican en la columna de observaciones y sale por error por ejemplo Preparado: 56 cambios cuando aun esta solicitado qu es una etapa antes  
 - Cambiar Fecha Programada por Fecha planeada  
 - El encabezado Observaciones cambialo a Observaciones por cambios realizados , asi quitamos el temrino cambios despues de las cantidades  
+- Cambiar Nuevo Despacho a Nuevo Despacho Especial
   
 erp.batidospitaya.com/modulos/despacho/detalle_despacho.php  
   
