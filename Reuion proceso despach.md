@@ -63,6 +63,7 @@ Despacho Real por Despacho Preparado / recibido
 +agregar a +
 Nuevo Despacho  a   Nuevo Despacho Especial
 Pedido entre tiendas registrar hora de salida de tienda
+omitir pedido 0 en imprimibles
 
 
 Permisos
