@@ -30,12 +30,12 @@ Recibido	Impresión de resumen solo de cambios para firma
 
 
 
-- [ ] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
-- [ ] Nombre | presentacion | cant enviada  | cant recibida despacho
+- [x] Nombre | presentacion | cant solicitad  | cant evniada  predespacho
+- [x] Nombre | presentacion | cant enviada  | cant recibida despacho
 
-alerta items distitnos de requerido con solicitado en abastecimiento
-codig de despacho en mensaje de despacho soicitado 
-- [ ] tipo regular  / especial
+- [x] alerta items distitnos de requerido con solicitado en abastecimiento
+- [ ] codig de despacho en mensaje de despacho soicitado 
+- [x] tipo regular  / especial
 Fecha planeada  por fecha proogramado 
  alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
 alerta cero fondo rojo tenue 
@@ -54,7 +54,7 @@ Imprimir Copia ....
 Confirmar reducción a Confirmar cambio
 Imprimir despacho y pasar a apreparado
 Predespacho / depacho en circulos de esctado 2 + 2
-- [ ] despacho #  en otra linea del modalidad de despacho regular o especial
+- [x] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
 Observaciones por Cambios ralizado: preaprado: Recibido : 
 ¿Confirmar discrepancia? a ¿Confirmar Cambio?
