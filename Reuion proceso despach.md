@@ -57,9 +57,9 @@ un solo color copia y cabio de estado
 - [x] Observaciones por Cambios ralizado: preaprado: Recibido : 
 - [x] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
 - [ ] Pasar cantidad solicitud de despacho a despacho real cuando pasa a preaprado en pronostico abastecimiento
-Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
+- [ ] Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
-Imprimir copia de recoccion de despacho 
+Imprimir copia de recepcion de despacho 
 Despacho Real por Despacho Preparado / recibido
 +agregar a +
 Nuevo Despacho  a   Nuevo Despacho Especial
