@@ -36,25 +36,25 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] alerta items distitnos de requerido con solicitado en abastecimiento
 - [x] codig de despacho en mensaje de despacho soicitado 
 - [x] tipo regular  / especial
-- [ ] Fecha planeada  por fecha proogramado 
-- [ ] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
-- [ ] alerta cero fondo rojo tenue 
+- [x] Fecha planeada  por fecha proogramado 
+- [x] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
+- [ ] alerta cero fondo rojo tenue  aparte del amrco rojo pero solo si paso de cantidad solciitada a 0
 no borrar cambis al filtrar
 - [ ] despacho finalizado bloquea abastecimiento
-- [ ] en circulos nombre y fecha 
+- [x] en circulos nombre y fecha 
 - [ ] columna de grupos de prudcots
-- [ ] boton de impromir y validar arriba junst a impriir
-- [ ] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
-- [ ] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
-- [ ] cambiar version por hroa impresion 
-- [ ] Predespacho encabezado enviado por preparado en predespacho 
+- [x] boton de impromir y validar arriba junst a impriir
+- [x] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
+- [x] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
+- [x] cambiar version por hroa impresion 
+- [x] Predespacho encabezado "enviado" por preparado en predespacho 
 Imprimir Copia ....
-- [ ] Confirmar reducción a Confirmar cambio
-- [ ] Imprimir despacho y pasar a apreparado
-- [ ]Predespacho / depacho en circulos de esctado 2 + 2
+- [x] Confirmar reducción a Confirmar cambio
+- [x] Imprimir despacho y pasar a apreparado
+- [x] Predespacho / depacho en circulos de esctado 2 + 2
 - [x] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
-- [ ] Observaciones por Cambios ralizado: preaprado: Recibido : 
+- [x] Observaciones por Cambios ralizado: preaprado: Recibido : 
 - [ ] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
 Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
