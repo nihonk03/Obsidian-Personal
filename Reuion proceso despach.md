@@ -38,11 +38,11 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] tipo regular  / especial
 - [x] Fecha planeada  por fecha proogramado 
 - [x] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
-- [ ] alerta cero fondo rojo tenue  aparte del amrco rojo pero solo si paso de cantidad solciitada a 0
+- [x] alerta cero fondo rojo tenue  aparte del amrco rojo pero solo si paso de cantidad solciitada a 0
 no borrar cambis al filtrar
 - [ ] despacho finalizado bloquea abastecimiento
 - [x] en circulos nombre y fecha 
-- [ ] columna de grupos de prudcots
+- [x] columna de grupos de prudcots
 - [x] boton de impromir y validar arriba junst a impriir
 - [x] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
 - [x] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
@@ -56,6 +56,7 @@ Imprimir Copia ....
 un solo color copia y cabio de estado
 - [x] Observaciones por Cambios ralizado: preaprado: Recibido : 
 - [ ] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
+- [ ] Pasar cantidad solicitud de despacho a despacho real cuando pasa a preaprado en pronostico abastecimiento
 Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
 Imprimir copia de recoccion de despacho 
