@@ -34,7 +34,7 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] Nombre | presentacion | cant enviada  | cant recibida despacho
 
 - [x] alerta items distitnos de requerido con solicitado en abastecimiento
-- [ ] codig de despacho en mensaje de despacho soicitado 
+- [x] codig de despacho en mensaje de despacho soicitado 
 - [x] tipo regular  / especial
 Fecha planeada  por fecha proogramado 
  alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
