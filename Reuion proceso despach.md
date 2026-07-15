@@ -53,8 +53,8 @@ evnaido por preaprado en predespacho
 Imprimir Copia ....
 Confirmar reducción a Confirmar cambio
 Imprimir despacho y pasar a apreparado
-Predespacho / depacho en circulos de esctadp 2 + 2
-despacho #  en otra linea del modalidad de despacho regular o especial
+Predespacho / depacho en circulos de esctado 2 + 2
+- [x] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
 Observaciones por Cambios ralizado: preaprado: Recibido : 
 ¿Confirmar discrepancia? a ¿Confirmar Cambio?
