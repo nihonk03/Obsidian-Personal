@@ -59,11 +59,11 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [ ] Pasar cantidad solicitud de despacho a despacho real cuando pasa a preaprado en pronostico abastecimiento
 - [x] Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 - [x] Firma Recibido por:  Relelnar con uusario de clave
-- [ ] Imprimir copia de recepcion de despacho 
+- [x] Imprimir copia de recepcion de despacho 
 - [ ] Despacho Real por Despacho Preparado / recibido en abastecimeibto
 - [ ] +agregar a +
-- [ ] Nuevo Despacho  a   Nuevo Despacho Especial
-- [ ] Pedido entre tiendas registrar hora de salida de tienda
+- [x] Nuevo Despacho  a   Nuevo Despacho Especial
+
 
 
 neme260526
@@ -77,7 +77,7 @@ Recepcion en Tienda: Colaborador en turno
 
 Mejoras para la Segunda Etapa
 Proceso reposicion de despacho para las diferencias entre recibido y solicitado 
-movimiento entre tienda :supervisor 
+movimiento entre tienda :supervisor  registrar hora de salida de tienda
 Nota de devolucion : creado colaborador tienda / supervisor  aprobacion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
 Solciitud de productos insumos fijo de lideres de tienda
 
