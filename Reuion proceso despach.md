@@ -55,7 +55,7 @@ Imprimir Copia ....
 - [x] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
 - [x] Observaciones por Cambios ralizado: preaprado: Recibido : 
-- [ ] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
+- [x] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
 - [ ] Pasar cantidad solicitud de despacho a despacho real cuando pasa a preaprado en pronostico abastecimiento
 Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
@@ -65,6 +65,8 @@ Despacho Real por Despacho Preparado / recibido
 Nuevo Despacho  a   Nuevo Despacho Especial
 Pedido entre tiendas registrar hora de salida de tienda
 
+
+neme260526
 
 Permisos
 soicitud de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica temporal crear/editar
