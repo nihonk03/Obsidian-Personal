@@ -35,7 +35,7 @@ Recibido	Impresión de resumen solo de cambios para firma
 
 alerta items distitnos de requerido con solicitado en abastecimiento
 codig de despacho en mensaje de despacho soicitado 
-tipo regular  / especial
+- [ ] tipo regular  / especial
 Fecha planeada  por fecha proogramado 
  alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
 alerta cero fondo rojo tenue 
@@ -54,7 +54,7 @@ Imprimir Copia ....
 Confirmar reducción a Confirmar cambio
 Imprimir despacho y pasar a apreparado
 Predespacho / depacho en circulos de esctado 2 + 2
-- [x] despacho #  en otra linea del modalidad de despacho regular o especial
+- [ ] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
 Observaciones por Cambios ralizado: preaprado: Recibido : 
 ¿Confirmar discrepancia? a ¿Confirmar Cambio?
@@ -68,20 +68,20 @@ Pedido entre tiendas registrar hora de salida de tienda
 
 
 Permisos
-soicitu de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica 
+soicitud de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica temporal crear/editar
 Vlidacion de solciitud : supervisor de almacen / Jefe cds / jefe de produccion
 Preparacion: supervisor de almacen / Jefe cds / jefe de produccion
-Recepcion: Claboardor en turno 
+Recepcion en Tienda: Colaborador en turno 
 
 
-Segunda Etapa
-**Proceso reposicion de despacho diferencias entre ecibido y solicitado 
-**movimiento entre tienda :supervisor 
-**Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
-**Solciitud de productos insumos fijo
+Mejoras para la Segunda Etapa
+Proceso reposicion de despacho para las diferencias entre recibido y solicitado 
+movimiento entre tienda :supervisor 
+Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
+Solciitud de productos insumos fijo de lideres de tienda
 
-Miercoles 15: Jessica inicio de herramienta web para despacho de viernes en adlenate 
-Miercoles 15: Reunion virtual tarde  para ultima revision de herramienta  Todos
+Miercoles 15: Jessica inicio de herramienta web para despacho de viernes en adelante 
+Miercoles 15: Reunion virtual tarde para ultima revision de herramienta  Todos
 Jueves 16: Instructivo en tiendas Katherine
 Viernes 17: primer despacho web/access
 Viernes 24: Capactiacion a supervisores revisar proceso Jessica con supervisores 
