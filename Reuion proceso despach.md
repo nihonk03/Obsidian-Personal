@@ -36,8 +36,8 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] alerta items distitnos de requerido con solicitado en abastecimiento
 - [x] codig de despacho en mensaje de despacho soicitado 
 - [x] tipo regular  / especial
-Fecha planeada  por fecha proogramado 
- alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
+- [ ] Fecha planeada  por fecha proogramado 
+- [ ] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
 alerta cero fondo rojo tenue 
 no borrar cambis al filtrar
 despacho finalizado bloquea abastecimiento
