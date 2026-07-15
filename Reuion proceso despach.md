@@ -38,26 +38,24 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] tipo regular  / especial
 - [ ] Fecha planeada  por fecha proogramado 
 - [ ] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
-alerta cero fondo rojo tenue 
+- [ ] alerta cero fondo rojo tenue 
 no borrar cambis al filtrar
-despacho finalizado bloquea abastecimiento
-2ta etapa insumos fijo bajo soliicitud
-Nueva columna nota de devolucion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
-en circulos nombre y fecha 
-columna de grupos de prudcots
-boton de impromir y validar arriba junst a impriir
-Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion | Iniciar vaidacion 
-Se imprimirá el ticket para  inicar  validación 
-cambiar version por hroa impresion 
-evnaido por preaprado en predespacho 
+- [ ] despacho finalizado bloquea abastecimiento
+- [ ] en circulos nombre y fecha 
+- [ ] columna de grupos de prudcots
+- [ ] boton de impromir y validar arriba junst a impriir
+- [ ] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
+- [ ] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
+- [ ] cambiar version por hroa impresion 
+- [ ] Predespacho encabezado enviado por preparado en predespacho 
 Imprimir Copia ....
-Confirmar reducción a Confirmar cambio
-Imprimir despacho y pasar a apreparado
-Predespacho / depacho en circulos de esctado 2 + 2
+- [ ] Confirmar reducción a Confirmar cambio
+- [ ] Imprimir despacho y pasar a apreparado
+- [ ]Predespacho / depacho en circulos de esctado 2 + 2
 - [x] despacho #  en otra linea del modalidad de despacho regular o especial
 un solo color copia y cabio de estado
-Observaciones por Cambios ralizado: preaprado: Recibido : 
-¿Confirmar discrepancia? a ¿Confirmar Cambio?
+- [ ] Observaciones por Cambios ralizado: preaprado: Recibido : 
+- [ ] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
 Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
 Firma Recibido por:  Relelnar con uusario de clave
 Imprimir copia de recoccion de despacho 
@@ -77,7 +75,7 @@ Recepcion en Tienda: Colaborador en turno
 Mejoras para la Segunda Etapa
 Proceso reposicion de despacho para las diferencias entre recibido y solicitado 
 movimiento entre tienda :supervisor 
-Nota de devolucion : creado colaborador tienda / supervisor  aprobacion
+Nota de devolucion : creado colaborador tienda / supervisor  aprobacion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
 Solciitud de productos insumos fijo de lideres de tienda
 
 Miercoles 15: Jessica inicio de herramienta web para despacho de viernes en adelante 
