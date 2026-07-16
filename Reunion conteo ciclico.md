@@ -33,4 +33,7 @@ Miercoles 22: plan de conteo semanal de grupos en tienda Katherine
 Viernes 24 : Margen por grupo dinal katherine / David  fijo no edjutable  margen en funcion ventas , existecias teoricas
 DOmingo 26 : INicio de plan semanal de productos 
 
+envase bowl 50 
+pajilla 50
+
 
