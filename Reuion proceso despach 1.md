@@ -36,35 +36,37 @@ Recibido	Impresión de resumen solo de cambios para firma
 - [x] alerta items distitnos de requerido con solicitado en abastecimiento
 - [x] codig de despacho en mensaje de despacho soicitado 
 - [x] tipo regular  / especial
-- [ ] Fecha planeada  por fecha proogramado 
-- [ ] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
-- [ ] alerta cero fondo rojo tenue 
-no borrar cambis al filtrar
+- [x] Fecha planeada  por fecha proogramado 
+- [x] alerta en etapa de en validacion cuando regresa  acantidad incial pone cantidad superior
+- [x] alerta cero fondo rojo tenue  aparte del amrco rojo pero solo si paso de cantidad solciitada a 0
+- [ ] no borrar cambis al filtrar
 - [ ] despacho finalizado bloquea abastecimiento
-- [ ] en circulos nombre y fecha 
-- [ ] columna de grupos de prudcots
-- [ ] boton de impromir y validar arriba junst a impriir
-- [ ] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
-- [ ] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
-- [ ] cambiar version por hroa impresion 
-- [ ] Predespacho encabezado enviado por preparado en predespacho 
-Imprimir Copia ....
-- [ ] Confirmar reducción a Confirmar cambio
-- [ ] Imprimir despacho y pasar a apreparado
-- [ ]Predespacho / depacho en circulos de esctado 2 + 2
+- [x] en circulos nombre y fecha 
+- [x] columna de grupos de prudcots
+- [x] boton de impromir y validar arriba junst a impriir
+- [x] Imrpomir y vlaidar s olciiud  a Imprimir e inciar validacion |
+- [x] Texto del modal de confirmacion del boton Imprimir e Inicial Validacion :  Iniciar vaidacion  | Se imprimirá el ticket para  inicar  validación 
+- [x] cambiar version por hroa impresion 
+- [x] Predespacho encabezado "enviado" por preparado en predespacho 
+- [x] Imprimir Copia ....
+- [x] Confirmar reducción a Confirmar cambio
+- [x] Imprimir despacho y pasar a apreparado
+- [x] Predespacho / depacho en circulos de esctado 2 + 2
 - [x] despacho #  en otra linea del modalidad de despacho regular o especial
-un solo color copia y cabio de estado
-- [ ] Observaciones por Cambios ralizado: preaprado: Recibido : 
-- [ ] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
-Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
-Firma Recibido por:  Relelnar con uusario de clave
-Imprimir copia de recoccion de despacho 
-Despacho Real por Despacho Preparado / recibido
-+agregar a +
-Nuevo Despacho  a   Nuevo Despacho Especial
-Pedido entre tiendas registrar hora de salida de tienda
-omitir pedido 0 en imprimibles
+- [ ] un solo color copia y cabio de estado
+- [x] Observaciones por Cambios ralizado: preaprado: Recibido : 
+- [x] ¿Confirmar discrepancia? a ¿Confirmar Cambio?
+- [ ] Pasar cantidad solicitud de despacho a despacho real cuando pasa a preaprado en pronostico abastecimiento
+- [x] Cambios de Despacho #32 confirmacion de recepcion || Despacho ## ||REgular/Espcecial || Con cambios en: (izquierda) o SIn Cambios (Izquierda sn tabla)
+- [x] Firma Recibido por:  Relelnar con uusario de clave
+- [x] Imprimir copia de recepcion de despacho 
+- [ ] Despacho Real por Despacho Preparado / recibido en abastecimeibto
+- [ ] +agregar a +
+- [x] Nuevo Despacho  a   Nuevo Despacho Especial
 
+
+
+neme260526
 
 Permisos
 soicitud de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica temporal crear/editar
@@ -75,7 +77,7 @@ Recepcion en Tienda: Colaborador en turno
 
 Mejoras para la Segunda Etapa
 Proceso reposicion de despacho para las diferencias entre recibido y solicitado 
-movimiento entre tienda :supervisor 
+movimiento entre tienda :supervisor  registrar hora de salida de tienda
 Nota de devolucion : creado colaborador tienda / supervisor  aprobacion con motivo item por item  capacidad / erorr de despscho  / calidad imprimible 
 Solciitud de productos insumos fijo de lideres de tienda
 
