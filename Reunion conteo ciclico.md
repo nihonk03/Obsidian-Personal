@@ -18,8 +18,9 @@ Supervisor / lider desarrollo  personal en https://erp.batidospitaya.com/modulos
 
 Permisos
 COteo ciclico: lideres
-Auditoria : auditor / supervisor /Daniela /Katherine
-APrbacion de conteos : Adutiros (lideres + adutiores ) Daniela/Kartheirne (lideres + auditores +supercitores )
+Auditoria Libre de insumos: auditor / supervisor /Daniela /Katherine
+Validacion de conteos : Adutiros (lideres + adutiores ) Daniela/Kartheirne (lideres + auditores +supercitores )
+ANulacion de conteos : Katherine
 
 
 Agenda
