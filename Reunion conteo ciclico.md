@@ -1,16 +1,16 @@
 Auditorers Elegir tienda | Elegir grupo +/ productos
 Lideres tienda por defecto | Elegir grupos de prodcuto
 
-nombre conteo ciclico / audotiria otro nombre 
+- [x] nombre conteo ciclico / audotiria otro nombre 
 
-Inciiar en lugar de iprimir
+- [x] Inciiar en lugar de iprimir
 
-Nombre En Unidad  / En paquetes en luagr de unida de control y uniad de despacho 
-clor rojo ultimo conteo valida 
+- [x] Nombre En Unidad  / En paquetes en luagr de unida de control y uniad de despacho 
+- [x] clor rojo ultimo conteo valida 
 
 Herrmaienta registro de costos unitarios
 Invalidacion de conteo Katherine
-Cantidad teorica en imprimible auditor
+- [x] Cantidad teorica en imprimible auditor
 1 solo conteo apra uditor
 
 
