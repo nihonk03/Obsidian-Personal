@@ -66,7 +66,7 @@ Recibido	Impresión de resumen solo de cambios para firma
 
 
 
-neme260526
+jaro131025
 
 Permisos
 soicitud de despacho : SUpervisores crear/editar su tienda, katherine/Daniela editar/crear libre  + Jessica temporal crear/editar
@@ -82,6 +82,7 @@ Nota de devolucion : creado colaborador tienda / supervisor  aprobacion con moti
 Solciitud de productos insumos fijo de lideres de tienda
 Proteina 2lb leche deslactosada 
 Lote en registro de productos de despacho y fecha de vencimiento 
+Notificacion wsp / ERP pantala principal / Correo 
 
 Miercoles 15: Jessica inicio de herramienta web para despacho de viernes en adelante 
 Miercoles 15: Reunion virtual tarde para ultima revision de herramienta  Todos
