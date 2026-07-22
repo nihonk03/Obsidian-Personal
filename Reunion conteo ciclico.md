@@ -1,5 +1,5 @@
-	Auditorers Elegir tienda | Elegir grupo +/ productos
-Lideres tienda por defecto | Elegir grupos de prodcuto
+- [x] Auditorers Elegir tienda | Elegir grupo +/ productos
+- [x] Lideres tienda por defecto | Elegir grupos de prodcuto
 
 - [x] nombre conteo ciclico / audotiria otro nombre 
 
