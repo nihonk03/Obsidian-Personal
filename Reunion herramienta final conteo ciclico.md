@@ -8,7 +8,7 @@
 - [x] Invalidacion de conteo Katherine
 - [x] Cantidad teorica en imprimible auditor
 - [x] 1 solo conteo apra uditor
-
+indicador de grupo de producto si items esta en transito 
 
 Supervisor / lider desarrollo  personal en https://erp.batidospitaya.com/modulos/operaciones/gestion_colaboradores.php 
 
