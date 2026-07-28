@@ -26,3 +26,12 @@ Status aparte del tipo de falta
 
 subir vacaiones antiguos del excel de contabilidad  
 COlaboradores.php permiso katherine solo vista 
+
+
+                'nombre' => 'Conteo Cíclico',
+
+                'url' => 'inventario/historial_conteo_existencias.php',
+
+                'cargos_permitidos' => [27, 16, 49, 55, 52, 5, 43, 21, 16, 42, 33]
+
+            ],
