@@ -46,7 +46,7 @@ WHERE Compras.Hora IS NULL
 
 Indexaciond etabla subpedido
 - [x] Leon
-- [ ] Matagalpa
+- [x] Matagalpa
 - [ ] Esteli
 - [x] Altamira
 - [ ] Villa Fontana 
