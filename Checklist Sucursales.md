@@ -44,3 +44,18 @@ WHERE Compras.Hora IS NULL
 
 
 
+Indexaciond etabla subpedido
+- [x] Leon
+- [ ] Matagalpa
+- [ ] Esteli
+- [x] Altamira
+- [ ] Villa Fontana 
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
+- [ ] Calli
