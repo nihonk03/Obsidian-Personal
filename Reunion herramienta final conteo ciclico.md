@@ -32,5 +32,3 @@ DOmingo 26 : INicio de plan semanal de productos
 
 
 
-csb.informes@sanna.pe
-
