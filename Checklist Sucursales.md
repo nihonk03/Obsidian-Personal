@@ -57,5 +57,5 @@ Indexaciond etabla subpedido
 - [ ] Las Brisas
 - [ ] Rivas
 - [ ] Unica
-- [ ] Ticuantepe
-- [ ] Calli
+- [x] Ticuantepe
+- [x] Calli
