@@ -49,8 +49,8 @@ Indexaciond etabla subpedido
 - [x] Matagalpa
 - [x] Esteli
 - [x] Altamira
-- [ ] Villa Fontana 
-- [ ] Granada
+- [x] Villa Fontana 
+- [x] Granada
 - [ ] Las Colinas
 - [ ] Masaya
 - [ ] Natura
