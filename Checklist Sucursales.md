@@ -48,7 +48,7 @@ Indexaciond etabla subpedido
 - [x] Leon
 - [x] Matagalpa
 - [x] Esteli
-- [x] Altamira
+- [x] Agndxltamira
 - [x] Villa Fontana 
 - [x] Granada
 - [ ] Las Colinas
