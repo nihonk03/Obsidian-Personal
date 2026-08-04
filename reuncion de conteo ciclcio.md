@@ -4,4 +4,4 @@ kardex
 porcentaje de de variacion diferencia 
 INstalar microservicio de reconexion internet
 implementar crear despacho de operaciones no almacen
-
+Infraestructura que falta para villa fotnana 2
