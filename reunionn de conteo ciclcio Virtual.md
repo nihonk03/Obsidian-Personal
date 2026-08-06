@@ -8,3 +8,5 @@
 Infraestructura que falta para villa fotnana 2
 Balance de existencia de central en web
 hbailitar sucursal feria y escuelita para despachos 
+Boton eliminar linea de conteo 
+subir dese access deposito ni bien se ingrese
