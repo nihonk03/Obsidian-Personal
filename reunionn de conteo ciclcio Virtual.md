@@ -8,3 +8,4 @@ INstalar microservicio de reconexion internet
 implementar crear despacho de operaciones no almacen
 Infraestructura que falta para villa fotnana 2
 Balance de existencia de central en web
+hbailitar sucursal feria y escuelita para despachos 
