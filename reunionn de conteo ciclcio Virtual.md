@@ -2,10 +2,9 @@
 - [ ] excluir agua y hielo
  - [x] kardex
  - [x] porcentaje de de variacion diferencia 
+- [x] implementar crear despacho de operaciones no almacen
+- [x] Instalar microservicio de reconexion internet
 
-
-INstalar microservicio de reconexion internet
-implementar crear despacho de operaciones no almacen
 Infraestructura que falta para villa fotnana 2
 Balance de existencia de central en web
 hbailitar sucursal feria y escuelita para despachos 
