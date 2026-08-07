@@ -10,3 +10,4 @@ Balance de existencia de central en web
 hbailitar sucursal feria y escuelita para despachos 
 Boton eliminar linea de conteo 
 subir dese access deposito ni bien se ingrese
+habilitar en panel de coalboradores quien har conteo desde pc 
