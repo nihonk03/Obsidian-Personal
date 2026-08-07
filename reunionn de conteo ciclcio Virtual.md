@@ -13,3 +13,5 @@ Boton eliminar linea de conteo
 subir dese access deposito ni bien se ingrese
 habilitar en panel de coalboradores quien har conteo desde modulo tienda
 cambiat nombre de herramientas en menu para evitar confusion de las de despacho
+
+revisar proteina atigua en conteos existnts apra eliminar esos ajustes 
