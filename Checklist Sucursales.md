@@ -66,7 +66,7 @@ nueva promocion
 - [x] Esteli
 - [x] Altamira
 - [x] Villa Fontana 
-- [ ] Granada
+- [x] Granada
 - [x] Las Colinas
 - [x] Masaya
 - [x] Natura
@@ -75,3 +75,14 @@ nueva promocion
 - [ ] Unica
 - [x] Ticuantepe
 - [x] Calli
+
+Excluir con notas acalratorias:
+index_almacen
+index_atencioncliente
+index_auxiliaradministrativo
+index_cds
+
+
+eliminado:
+compra_local_planificador_stock
+compra_local_gestion_perfiles
