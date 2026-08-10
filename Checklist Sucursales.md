@@ -48,7 +48,7 @@ Indexaciond etabla subpedido
 - [x] Leon
 - [x] Matagalpa
 - [x] Esteli
-- [x] Agndxltamira
+- [x] Altamira
 - [x] Villa Fontana 
 - [x] Granada
 - [ ] Las Colinas
@@ -58,4 +58,20 @@ Indexaciond etabla subpedido
 - [ ] Rivas
 - [ ] Unica
 - [x] Ticuantepe
+- [x] Calli
+
+nueva promocion
+- [ ] Leon
+- [ ] Matagalpa
+- [ ] Esteli
+- [x] Altamira
+- [ ] Villa Fontana 
+- [ ] Granada
+- [ ] Las Colinas
+- [ ] Masaya
+- [ ] Natura
+- [ ] Las Brisas
+- [ ] Rivas
+- [ ] Unica
+- [ ] Ticuantepe
 - [x] Calli
