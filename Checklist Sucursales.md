@@ -61,17 +61,17 @@ Indexaciond etabla subpedido
 - [x] Calli
 
 nueva promocion
-- [ ] Leon
-- [ ] Matagalpa
-- [ ] Esteli
+- [x] Leon
+- [x] Matagalpa
+- [x] Esteli
 - [x] Altamira
-- [ ] Villa Fontana 
+- [x] Villa Fontana 
 - [ ] Granada
-- [ ] Las Colinas
-- [ ] Masaya
-- [ ] Natura
-- [ ] Las Brisas
+- [x] Las Colinas
+- [x] Masaya
+- [x] Natura
+- [x] Las Brisas
 - [ ] Rivas
 - [ ] Unica
-- [ ] Ticuantepe
+- [x] Ticuantepe
 - [x] Calli
