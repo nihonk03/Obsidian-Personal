@@ -76,3 +76,5 @@ nueva promocion
 - [x] Ticuantepe
 - [x] Calli
 
+1. ya se actualizo erp.batidospitaya.com\modulos\atencioncliente\resenas_google.php con el permiso nuevo llmado kpi_resenas_google  
+2. las acciones no se estan leyendo bien, por ejemplo viaticios.php esta leyendo bien el tool pero si existen acciones apra ese tool y no sale en la tabla
