@@ -76,5 +76,32 @@ nueva promocion
 - [x] Ticuantepe
 - [x] Calli
 
-1. ya se actualizo erp.batidospitaya.com\modulos\atencioncliente\resenas_google.php con el permiso nuevo llmado kpi_resenas_google 2. las acciones no se estan leyendo bien, por ejemplo viaticios.php esta leyendo bien el tool pero si existen acciones apra ese tool y no sale en la tabla  
-2. se elimino reportes.php no existe ni existio por lo visto
+
+
+Searched for "tienePermiso\s*\(\s*['"]avisos_internos['"]"
+
+La función `tienePermiso('avisos_internos', ...` se manda a llamar en los siguientes archivos dentro de tu proyecto, específicamente en la ruta `modulos/supervision/auditorias_original/`:
+
+1. **[index_avisos_publico.php](file:///c:/Users/migue/Desktop/Sistema/Pitaya%20Web/VisualCode/erp.batidospitaya.com/modulos/supervision/auditorias_original/index_avisos_publico.php#L13)** (Línea 13)
+   ```php
+   if (!tienePermiso('avisos_internos', 'vista', $cargoOperario)) {
+   ```
+
+2. **[index_avisos.php](file:///c:/Users/migue/Desktop/Sistema/Pitaya%20Web/VisualCode/erp.batidospitaya.com/modulos/supervision/auditorias_original/index_avisos.php#L21)** (Línea 21 y 129)
+   ```php
+   // Línea 21
+   if (!tienePermiso('avisos_internos', 'vista_admin', $cargoOperario) && !$esAdmin) {
+   // ...
+   // Línea 129
+   $canEdit = tienePermiso('avisos_internos', 'editar', $cargoOperario) || $esAdmin;
+   ```
+
+3. **[editarAviso.php](file:///c:/Users/migue/Desktop/Sistema/Pitaya%20Web/VisualCode/erp.batidospitaya.com/modulos/supervision/auditorias_original/editarAviso.php#L20)** (Línea 20)
+   ```php
+   if (!tienePermiso('avisos_internos', 'editar', $cargoOperario) && !$esAdmin) {
+   ```
+
+4. **[agregarAviso.php](file:///c:/Users/migue/Desktop/Sistema/Pitaya%20Web/VisualCode/erp.batidospitaya.com/modulos/supervision/auditorias_original/agregarAviso.php#L19)** (Línea 19)
+   ```php
+   if (!tienePermiso('avisos_internos', 'crear', $cargoOperario) && !$esAdmin) {
+   ```
