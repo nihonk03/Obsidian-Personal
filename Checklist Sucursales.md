@@ -83,12 +83,17 @@ index_auxiliaradministrativo
 index_cds
 index_compras
 index_contabilidad
+index_mantenimiento
 
-
-eliminado:
+herramientas eliminadas:
 compra_local_planificador_stock
 compra_local_gestion_perfiles
+
+eliminados, aun queda permiso en base datos
+porcentajes_inventario
 
 Excluir herramientas desarrollo
 historial_solicitudes_cotizacion
 reembolsos_ia_plantilla
+gestion_tareas_reuniones
+gestion_tareas_reuniones_detalle
