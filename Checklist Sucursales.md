@@ -81,8 +81,14 @@ index_almacen
 index_atencioncliente
 index_auxiliaradministrativo
 index_cds
+index_compras
+index_contabilidad
 
 
 eliminado:
 compra_local_planificador_stock
 compra_local_gestion_perfiles
+
+Excluir herramientas desarrollo
+historial_solicitudes_cotizacion
+reembolsos_ia_plantilla
