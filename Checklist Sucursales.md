@@ -84,10 +84,12 @@ index_cds
 index_compras
 index_contabilidad
 index_mantenimiento
+index_marketing
 
-herramientas eliminadas:
+herramientas acabo de eliminarlas:
 compra_local_planificador_stock
 compra_local_gestion_perfiles
+planificacion_mantenimiento
 
 eliminados, aun queda permiso en base datos
 porcentajes_inventario
@@ -97,3 +99,16 @@ historial_solicitudes_cotizacion
 reembolsos_ia_plantilla
 gestion_tareas_reuniones
 gestion_tareas_reuniones_detalle
+historial_activos
+registro_equipos
+movimientos_equipos
+calendario_mantenimiento
+dashboard_equipos
+solicitudes_mantenimiento
+puntos_reglas
+puntos_catalogo
+promociones
+calendario_horarios
+registro_vacaciones
+ia_graficos_ventas
+gestion_proyectos
