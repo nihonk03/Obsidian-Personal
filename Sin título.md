@@ -26,3 +26,9 @@ Columa estado : En revision  / AProbado / Rechazado
 
 Nueva herramietna 
 Plan Anual Feriados modo vista de plan de fierado
+
+[Editar Colaborador](boton no aplica para bloquear input
+
+# Contactos de Colaboradores inhabilitar
+
+# Cumpleaños de Colaboradores solo isabell
