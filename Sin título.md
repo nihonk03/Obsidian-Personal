@@ -10,5 +10,8 @@ Faltas/AUsencias
 elimianr termino de falta queda solo ausencia
 actualizar mdoal de editar falta manual
 Tipo de Falta: dividido en Clasificacion y subclasificacion
-columna  CLasificacion 
-columna estado
+columna  CLasificacion  (Clasificacion + subclasificacion)
+columna estado | Injustificado En REvision Operaciones | En revision GTH | Cerrado 
+dIVISION Lider   quien hiso
+Division de caso operativos primer segmento solo dias especificos CON OPCION DE VALIDAR GTH quien hiso
+division de casos gth quien hiso 
