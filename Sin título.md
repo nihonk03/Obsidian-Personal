@@ -23,3 +23,5 @@ Columa estado : En revision  / AProbado / Rechazado
 
 
 *Descargable de vacaciones  pendientes * herraeminta nueva  formato excel actual , maestro de colaboradores columna vaciaone spendientes 
+
+Nueva herramietna 
