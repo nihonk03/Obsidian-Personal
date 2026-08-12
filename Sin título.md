@@ -9,3 +9,6 @@ Elimianr farbar
 Faltas/AUsencias
 elimianr termino de falta queda solo ausencia
 actualizar mdoal de editar falta manual
+Tipo de Falta: dividido en Clasificacion y subclasificacion
+columna  CLasificacion 
+columna estado
