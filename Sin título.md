@@ -32,3 +32,6 @@ Plan Anual Feriados modo vista de plan de fierado
 # Contactos de Colaboradores inhabilitar
 
 # Cumpleaños de Colaboradores solo isabell
+
+
+Agregaremos una columna nueva a la izquierda de clasificacion llamada Incidencia que para el caso de las tardanzas salga Tardanza 
