@@ -9,6 +9,8 @@ verificar 1min tardanza
 Exportado con columna de tiempo de tardanza en min
 botn enviar justifiacion de lider 
 
+Tardanzas operaciones observaciones antes de decision 
+
 Faltas/AUsencias
 elimianr termino de falta regitro queda solo ausencia
 actualizar mdoal de editar falta manual
@@ -25,6 +27,10 @@ editable hasta en revision oepraciones por lider
 enrevision rrhh  a gth
 **retroalimentar horario planificado  con tipos de falta 
 verificar interferencia de registros desde lider y extension de gth de tipo de falta 
+
+Vacaciones 
+2 modales pra imprimir ticket etapa y enviar solicitud
+
 
   
 Registro de Vacaciones/Subsidios  queda vacaciones Programadas 
