@@ -1,10 +1,13 @@
 Tardanzas
 - Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
-- Columna Estauts No reportado a cerrado , No Válido a cerrado , Pendiente de Aprobación  a En Revision , aprobado a cerrado  ultima columna 
+- Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
 
 botones visibles columnas acciones mostrar todas con leyenda en encabezado
 filtro de acciones pendites de solicitud
 Elimianr farbar de boton nuevo
+verificar 1min tardanza
+Exportado con columna de tiempo de tardanza en min
+botn enviar justifiacion de lider 
 
 Faltas/AUsencias
 elimianr termino de falta regitro queda solo ausencia
@@ -15,6 +18,13 @@ Tipo de Falta: dividido en Clasificacion y subclasificacion
 dIVISION Lider   quien hiso 
 Division de caso operativos primer segmento solo dias especificos CON OPCION DE VALIDAR GTH quien hiso
 division de casos gth quien hiso 
+Envio de varias fotos por etapa
+Titulod e formulario de lider a Registrar Evidencias 
+foto no obligaria en ninguna etapa
+editable hasta en revision oepraciones por lider
+enrevision rrhh  a gth
+**retroalimentar horario planificado  con tipos de falta 
+verificar interferencia de registros desde lider y extension de gth de tipo de falta 
 
   
 Registro de Vacaciones/Subsidios  queda vacaciones Programadas 
