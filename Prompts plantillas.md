@@ -4,10 +4,6 @@ Que archivo dentro de erp.batidospitaya.com/ llama, lo usa o es llamado por este
 
 
 
-
-
-    obtener_detalles_cambios.php
-    obtener_auditorias_pendientes.php
     guardar_horario_operario.php
     guardar_horario_calendario.php
     guardar_horario_calendario2.php
