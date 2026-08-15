@@ -4,7 +4,6 @@ Que archivo dentro de erp.batidospitaya.com/ llama, lo usa o es llamado por este
 
 
 
-    guardar_horario_operario.php
     guardar_horario_calendario.php
     guardar_horario_calendario2.php
     eliminar_horario_operario.php
