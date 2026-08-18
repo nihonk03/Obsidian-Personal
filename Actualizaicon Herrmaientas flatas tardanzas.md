@@ -51,8 +51,6 @@ Columa estado : En revision  / AProbado / Rechazado
 
 8. Agregar filtros de encabezado a las columans Clasificación y Estado del estilo seleccionable como la columna Sucursal
 
-
-
 9. Actualmente para la aprobaciond e tardanzas quien tiene permiso aprobacion_tardanzas ve los botones de aceptar y rechazar , vamos a cambiar eso, pondremos un boton como el boton actual de Gestionar caso que se llamara Validar Justificacion donde se abrira un modal con un input para ingresar observaciones y recien ahi los botones de aprobar y rechazar siempre mantenienido los mismo permisos para entrar a ese modal , ese input de observaciones se guardara en TardanzasManuales.observaciones_operaciones que es una nueva columna
 
 
