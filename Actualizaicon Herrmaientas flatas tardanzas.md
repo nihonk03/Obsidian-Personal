@@ -92,8 +92,20 @@ Descargable agregar columna de codigo de contrato
 Descargable tardaznas tipo , observaciones de lider 
 revisar lectura de feriados en hstorial 
 
+
+
+
+
 ausencias
 boton   Registrar Evidencias
+modal de reporte de ausencia, leyenda con como ingresar observaciones
+actualizar termino de 2. Solicitud del Líder a reporte
+Nuevo tipo en horario programado "En capacitacion"
 
 Nuevas implementaciones:
 Columna nueva 
+
+
+
+
+retroceder: Dilanis Ileana Rodriguez Sanchez  **Fecha:** 2026-06-30 **Tienda:** Ticuantepe a validar por operaciones 
