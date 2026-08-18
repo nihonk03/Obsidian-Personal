@@ -64,3 +64,36 @@ Plan Anual Feriados modo vista de plan de fierado
 
 erp.batidospitaya.com/modulos/rh/ver_marcaciones_todas_nuevo.php  
   
+
+
+18/08/2026
+Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
+Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
+HOrarios programados: bloquear segun hora de salida programda
+	helper singicado  de Estado y claidficacion
+modal ##### Seguimiento de Tardanza agregar Tipo de Justificación:
+  
+moda; Justificación de Tardanza foto no obligatorio
+  
+Resolución GTH a    Resolución Operaciones
+texto uniforme
+Boton rechazar en rojo 
+Boton cancelar a modal de vista 
+Validar refresh de pagina al cerrar modales 
+condicionar filtro spor pestana
+actualizar excel exportable confiltros y estrutura
+Filtro de calendario agregar boton de boton aplicar + desde hasta input
+filtros al cambiar d epagina restaurar
+colaborador mostrar segundo nombre 
+descargable agregr numero de seguro con permiso especial 
+Nueva columna de diferencia de minutos (tardanzas)
+horas marcada  planificadas agregar h
+Descargable agregar columna de codigo de contrato 
+Descargable tardaznas tipo , observaciones de lider 
+revisar lectura de feriados en hstorial 
+
+ausencias
+boton   Registrar Evidencias
+
+Nuevas implementaciones:
+Columna nueva 
