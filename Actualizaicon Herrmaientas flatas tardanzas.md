@@ -101,6 +101,7 @@ boton   Registrar Evidencias
 modal de reporte de ausencia, leyenda con como ingresar observaciones
 actualizar termino de 2. Solicitud del Líder a reporte
 Nuevo tipo en horario programado "En capacitacion"
+mordal ## Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
 
 Nuevas implementaciones:
 Columna nueva 
