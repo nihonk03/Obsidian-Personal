@@ -102,6 +102,9 @@ modal de reporte de ausencia, leyenda con como ingresar observaciones
 actualizar termino de 2. Solicitud del Líder a reporte
 Nuevo tipo en horario programado "En capacitacion"
 mordal ## Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
+Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta: cambiar a Fecha Hasta y debajo de tipo 
+Observaciones GTH: cambiar por observaciobes
+Descargabke apra ausencias agregar numero inss
 
 Nuevas implementaciones:
 Columna nueva 
