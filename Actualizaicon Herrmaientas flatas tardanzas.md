@@ -1,15 +1,15 @@
 Tardanzas
-- Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
-- Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
+- [x] Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
+- [x] Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
 
-botones visibles columnas acciones mostrar todas con leyenda en encabezado
-filtro de acciones pendites de solicitud
-Elimianr farbar de boton nuevo
-verificar 1min tardanza
+- [x] botones visibles columnas acciones mostrar todas con leyenda en encabezado
+- [x] filtro de acciones pendites de solicitud
+- [x] Elimianr farbar de boton nuevo
+- [x] verificar 1min tardanza
 Exportado con columna de tiempo de tardanza en min
-botn enviar justifiacion de lider 
+- [x] botn enviar justifiacion de lider 
 
-Tardanzas operaciones observaciones antes de decision 
+- [x] Tardanzas operaciones observaciones antes de decision 
 
 Faltas/AUsencias
 elimianr termino de falta regitro queda solo ausencia
