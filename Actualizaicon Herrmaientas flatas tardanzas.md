@@ -46,12 +46,11 @@ Columa estado : En revision  / AProbado / Rechazado
 6. Cambiar el status de las fotos en todas las etpaadas de ausencias a no obligatorias
 7. Todos los modales deben de tener el estilo de  Seguimiento de Tardanza en colores completod nada de gradient, forma tamano de texto etc
 
+Vamos a inhabilitar temporalmente la pestana Feriados y sus botones que apareciean en la columna Acciones , solo temporal asi que dejalo como nota y ocultalo, igualmente con el boton de solicitar horas extras
+Vamos a dividir el modal  Solicitud de vacaciones en dos etapas entonces pondremos un boton en el fab llamado imprimir Fotmato de solicitud de vacaiones odnde se abrir un modal  con Tienda:, Fecha Inicio:, Fecha Fin:, Días Vacaciones:, Colaborador: y el boton imprimir ticket que ahora se llamara Imprimir Formato de solicitud , todo eso sera lo mismo del modal actual  Solicitud de vacaciones y en el boton actual de solicitar vacaciones lo renombraremos como registrar solicitu de vacaciones y ahi saldra Foto de Boleta (Obligatoria): y el boton de guardar co todos los cmpos de arriba editables pero sin el boton de imprimir ticket 
 
 
 
-8. Agregar filtros de encabezado a las columans Clasificación y Estado del estilo seleccionable como la columna Sucursal
-
-9. Actualmente para la aprobaciond e tardanzas quien tiene permiso aprobacion_tardanzas ve los botones de aceptar y rechazar , vamos a cambiar eso, pondremos un boton como el boton actual de Gestionar caso que se llamara Validar Justificacion donde se abrira un modal con un input para ingresar observaciones y recien ahi los botones de aprobar y rechazar siempre mantenienido los mismo permisos para entrar a ese modal , ese input de observaciones se guardara en TardanzasManuales.observaciones_operaciones que es una nueva columna
 
 
 
