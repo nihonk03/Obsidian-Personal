@@ -91,8 +91,8 @@ horas marcada  planificadas agregar h
 Descargable agregar columna de codigo de contrato 
 Descargable tardaznas tipo , observaciones de lider 
 revisar lectura de feriados en hstorial 
-
-
+Cambio de Gestionar a Revision en modales opciociones gth
+Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
 
 
@@ -109,3 +109,6 @@ Columna nueva
 
 
 retroceder: Dilanis Ileana Rodriguez Sanchez  **Fecha:** 2026-06-30 **Tienda:** Ticuantepe a validar por operaciones 
+
+
+Implementacion Lubes 24 
