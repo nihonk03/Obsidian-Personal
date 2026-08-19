@@ -12,3 +12,4 @@ Instalaciontanque de agua
 Camaras nuevas 
 Equpo de sonido 
 Instalacion plantsa electric 
+lavandero de acero
