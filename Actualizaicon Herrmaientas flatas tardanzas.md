@@ -91,17 +91,17 @@ horas marcada  planificadas agregar h
 Descargable agregar columna de codigo de contrato 
 Descargable tardaznas tipo , observaciones de lider 
 revisar lectura de feriados en hstorial 
-Cambio de Gestionar a Revision en modales opciociones gth
+
 Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
 
 
 ausencias
-boton   Registrar Evidencias
-modal de reporte de ausencia, leyenda con como ingresar observaciones
-actualizar termino de 2. Solicitud del Líder a reporte
-Nuevo tipo en horario programado "En capacitacion"
-mordal ## Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
+- [ ] boton   Registrar Evidencias
+- [ ] modal de reporte de ausencia, leyenda con como ingresar observaciones (Mari)
+- [ ] actualizar termino de 2. Solicitud del Líder a reporte
+Cambio de Gestionar a Revision en modales opciociones gth
+mordal  Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
 Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta: cambiar a Fecha Hasta y debajo de tipo 
 Observaciones GTH: cambiar por observaciobes
 Descargabke apra ausencias agregar numero inss
@@ -111,7 +111,7 @@ Columna nueva
 
 
 
-
+Nuevo tipo en horario programado "En capacitacion"
 retroceder: Dilanis Ileana Rodriguez Sanchez  **Fecha:** 2026-06-30 **Tienda:** Ticuantepe a validar por operaciones 
 
 
