@@ -11,3 +11,4 @@ espejo grande
 Instalaciontanque de agua 
 Camaras nuevas 
 Equpo de sonido 
+Instalacion plantsa electric 
