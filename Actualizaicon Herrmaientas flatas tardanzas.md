@@ -41,30 +41,22 @@ Columa estado : En revision  / AProbado / Rechazado
 18/08/2026
 ### Tardanzas
 Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
-HOrarios programados: bloquear segun hora de salida programda
 helper singicado  de Estado y claidficacion
 modal  Seguimiento de Tardanza agregar Tipo de Justificación:
 modal Justificación de Tardanza foto no obligatorio
+- [x] Resolución GTH a    Resolución Operaciones
 
 ### AUsencias 
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
-Resolución GTH a    Resolución Operaciones
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
 Boton cancelar a modal de vista 
-Validar refresh de pagina al cerrar modales 
-condicionar filtro spor pestana
-actualizar excel exportable confiltros y estrutura
-Filtro de calendario agregar boton de boton aplicar + desde hasta input
-filtros al cambiar d epagina restaurar
-colaborador mostrar segundo nombre 
-descargable agregr numero de seguro con permiso especial 
-Nueva columna de diferencia de minutos (tardanzas)
-horas marcada  planificadas agregar h
-Descargable agregar columna de codigo de contrato 
-Descargable tardaznas tipo , observaciones de lider 
-revisar lectura de feriados en hstorial 
+- [x] condicionar filtro spor pestana
 
+## General
+colaborador mostrar segundo nombre 
+horas marcada  planificadas agregar h
+- [x] revisar lectura de feriados en hstorial 
 - [x] Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
 
@@ -81,8 +73,12 @@ Descargabke apra ausencias agregar numero inss
 
 ## Nuevas implementaciones:
 
- # Exportable Excel
-
+ # - Exportable Excel
+ actualizar excel exportable confiltros y estrutura
+descargable agregr numero de seguro con permiso especial 
+Nueva columna de diferencia de minutos (tardanzas)
+Descargable agregar columna de codigo de contrato 
+Descargable tardaznas tipo , observaciones de lider 
 
 
 Nuevo tipo en horario programado "En capacitacion"
@@ -108,3 +104,8 @@ Plan Anual Feriados modo vista de plan de fierado
 # Contactos de Colaboradores inhabilitar
 
 # Cumpleaños de Colaboradores solo isabell
+
+Validar refresh de pagina al cerrar modales 
+Filtro de calendario agregar boton de boton aplicar + desde hasta input
+filtros al cambiar depagina restaurar
+HOrarios programados: bloquear segun hora de salida programda
