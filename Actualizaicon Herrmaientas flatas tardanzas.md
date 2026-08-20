@@ -49,8 +49,8 @@ modal Justificación de Tardanza foto no obligatorio
 ### AUsencias 
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 Resolución GTH a    Resolución Operaciones
-texto uniforme
-Boton rechazar en rojo 
+- [x] texto uniforme
+- [x] Boton rechazar en rojo 
 Boton cancelar a modal de vista 
 Validar refresh de pagina al cerrar modales 
 condicionar filtro spor pestana
@@ -79,8 +79,9 @@ Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta:
 Observaciones GTH: cambiar por observaciobes
 Descargabke apra ausencias agregar numero inss
 
-Nuevas implementaciones:
-Columna nueva 
+## Nuevas implementaciones:
+
+ # Exportable Excel
 
 
 
