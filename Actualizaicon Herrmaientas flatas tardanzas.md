@@ -64,8 +64,8 @@ erp.batidospitaya.com/modulos/rh/ver_marcaciones_todas_nuevo.php
 Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 HOrarios programados: bloquear segun hora de salida programda
-	helper singicado  de Estado y claidficacion
-modal ##### Seguimiento de Tardanza agregar Tipo de Justificación:
+helper singicado  de Estado y claidficacion
+modal  Seguimiento de Tardanza agregar Tipo de Justificación:
   
 moda; Justificación de Tardanza foto no obligatorio
   
