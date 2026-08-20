@@ -1,4 +1,4 @@
-Tardanzas: 
+### Tardanzas: 
 - [x] Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
 - [x] Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
 
@@ -11,7 +11,7 @@ Exportado con columna de tiempo de tardanza en min
 
 - [x] Tardanzas operaciones observaciones antes de decision 
 
-Faltas/AUsencias :
+### Faltas/AUsencias :
 - [x] elimianr termino de falta regitro queda solo ausencia
 - [x] actualizar mdoal de editar falta manual
 - [x] Tipo de Falta: dividido en Clasificacion y subclasificacion
@@ -27,14 +27,10 @@ editable hasta en revision oepraciones por lider
 - [x] enrevision rrhh  a gth
 
 
-**retroalimentar horario planificado  con tipos de falta 
+retroalimentar horario planificado  con tipos de falta 
 verificar interferencia de registros desde lider y extension de gth de tipo de falta 
 
-Vacaciones :
-- [ ] 2 modales pra imprimir ticket etapa y enviar solicitud
 
-
-  
 Registro de Vacaciones/Subsidios  queda vacaciones Programadas 
 COlumna Clasificficacion Programada / Por Uausencia
 Columa estado : En revision  / AProbado / Rechazado
@@ -42,33 +38,16 @@ Columa estado : En revision  / AProbado / Rechazado
 
 
 
-
-
-*Descargable de vacaciones  pendientes * herraeminta nueva  formato excel actual , maestro de colaboradores columna vaciaone spendientes 
-
-Nueva herramietna 
-Plan Anual Feriados modo vista de plan de fierado
-
-[Editar Colaborador](boton no aplica para bloquear input
-
-# Contactos de Colaboradores inhabilitar
-
-# Cumpleaños de Colaboradores solo isabell
-
-
-erp.batidospitaya.com/modulos/rh/ver_marcaciones_todas_nuevo.php  
-  
-
-
 18/08/2026
+### Tardanzas
 Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
-Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 HOrarios programados: bloquear segun hora de salida programda
 helper singicado  de Estado y claidficacion
 modal  Seguimiento de Tardanza agregar Tipo de Justificación:
-  
-moda; Justificación de Tardanza foto no obligatorio
-  
+modal Justificación de Tardanza foto no obligatorio
+
+### AUsencias 
+Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 Resolución GTH a    Resolución Operaciones
 texto uniforme
 Boton rechazar en rojo 
@@ -86,7 +65,7 @@ Descargable agregar columna de codigo de contrato
 Descargable tardaznas tipo , observaciones de lider 
 revisar lectura de feriados en hstorial 
 
-Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
+- [x] Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
 
 
@@ -113,6 +92,18 @@ Implementacion Lubes 24
 subir tipos de tardanzas jueves 
 
 
+### Vacaciones :
+- [ ] 2 modales pra imprimir ticket etapa y enviar solicitud
 
+### Herramietnas nuevas: 
 
+*Descargable de vacaciones  pendientes * herraeminta nueva  formato excel actual , maestro de colaboradores columna vaciaone spendientes 
 
+Nueva herramietna 
+Plan Anual Feriados modo vista de plan de fierado
+
+[Editar Colaborador](boton no aplica para bloquear input
+
+# Contactos de Colaboradores inhabilitar
+
+# Cumpleaños de Colaboradores solo isabell
