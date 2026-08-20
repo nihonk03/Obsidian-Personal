@@ -109,3 +109,7 @@ Validar refresh de pagina al cerrar modales
 Filtro de calendario agregar boton de boton aplicar + desde hasta input
 filtros al cambiar depagina restaurar
 HOrarios programados: bloquear segun hora de salida programda
+
+
+
+Vamos a crear un boton en el fab tools que dia Registrar ausencia y se abre un modal tal cual el modal Validacion GTH donde unicamente habra un campo nuevo de colaborador donde sera input para escibir nombre y se vaya mostrando la lista de colaboradores que van coincidiendo y el resto de cosas queda igual apra que se registre faltasmanual
