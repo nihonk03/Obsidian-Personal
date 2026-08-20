@@ -79,6 +79,7 @@ descargable agregr numero de seguro con permiso especial
 Nueva columna de diferencia de minutos (tardanzas)
 Descargable agregar columna de codigo de contrato 
 Descargable tardaznas tipo , observaciones de lider 
+SUbclasificoancion de ausencia 
 
 
 Nuevo tipo en horario programado "En capacitacion"
