@@ -42,15 +42,15 @@ Columa estado : En revision  / AProbado / Rechazado
 ### Tardanzas
 Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
 helper singicado  de Estado y claidficacion
-modal  Seguimiento de Tardanza agregar Tipo de Justificación:
-modal Justificación de Tardanza foto no obligatorio
+- [x] modal  Seguimiento de Tardanza agregar Tipo de Justificación:
+- [x] modal Justificación de Tardanza foto no obligatorio
 - [x] Resolución GTH a    Resolución Operaciones
 
 ### AUsencias 
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
-- [ ] Boton cancelar a modal de vista 
+- [x] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
 
 ## General
