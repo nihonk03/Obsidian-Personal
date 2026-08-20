@@ -50,7 +50,7 @@ modal Justificación de Tardanza foto no obligatorio
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
-Boton cancelar a modal de vista 
+- [ ] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
 
 ## General
