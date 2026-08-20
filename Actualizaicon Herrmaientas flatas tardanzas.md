@@ -42,12 +42,6 @@ Columa estado : En revision  / AProbado / Rechazado
 
 
 
-Vamos a inhabilitar temporalmente la pestana Feriados y sus botones que apareciean en la columna Acciones , solo temporal asi que dejalo como nota y ocultalo, igualmente con el boton de solicitar horas extras
-Vamos a dividir el modal  Solicitud de vacaciones en dos etapas entonces pondremos un boton en el fab llamado imprimir Fotmato de solicitud de vacaiones odnde se abrir un modal  con Tienda:, Fecha Inicio:, Fecha Fin:, Días Vacaciones:, Colaborador: y el boton imprimir ticket que ahora se llamara Imprimir Formato de solicitud , todo eso sera lo mismo del modal actual  Solicitud de vacaciones y en el boton actual de solicitar vacaciones lo renombraremos como registrar solicitu de vacaciones y ahi saldra Foto de Boleta (Obligatoria): y el boton de guardar co todos los cmpos de arriba editables pero sin el boton de imprimir ticket 
-
-
-
-
 
 
 *Descargable de vacaciones  pendientes * herraeminta nueva  formato excel actual , maestro de colaboradores columna vaciaone spendientes 
