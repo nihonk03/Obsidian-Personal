@@ -45,13 +45,19 @@ helper singicado  de Estado y claidficacion
 - [x] modal  Seguimiento de Tardanza agregar Tipo de Justificación:
 - [x] modal Justificación de Tardanza foto no obligatorio
 - [x] Resolución GTH a    Resolución Operaciones
-
+- [x] Mover botones de aceptar denegar a modal principal de seguimiento de tardanza
+- [ ] 
 ### AUsencias 
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
 - [x] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
+- [ ] Fecha operaicones solo visible 
+- [ ] Total Dias Seleccionados :        debajo dias periodo elegido 
+- [ ]  Cambiar Nota por Tratamiento en Nomina: …
+- [ ] Nueva columna Motivo;   Permiso con goce -, …
+- [ ]  Para usencias columna Clasifiacion: Justifiaco injustifiacdo
 
 ## General
 colaborador mostrar segundo nombre 
