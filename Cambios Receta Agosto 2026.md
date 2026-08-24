@@ -65,3 +65,4 @@ Granola 15gr
 
 
 Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
+Habilitar camvio de ingrediente en combos
