@@ -20,30 +20,27 @@
 - [x] Envio de varias fotos por etapa
 - [x] Titulod e formulario de lider a Registrar Evidencias 
 - [x] foto no obligaria en ninguna etapa
-editable hasta en revision oepraciones por lider
+- [x] COlumna Clasificficacion Programada / Por Uausencia
+- [x] Columa estado : En revision  / AProbado / Rechazado
 - [x] enrevision rrhh  a gth
 
 
 retroalimentar horario planificado  con tipos de falta 
 verificar interferencia de registros desde lider y extension de gth de tipo de falta 
 
+CUando se impemente solciitud de vacaciones los registros de Vacaciones/Subsidios  queda vacaciones Programadas 
 
-Registro de Vacaciones/Subsidios  queda vacaciones Programadas 
-COlumna Clasificficacion Programada / Por Uausencia
-Columa estado : En revision  / AProbado / Rechazado
-
-
+editable hasta en revision oepraciones por lider
 
 
 18/08/2026
 ### Tardanzas
-Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
-helper singicado  de Estado y claidficacion
+- [ ] Pasado la hora de salida programada   (Agregarlo como nora en modal)
+- [ ] helper singicado  de Estado y claidficacion
 - [x] modal  Seguimiento de Tardanza agregar Tipo de Justificación:
 - [x] modal Justificación de Tardanza foto no obligatorio
 - [x] Resolución GTH a    Resolución Operaciones
 - [x] Mover botones de aceptar denegar a modal principal de seguimiento de tardanza
-- [ ] 
 ### AUsencias 
 Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
