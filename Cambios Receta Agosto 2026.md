@@ -55,7 +55,7 @@ ENergy Green
 Naranja 2oz a 4oz
 
 Equivalente cucharas actual
-Mani Horneado 12gr
+Mani Horneado 12gr  
 Proteina 12gr
 Avena 12gr
 COco Rayado 10gr
