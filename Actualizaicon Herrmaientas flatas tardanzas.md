@@ -47,7 +47,7 @@ Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en m
 - [x] Boton rechazar en rojo 
 - [x] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
-- [ ] Fecha operaicones solo visible 
+- [x] Fecha operaicones solo visible 
 - [ ] Total Dias Seleccionados :        debajo dias periodo elegido 
 - [ ]  Cambiar Nota por Tratamiento en Nomina: …
 - [ ] Nueva columna Motivo;   Permiso con goce -, …
