@@ -35,14 +35,14 @@ editable hasta en revision oepraciones por lider
 
 18/08/2026
 ### Tardanzas
-- [ ] Pasado la hora de salida programada   (Agregarlo como nora en modal)
+- [ ] Botones de acciones: Pasado la hora de salida programada   de entrada (Agregarlo como nora en modal)
 - [ ] helper singicado  de Estado y claidficacion
 - [x] modal  Seguimiento de Tardanza agregar Tipo de Justificación:
 - [x] modal Justificación de Tardanza foto no obligatorio
 - [x] Resolución GTH a    Resolución Operaciones
 - [x] Mover botones de aceptar denegar a modal principal de seguimiento de tardanza
 ### AUsencias 
-Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
+- [ ]  botones de acciones  pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
 - [x] Boton cancelar a modal de vista 
