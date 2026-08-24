@@ -1,14 +1,11 @@
 ### Tardanzas: 
 - [x] Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
 - [x] Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
-
 - [x] botones visibles columnas acciones mostrar todas con leyenda en encabezado
 - [x] filtro de acciones pendites de solicitud
 - [x] Elimianr farbar de boton nuevo
 - [x] verificar 1min tardanza
-Exportado con columna de tiempo de tardanza en min
 - [x] botn enviar justifiacion de lider 
-
 - [x] Tardanzas operaciones observaciones antes de decision 
 
 ### Faltas/AUsencias :
@@ -80,12 +77,13 @@ Descargabke apra ausencias agregar numero inss
 ## Nuevas implementaciones:
 
  # - Exportable Excel
- actualizar excel exportable confiltros y estrutura
-descargable agregr numero de seguro con permiso especial 
-Nueva columna de diferencia de minutos (tardanzas)
-Descargable agregar columna de codigo de contrato 
-Descargable tardaznas tipo , observaciones de lider 
-SUbclasificoancion de ausencia 
+	 actualizar excel exportable confiltros y estrutura
+	descargable agregr numero de seguro con permiso especial 
+	Nueva columna de diferencia de minutos (tardanzas)
+	Descargable agregar columna de codigo de contrato 
+	Descargable tardaznas tipo , observaciones de lider 
+	SUbclasificoancion de ausencia 
+	Exportado con columna de tiempo de tardanza en min
 
 
 Nuevo tipo en horario programado "En capacitacion"
