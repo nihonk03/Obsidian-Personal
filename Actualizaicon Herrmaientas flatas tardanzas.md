@@ -62,14 +62,14 @@ horas marcada  planificadas agregar h
 
 
 ausencias
-- [ ] boton   Registrar Evidencias
-- [ ] modal de reporte de ausencia, leyenda con como ingresar observaciones (Mari)
-- [ ] actualizar termino de 2. Solicitud del Líder a reporte
-- [ ] Cambio de Gestionar a Revision en modales opciociones gth
-mordal  Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
+- [x] boton   Registrar Evidencias
+- [x] modal de reporte de ausencia, leyenda con como ingresar observaciones (Mari)
+- [x] actualizar termino de 2. Solicitud del Líder a reporte
+- [x] Cambio de Gestionar a Revision en modales opciociones gth
+- [x] mordal  Validacion GTH quitr de parentesis tramtamiento de nomina  y pasarlo a nota debajo del tipo 
 Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta: cambiar a Fecha Hasta y debajo de tipo 
-Observaciones GTH: cambiar por observaciobes
-Descargabke apra ausencias agregar numero inss
+- [x] Observaciones GTH: cambiar por observaciobes
+
 
 ## Nuevas implementaciones:
 
@@ -81,6 +81,7 @@ Descargabke apra ausencias agregar numero inss
 	Descargable tardaznas tipo , observaciones de lider 
 	SUbclasificoancion de ausencia 
 	Exportado con columna de tiempo de tardanza en min
+	Descargabke apra ausencias agregar numero inss
 
 
 Nuevo tipo en horario programado "En capacitacion"
@@ -112,6 +113,3 @@ Filtro de calendario agregar boton de boton aplicar + desde hasta input
 filtros al cambiar depagina restaurar
 HOrarios programados: bloquear segun hora de salida programda
 
-
-
-Vamos a crear un boton en el fab tools que dia Registrar ausencia y se abre un modal tal cual el modal Validacion GTH donde unicamente habra un campo nuevo de colaborador donde sera input para escibir nombre y se vaya mostrando la lista de colaboradores que van coincidiendo y el resto de cosas queda igual apra que se registre faltasmanual
