@@ -48,7 +48,7 @@ editable hasta en revision oepraciones por lider
 - [x] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
 - [x] Fecha operaicones solo visible 
-- [ ] Total Dias Seleccionados :        debajo dias periodo elegido 
+- [x] Total Dias Seleccionados :        debajo dias periodo elegido 
 - [ ]  Cambiar Nota por Tratamiento en Nomina: …
 - [ ] Nueva columna Motivo;   Permiso con goce -, …
 - [ ]  Para usencias columna Clasifiacion: Justifiaco injustifiacdo
