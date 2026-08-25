@@ -26,7 +26,7 @@
 
 
 retroalimentar horario planificado  con tipos de falta 
-verificar interferencia de registros desde lider y extension de gth de tipo de falta 
+- [x] verificar interferencia de registros desde lider y extension de gth de tipo de falta 
 
 CUando se impemente solciitud de vacaciones los registros de Vacaciones/Subsidios  queda vacaciones Programadas 
 
