@@ -49,13 +49,13 @@ editable hasta en revision oepraciones por lider
 - [x] condicionar filtro spor pestana
 - [x] Fecha operaicones solo visible 
 - [x] Total Dias Seleccionados :        debajo dias periodo elegido 
-- [ ]  Cambiar Nota por Tratamiento en Nomina: …
+- [x]  Cambiar Nota por Tratamiento en Nomina: …
 - [ ] Nueva columna Motivo;   Permiso con goce -, …
 - [ ]  Para usencias columna Clasifiacion: Justifiaco injustifiacdo
 
 ## General
-- [ ] colaborador mostrar segundo nombre 
-- [ ] horas marcada  planificadas agregar h
+- [x] colaborador mostrar segundo nombre 
+- [x] horas marcada  planificadas agregar h
 - [x] revisar lectura de feriados en hstorial 
 - [x] Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
@@ -86,10 +86,6 @@ Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta:
 
 Nuevo tipo en horario programado "En capacitacion"
 retroceder: Dilanis Ileana Rodriguez Sanchez  **Fecha:** 2026-06-30 **Tienda:** Ticuantepe a validar por operaciones 
-
-
-Implementacion Lubes 24 
-subir tipos de tardanzas jueves 
 
 
 ### Vacaciones :
