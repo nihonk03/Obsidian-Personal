@@ -110,12 +110,3 @@ filtros al cambiar depagina restaurar
 HOrarios programados: bloquear segun hora de salida programda
 
 
-
-
-[Visualización de Marcaciones](https://erp.batidospitaya.com/modulos/rh/ver_marcaciones_todas_nuevo.php)  
-  
-Vamos a agregar una nueva columna al costado de Clasificacion que solamente llenara datos para el caso de Ausencias  
-  
-Esta coolumna se llmara Motivo y para el caso de ausencias se replanteara toda la logica de los datos mostrados  
-  
-1. Clasificacion
