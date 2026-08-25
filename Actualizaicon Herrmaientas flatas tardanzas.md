@@ -1,14 +1,11 @@
 ### Tardanzas: 
 - [x] Columna Clasificacion  Justiifacdo  Insjutificado  (No Reportada , No Válido, Pendiente de Aprobació) penultima columna
 - [x] Columna Estauts No reportado a cerrado autoamtico , No Válido a cerrado revisado , Pendiente de Aprobación  a En Revision , aprobado a cerrado revisado  ultima columna 
-
 - [x] botones visibles columnas acciones mostrar todas con leyenda en encabezado
 - [x] filtro de acciones pendites de solicitud
 - [x] Elimianr farbar de boton nuevo
 - [x] verificar 1min tardanza
-Exportado con columna de tiempo de tardanza en min
 - [x] botn enviar justifiacion de lider 
-
 - [x] Tardanzas operaciones observaciones antes de decision 
 
 ### Faltas/AUsencias :
@@ -23,35 +20,38 @@ Exportado con columna de tiempo de tardanza en min
 - [x] Envio de varias fotos por etapa
 - [x] Titulod e formulario de lider a Registrar Evidencias 
 - [x] foto no obligaria en ninguna etapa
-editable hasta en revision oepraciones por lider
+- [x] COlumna Clasificficacion Programada / Por Uausencia
+- [x] Columa estado : En revision  / AProbado / Rechazado
 - [x] enrevision rrhh  a gth
 
 
 retroalimentar horario planificado  con tipos de falta 
-verificar interferencia de registros desde lider y extension de gth de tipo de falta 
+- [x] verificar interferencia de registros desde lider y extension de gth de tipo de falta 
 
+CUando se impemente solciitud de vacaciones los registros de Vacaciones/Subsidios  queda vacaciones Programadas 
 
-Registro de Vacaciones/Subsidios  queda vacaciones Programadas 
-COlumna Clasificficacion Programada / Por Uausencia
-Columa estado : En revision  / AProbado / Rechazado
-
-
+editable hasta en revision oepraciones por lider
 
 
 18/08/2026
 ### Tardanzas
-Tardanzas: pasado la hora de salida programada   (Agregarlo como nora en modal)
-helper singicado  de Estado y claidficacion
+- [x] Botones de acciones: Pasado la hora de salida programada   de entrada (Agregarlo como nora en modal)
+- [x] helper singicado  de Estado y claidficacion
 - [x] modal  Seguimiento de Tardanza agregar Tipo de Justificación:
 - [x] modal Justificación de Tardanza foto no obligatorio
 - [x] Resolución GTH a    Resolución Operaciones
-
+- [x] Mover botones de aceptar denegar a modal principal de seguimiento de tardanza
 ### AUsencias 
-Ausencias: pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
+- [x]  botones de acciones  pasado la hora de salida programada ya lee  (Agregarlo como nora en modal)
 - [x] texto uniforme
 - [x] Boton rechazar en rojo 
 - [x] Boton cancelar a modal de vista 
 - [x] condicionar filtro spor pestana
+- [x] Fecha operaicones solo visible 
+- [ ] Total Dias Seleccionados :        debajo dias periodo elegido 
+- [ ]  Cambiar Nota por Tratamiento en Nomina: …
+- [ ] Nueva columna Motivo;   Permiso con goce -, …
+- [ ]  Para usencias columna Clasifiacion: Justifiaco injustifiacdo
 
 ## General
 colaborador mostrar segundo nombre 
@@ -74,12 +74,13 @@ Descargabke apra ausencias agregar numero inss
 ## Nuevas implementaciones:
 
  # - Exportable Excel
- actualizar excel exportable confiltros y estrutura
-descargable agregr numero de seguro con permiso especial 
-Nueva columna de diferencia de minutos (tardanzas)
-Descargable agregar columna de codigo de contrato 
-Descargable tardaznas tipo , observaciones de lider 
-SUbclasificoancion de ausencia 
+	 actualizar excel exportable confiltros y estrutura
+	descargable agregr numero de seguro con permiso especial 
+	Nueva columna de diferencia de minutos (tardanzas)
+	Descargable agregar columna de codigo de contrato 
+	Descargable tardaznas tipo , observaciones de lider 
+	SUbclasificoancion de ausencia 
+	Exportado con columna de tiempo de tardanza en min
 
 
 Nuevo tipo en horario programado "En capacitacion"
