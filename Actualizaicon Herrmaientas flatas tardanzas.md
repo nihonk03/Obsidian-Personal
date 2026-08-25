@@ -54,8 +54,8 @@ editable hasta en revision oepraciones por lider
 - [ ]  Para usencias columna Clasifiacion: Justifiaco injustifiacdo
 
 ## General
-colaborador mostrar segundo nombre 
-horas marcada  planificadas agregar h
+- [ ] colaborador mostrar segundo nombre 
+- [ ] horas marcada  planificadas agregar h
 - [x] revisar lectura de feriados en hstorial 
 - [x] Tipo de Ausencia: a Clasificacion de Ausencia (Revisar documento )
 
