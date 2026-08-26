@@ -85,8 +85,6 @@ Validacion GTH nora informativa de cantidad de dias   y cambiar  Extender hasta:
 
 
 Nuevo tipo en horario programado "En capacitacion"
-retroceder: Dilanis Ileana Rodriguez Sanchez  **Fecha:** 2026-06-30 **Tienda:** Ticuantepe a validar por operaciones 
-
 
 ### Vacaciones :
 - [ ] 2 modales pra imprimir ticket etapa y enviar solicitud
