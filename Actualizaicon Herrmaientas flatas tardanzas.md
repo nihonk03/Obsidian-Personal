@@ -108,3 +108,8 @@ filtros al cambiar depagina restaurar
 HOrarios programados: bloquear segun hora de salida programda
 
 
+
+
+|                           |
+| ------------------------- |
+| Hector Helían Meza Franco |
