@@ -113,3 +113,5 @@ HOrarios programados: bloquear segun hora de salida programda
 |                           |
 | ------------------------- |
 | Hector Helían Meza Franco |
+
+# Configuracion de Plan de Despacho a 
