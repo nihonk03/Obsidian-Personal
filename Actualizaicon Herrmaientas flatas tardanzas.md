@@ -111,8 +111,5 @@ HOrarios programados: bloquear segun hora de salida programda
 
 
 
-haremos los siguientes ajustes con la implementacion de nuevo tipos de falta
-1. Dias debe de descargar faltas_manual.cantidad_dias
-2. Tipo Permiso pondremos tipos_falta.nombre + tipos_falta.tratamiento_nomina
-3. EN Observaciones : observaciones_rrhh (si existe) o observaciones_operaciones o observaciones, en ese orden de busqueda
-4. vamos a excluir tipos_falta = vacaciones_gth, cuenta_vacaciones_operaciones
+$fechaObj->modify('-6 hours');
+$persona = ($falta['cod_contrato'] ?? '') . ' ' . htmlspecialchars($nombreCompleto, ENT_QUOTES, 'UTF-8');
