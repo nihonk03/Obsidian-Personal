@@ -112,5 +112,5 @@ HOrarios programados: bloquear segun hora de salida programda
 
 
 
-
-Stock minimo a pagina operaciones 
+ahora uno donde se haya incudrrido en tardanza segun sistema y haya registro de falta manual
+y otro donde se ha incurrido en falta segun sistema y haya registro de tardanza amnual mismo coalborado mismo dia
