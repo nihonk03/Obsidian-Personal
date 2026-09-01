@@ -110,6 +110,3 @@ HOrarios programados: bloquear segun hora de salida programda
 
 
 
-
-$fechaObj->modify('-6 hours');
-$persona = ($falta['cod_contrato'] ?? '') . ' ' . htmlspecialchars($nombreCompleto, ENT_QUOTES, 'UTF-8');
