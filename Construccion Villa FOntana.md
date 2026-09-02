@@ -1,6 +1,6 @@
 - [ ] [Cancelado] Techo lado 2
 - [ ] jardeineeria - Vicente Jueves/VIernes INstalacion 
-- [ ] grama en fachada - Comrpar faltante Instalacion Jueves 
+- [ ] grama en fachada - Comrpar faltante 2x2m Instalacion Jueves 
 - [ ] fachada verde pintura verde
 - [x] Repellado de Paredes de fachas 2 lados 
 - [ ] Vidrio  - Pago 50% instalacion viernes
