@@ -1,4 +1,4 @@
-- [ ] [Cancelado] Techo lado 2
+- [x] [Cancelado] Techo lado 2
 - [ ] jardeineeria - Vicente Jueves/VIernes INstalacion 
 - [ ] grama en fachada - Comrpar faltante 2x2m Instalacion Jueves 
 - [ ] fachada verde pintura verde
@@ -6,23 +6,26 @@
 - [ ] Vidrio  - Pago 50% instalacion viernes
 - [x] Planos para  marketing facia 
 - [ ] cojin para silla 
-- [ ] punto de luz espejo ubicaicon nueva
-- [ ] cerradura especial puerata a ptio trasero y hule contra polvo
+- [x] punto de luz espejo ubicaicon nueva
+- [ ] Instalacion espejo grande
+- [ ] Instalacion espejo de bano, dispensador jabon , papel 
+- [ ] cerradura especial puerata a ptio trasero y hule contra polvo 
 - [x] espejo grande 
-- [ ] Instalaciontanque de tanuqe de agua - COmpra materiales
-- [ ] Camaras nuevas - Edvi 
-- [ ] Equpo de sonido - Llevar bandeja y equipo
+- [x] Instalaciontanque de tanuqe de agua - COmpra materiales
+- [ ] INstalacion fltadores de tanque Jueves
+- [x] Camaras nuevas - Edvi 
+- [ ] Equpo de sonido - Instalacion
 - [ ] Instalacion plantsa electrica 
-- [ ] lavandero de acero 
-- [ ] tpes de parqueo
-- [ ] Demolicion de muro perimetrico y resanado de adoquines de fahcada
-- [ ] Fino de vereda
-- [ ] Cambio de laminas de zinc de fachada
-- [ ] Pintado de tuberia negra y curado de hoyos
-- [ ] INstalacion de campanas de bambu - Nuevos disenos de lampara
+- [ ] lavandero de acero - VIernes
+- [ ] topes de parqueo
+- [ ] Demolicion de muro perimetrico y resanado de adoquines de fahcada - VIernes a domingo
+- [ ] Fino de vereda - pendiente post tramite
+- [x] Cambio de laminas de zinc de fachada
+- [x] Pintado de tuberia negra y curado de hoyos
+- [x] INstalacion de campanas de bambu - Nuevos disenos de lampara
 - [ ] Retoque de pintura 4 colores
 - [ ] Lijado y restaruacion de madera de repisas , abrnizado final
 - [ ] Instalacion de lavamanos e inodor de bano
-- [ ] Instalcion de lavandero de lampazo de cuart de limpieza - COmprar lavandero de lampazo
-- [ ] Instalacion de cielo de facia
-- [ ] Instalacion de canal de lluvia en fechada
+- [x] Instalcion de lavandero de lampazo de cuart de limpieza - COmprar lavandero de lampazo
+- [x] Instalacion de cielo de facia
+- [x] Instalacion de canal de lluvia en fechada
