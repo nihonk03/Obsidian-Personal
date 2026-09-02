@@ -1,13 +1,13 @@
 - [x] [Cancelado] Techo lado 2
 - [ ] jardeineeria - Vicente Jueves/VIernes INstalacion 
 - [ ] [comprar] grama en fachada - Comrpar faltante 2x2m Instalacion Jueves 
-- [ ] fachada verde pintura verde
+- [ ] fachada verde pintura verde  gris pared 2
 - [x] Repellado de Paredes de fachas 2 lados 
 - [ ] Vidrio  - Pago 50% instalacion viernes
 - [x] Planos para  marketing facia 
 - [ ] [comprar] cojin para silla 
 - [x] punto de luz espejo ubicaicon nueva
-- [ ] Instalacion espejo grande
+- [ ] Instalacion espejo grande viernes  despues de vinil
 - [ ] Instalacion espejo de bano, dispensador jabon , papel  Viernes
 - [ ] cerradura especial puerata a ptio trasero y hule contra polvo 
 - [x] espejo grande 
@@ -30,3 +30,4 @@
 - [x] Instalacion de cielo de facia
 - [x] Instalacion de canal de lluvia en fechada
 - [ ] [Comprar] Estructura para menu
+
