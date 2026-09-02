@@ -24,6 +24,7 @@
 - [x] Pintado de tuberia negra y curado de hoyos
 - [x] INstalacion de campanas de bambu - Nuevos disenos de lampara
 - [ ] Retoque de pintura 4 colores
+- [ ] luces direccionales instalacion
 - [ ] Lijado y restaruacion de madera de repisas , abrnizado final
 - [ ] Instalacion de lavamanos e inodor de bano
 - [x] Instalcion de lavandero de lampazo de cuart de limpieza - COmprar lavandero de lampazo
