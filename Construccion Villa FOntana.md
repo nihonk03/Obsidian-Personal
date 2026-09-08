@@ -32,3 +32,6 @@
 - [x] Instalacion de canal de lluvia en fechada
 - [ ] [Instalacion] Estructura para menu
 
+
+
+1.5gr acai + 2oz yogurt
