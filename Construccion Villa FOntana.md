@@ -34,4 +34,3 @@
 
 
 
-1.5gr acai + 2oz yogurt
