@@ -14,6 +14,7 @@ Historial Ventas
 Impulso de Ventas
 Desempeño de Tienda
 Analisis RFM
+Recetas Vigentes
 
 
 
