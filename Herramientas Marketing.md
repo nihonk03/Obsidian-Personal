@@ -10,6 +10,7 @@ Clientes Club
 Campañas WSP
 Catálogo de Herramientas
 Cupones
+Historial Ventas
 
 
 
