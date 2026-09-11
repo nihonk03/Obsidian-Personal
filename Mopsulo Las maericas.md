@@ -13,7 +13,7 @@ pared de donde va vitrina 47.5 sin fondo de madera de fondo
 
 tuberia de agua desague a 147 de pared ede entrada y alfondo
 cometida electrica a 230 de pared de entrada  y alfondo 
-
+<>0
 
 
 hostinger respondio  
