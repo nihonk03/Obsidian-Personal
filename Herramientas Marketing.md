@@ -12,6 +12,8 @@ Catálogo de Herramientas
 Cupones
 Historial Ventas
 Impulso de Ventas
+Desempeño de Tienda
+Analisis RFM
 
 
 
