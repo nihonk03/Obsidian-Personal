@@ -6,6 +6,10 @@ Reclamos de Clientes
 KPI Reseñas Google
 Historial Reseñas Google
 Cumpleaños
+Clientes Club
+Campañas WSP
+Catálogo de Herramientas
+Cupones
 
 
 
