@@ -2,7 +2,8 @@ Avisos
 Gestion de Asistencia
 Horarios Programados
 Agenda Colaboradores
-
+Reclamos de Clientes
+KPI Reseñas Google
 
 
 
