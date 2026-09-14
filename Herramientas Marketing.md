@@ -23,7 +23,6 @@ Hablitar Alexander gestor de reclamo
 
 historial de clientes club alexander cedula
 
-2 5 9 10 11 12 13 16  22
-4 7 19 21
+19 20
 
 
