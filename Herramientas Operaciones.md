@@ -43,3 +43,7 @@ ELiminar Dashboard Consumo
 
 https://erp.batidospitaya.com/modulos/inventario/conteo_ciclico.php
 no limitar Agregar insumos a la lista contelo libre y progrmaado
+
+
+[Conteo Cíclico · Pitaya ERP](https://erp.batidospitaya.com/modulos/inventario/conteo_ciclico.php?id=751)
+agregar diferencia para conteo programado (solo negativo), % tolerancia , hora corte
