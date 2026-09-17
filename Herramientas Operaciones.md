@@ -9,3 +9,5 @@ BLoquear cambio entre decision
 https://erp.batidospitaya.com/modulos/supervision/programar_horarios_operaciones.php
 Eliminar  **¡Atención!** Se detectaron cambios en los horarios programados por los líderes después de la última confirmaci
 
+https://erp.batidospitaya.com/modulos/operaciones/gestion_colaboradores.php?semana=561
+Modificar vosta rol no cargo de lider
