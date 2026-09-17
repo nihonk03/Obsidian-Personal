@@ -11,3 +11,19 @@ Eliminar  **¡Atención!** Se detectaron cambios en los horarios programados p
 
 https://erp.batidospitaya.com/modulos/operaciones/gestion_colaboradores.php?semana=561
 Modificar vosta rol no cargo de lider
+
+
+https://erp.batidospitaya.com/modulos/operaciones/gestion_colaboradores.php
+agragr asigandos segun planilla colaboradore por tienda
+
+https://erp.batidospitaya.com/modulos/supervision/auditorias_original/auditinternas/auditorias_consolidadas.php
+ocultar nuevo auditpria de inventario semanal y x conteo ciclico
+
+https://erp.batidospitaya.com/modulos/supervision/auditorias_original/index_auditoria_desempeno.php
+validar lideres y tienda solo visibilidad de tienda
+
+https://erp.batidospitaya.com/modulos/supervision/auditorias_original/auditinternas/deducciones_total.php
+elimianr cobro 0 
+
+https://erp.batidospitaya.com/modulos/supervision/auditorias_original/auditinternas/auditorias_consolidadas.php
+agregar pestana de por colaborador
