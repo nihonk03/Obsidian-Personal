@@ -5,3 +5,7 @@ https://erp.batidospitaya.com/modulos/operaciones/horas_extras_manual.php  edici
 https://erp.batidospitaya.com/modulos/operaciones/feriados.php?sucursal=7&desde=2026-08-17&hasta=2026-09-17&pagina=1&registros_por_pagina=25
 eliminar columna de inicio contrato
 BLoquear cambio entre decision 
+
+https://erp.batidospitaya.com/modulos/supervision/programar_horarios_operaciones.php
+Eliminar  **¡Atención!** Se detectaron cambios en los horarios programados por los líderes después de la última confirmaci
+
