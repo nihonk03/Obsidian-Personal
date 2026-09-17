@@ -31,3 +31,6 @@ agregar pestana de por colaborador
 
 https://erp.batidospitaya.com/modulos/supervision/auditorias_original/nuevoreclamo.php
 Fuente nueva Punto de venta
+
+https://erp.batidospitaya.com/modulos/mantenimiento/historial_solicitudes.php
+	revisar numeros de balance
