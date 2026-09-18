@@ -37,4 +37,3 @@ ELiminar Dashboard Consumo
 agregar diferencia para conteo programado (solo negativo), % tolerancia , hora corte
 
 
-exportarconsultacondicionalhostinger
