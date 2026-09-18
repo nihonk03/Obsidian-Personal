@@ -22,9 +22,6 @@ validar lideres y tienda solo visibilidad de tienda
 https://erp.batidospitaya.com/modulos/supervision/auditorias_original/auditinternas/deducciones_total.php
 elimianr cobro 0 
 
-https://erp.batidospitaya.com/modulos/supervision/auditorias_original/auditinternas/auditorias_consolidadas.php
-agregar pestana de por colaborador
-
 
 https://erp.batidospitaya.com/modulos/supervision/auditorias_original/nuevoreclamo.php
 Fuente nueva Punto de venta
