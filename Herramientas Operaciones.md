@@ -38,6 +38,3 @@ agregar diferencia para conteo programado (solo negativo), % tolerancia , hora c
 
 
 exportarconsultacondicionalhostinger
-enviarsentenciaodbc
-
-VerificarConexionServidorHostinger
