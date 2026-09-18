@@ -30,8 +30,6 @@ https://erp.batidospitaya.com/modulos/mantenimiento/historial_solicitudes.php
 	revisar numeros de balance
 
 
-ELiminar Dashboard Consumo
-
 
 [Conteo Cíclico · Pitaya ERP](https://erp.batidospitaya.com/modulos/inventario/conteo_ciclico.php?id=751)
 agregar diferencia para conteo programado (solo negativo), % tolerancia , hora corte
