@@ -29,8 +29,6 @@ Fuente nueva Punto de venta
 https://erp.batidospitaya.com/modulos/mantenimiento/historial_solicitudes.php
 	revisar numeros de balance
 
-eliminar https://erp.batidospitaya.com/modulos/sucursales/kpi_sucursales.php
-
 
 ELiminar Dashboard Consumo
 
