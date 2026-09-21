@@ -3,18 +3,18 @@ Gestion de Asistencia
 Horarios Programados
 Agenda Colaboradores
 Reclamos de Clientes
+Recetas Vigentes
+Historial Ventas
+Cupones
 KPI Reseñas Google
 Historial Reseñas Google
 Cumpleaños
 Clientes Club
 Campañas WSP
-Catálogo de Herramientas
-Cupones
-Historial Ventas
-Impulso de Ventas
+Reporte de Ventas
 Desempeño de Tienda
 Analisis RFM
-Recetas Vigentes
+Catálogo de Herramientas
 
 
 
