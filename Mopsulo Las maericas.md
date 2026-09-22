@@ -45,4 +45,4 @@ Ya tengo el access apuntando a api diretamente sin pasar por wl vps por ahora ha
 63
 56
 
-2 47 45 66 46 44
+2 47 45 66 46 44  conteo ciclico, 
