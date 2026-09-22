@@ -34,3 +34,15 @@ root@ubuntu-s-1vcpu-1gb-nyc1-01:~# curl -Iv https://api.batidospitaya.com/api/pi
   
 Ya tengo el access apuntando a api diretamente sin pasar por wl vps por ahora hasta arreaglar esto
 
+11
+33
+62
+52
+21
+5 43 67
+27
+35
+63
+56
+
+2 47 45 66 46 44
