@@ -18,3 +18,33 @@ El Tuani
 
 Guasacate
 222Mv5d a 222Mv6d Guasacate 149
+222Gv6 a 222Gv7 Guasacate 149
+222Mv5 a 222Mv6 Guasacate 134
+
+Managua
+206Mv10d a 206Mv11d Managua 149
+206Gv10 a 206Gv11 Managua 149
+206Mv10 a 206Mv11 Managua 134
+
+Masaya
+68Mv19d a 68Mv20d Masaya 149
+68Gv18 a 68Gv19 Masaya 149
+68Mv18 a 68Mv19 Masaya 134
+
+Matizon
+018Gv23 a 018Gv24 Matizon 149
+
+Caribeño
+53Mv23d a 53Mv24d Caribeño 109
+53Mv22 a 53Mv23 Caribeño 99
+
+Chavalo
+203Mv11d a 203Mv12d Chavalo 109
+203Gv11 a 203Gv12 Chavalo 114
+203Mv11 a 203Mv12 Chavalo 99
+
+Curioso
+15Mv23d a 15Mv24d Curioso 109
+15Gv23 a 15Gv24 Curioso 114
+15Mv22 a 15Mv23 Curioso 99
+
