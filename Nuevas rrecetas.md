@@ -15,3 +15,6 @@ El Tuani
 119Mv24d a 119Mv25d El Tuani 149
 119Gv24 a 119Gv25 El Tuani 149
 119Mv23 a 119Mv24 El Tuani 134
+
+Guasacate
+222Mv5d a 222Mv6d Guasacate 149
