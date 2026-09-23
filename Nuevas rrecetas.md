@@ -1,3 +1,7 @@
+Cipote
+217Mv6d a 217Mv7d Cipote 129
+217Mv6 a 217Mv7 Cipote 115
+
 El Chele
 204Mv10d a 204Mv11d El Chele 129
 204Gv10 a 204Gv11 El Chele 130
@@ -47,4 +51,35 @@ Curioso
 15Mv23d a 15Mv24d Curioso 109
 15Gv23 a 15Gv24 Curioso 114
 15Mv22 a 15Mv23 Curioso 99
+
+Guardabarranco
+27Mv23d a 27Mv24d Guardabarranco 109
+27Gv23 a 27Gv24 Guardabarranco 114
+27Mv22 a 27Mv23 Guardabarranco 99
+
+Poneloya
+24Mv25d a 24Mv26d Poneloya 109
+24Mv24 a 24Mv25 Poneloya 99
+
+Tropical
+16Mv24d a 16Mv25d Tropical 109
+16Mv23 a 16Mv24 Tropical 99
+
+Catarina
+218Mv4d a 218Mv5d Catarina 129
+218Gv5 a 218Gv6 Catarina 130
+218Mv4 a 218Mv5 Catarina 115
+
+Detox
+20Mv22d a 20Mv23d Detox 129
+20Gv21 a 20Gv22 Detox 130
+20Mv21 a 20Mv22 Detox 115
+
+El Fit
+219Gv4 a 219Gv5 El Fit 130
+
+Pompeado
+201Mv10d a 201Mv11d Pompeado 139
+201Gv11 a 201Gv12 Pompeado 135
+201Mv10 a 201Mv11 Pompeado 120
 
