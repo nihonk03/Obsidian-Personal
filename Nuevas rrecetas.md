@@ -107,3 +107,67 @@ L010Gv5 a L010Gv6 Limonada con Sandia 114
 
 Acai
 SB9v28d a SB9v29d Acai 265
+SB9v27 a SB9v28 Acai 220
+
+Dragon
+SB4v27d a SB4v28d Dragon 235
+SB4v26 a SB4v27 Dragon 199
+
+Fachento
+SB11v9d a SB11v10d Fachento 225
+SB11v9 a SB11v10 Fachento 190
+
+Ometepe
+SB7v28d a SB7v29d Ometepe 225
+SB7v27 a SB7v28 Ometepe 190
+
+Waffle Clasico c/ Chocolate
+W09v21d a W09v22d Waffle Clasico c/ Chocolate 155
+W09v20 a W09v21 Waffle Clasico c/ Chocolate 125
+
+Waffle Clasico c/ L Condensada
+W10v21d a W10v22d Waffle Clasico c/ L Condensada 155
+W10v20 a W10v21 Waffle Clasico c/ L Condensada 125
+
+Waffle Clasico c/ Miel
+W11v21d a W11v22d Waffle Clasico c/ Miel 155
+W11v20 a W11v21 Waffle Clasico c/ Miel 125
+
+Waffle Especial c/ Leche Condensada
+W14v9d a W14v10d Waffle Especial c/ Leche Condensada 178
+W14v9 a W14v10 Waffle Especial c/ Leche Condensada 149
+
+Waffle Especial c/ Miel
+W15v9d a W15v10d Waffle Especial c/ Miel 178
+W15v9 a W15v10 Waffle Especial c/ Miel 149
+
+Waffle Especial c/ Chocolate
+W13v9d a W13v10d Waffle Especial c/ Chocolate 178
+W13v9 a W13v10 Waffle Especial c/ Chocolate 149
+
+Waffle Proteina c/ Chocolate
+W16v10d a W16v11d Waffle Proteina c/ Chocolate 208
+W16v10 a W16v11 Waffle Proteina c/ Chocolate 175
+
+Waffle Proteina c/ Leche Condensada
+W17v10d a W17v11d Waffle Proteina c/ Leche Condensada 208
+W17v10 a W17v11 Waffle Proteina c/ Leche Condensada 175
+
+Waffle Proteina c/ Miel
+W18v10d a W18v11d Waffle Proteina c/ Miel 208
+W18v10 a W18v11 Waffle Proteina c/ Miel 175
+
+Avena
+A178 a A227 Avena 10
+
+Proteina Vegana
+A225 a A228 Proteina Vegana 20
+
+Proteina Whey
+A205 a A229 Proteina Whey 20
+
+Coco Rallado
+A182 a A230 Coco Rallado 10
+
+Granola
+A187 a A231 Granola 10
