@@ -12,3 +12,5 @@ y otros que consideres necesarios para hacer una validacion de los gastos de caj
 creas las tiendas de Bolonia (Centro de formcaion), y Las Americas. Me confirmas que numero de Pitaya son
 
 Camapnas de WSP
+
+nombreinsumoreceta
