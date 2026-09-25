@@ -11,13 +11,12 @@ y otros que consideres necesarios para hacer una validacion de los gastos de caj
 
 	creas las tiendas de Bolonia (Centro de formcaion), y Las Americas. Me confirmas que numero de Pitaya son
 
-Camapnas de WSP
+	Camapnas de WSP
 
-nombreinsumoreceta
 
 especificaciones de construccopn leon
 
 	receta nombre estructurado nuevo
 
-Miguel ya está incluida la protegían y la leche a la solicitud de pedido y al conteo cíclico?
+	Miguel ya está incluida la protegían y la leche a la solicitud de pedido y al conteo cíclico?
 
