@@ -9,7 +9,6 @@
 	y otros que consideres necesarios para hacer una validacion de los gastos de caja aprobados
 
 
-	creas las tiendas de Bolonia (Centro de formcaion), y Las Americas. Me confirmas que numero de Pitaya son
 
 	Camapnas de WSP
 
@@ -23,3 +22,12 @@ especificaciones de construccopn leon
 9
 22
 20
+11
+4
+19
+13
+2
+5
+16
+12
+
