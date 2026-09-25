@@ -15,19 +15,6 @@
 
 especificaciones de construccopn leon
 
-	receta nombre estructurado nuevo
 
-	Miguel ya está incluida la protegían y la leche a la solicitud de pedido y al conteo cíclico?
 
-9
-22
-20
-11
-4
-19
-13
-2
-5
-16
-12
 
