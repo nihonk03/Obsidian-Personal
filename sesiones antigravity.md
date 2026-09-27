@@ -1,4 +1,14 @@
-  
+
+la aplaicacion apk de AplicacionesWatch\CumplimientoVentasGadget\ se hiso para tener u tile con las estadisticas y una complicacion para colocar en la caratula igual con una barra del porcentaje pero cuando le toy tab al tile me abre una aplicaicon entonces asumo que ese tile es un acceso directo a una aplicacion?
+
+por otro lado yo habia creado una aplicacion ya para ver esos resultados pero como aplicacion unicamente que esta en AplicacionesWatch\VentasGlobales\ 
+
+SI los 3 elementos aplicacion , tile y complication forman parte de una sola aplicacion entonces quiero unificarlos la aplicacion que es la que esta en VentasGlobales, el tile y complication que esta en CumplimientoVentasGadget, todo en el mismo apk, asi funciona? que otros elementod gadgets pueden ir dentro un un apk para el wear os deun galaxy wear 7  aparte de esos 3? 
+
+
+
+
+
 3:30 AM, 7/27/2026
 
 Continue
