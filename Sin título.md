@@ -25,9 +25,46 @@ La importación sí está subiendo el archivo, así que los cambios de php.ini f
 La solución es reemplazar ese collation en el archivo por uno equivalente que sí existe en 10.4 (utf8mb4_unicode_ci, el mismo que usaste al crear erp_local).  
 Abre PowerShell y pega el bloque completo. Lee y escribe línea por línea, así que no carga los 300 MB en memoria:  
 $src = "C:\Users\migue\Downloads\u839374897_erp.sql" $dst = "C:\Users\migue\Downloads\u839374897_erp_local.sql" $enc = New-Object System.Text.UTF8Encoding($false) $reader = New-Object System.IO.StreamReader($src, $enc) $writer = New-Object System.IO.StreamWriter($dst, $false, $enc) $writer.NewLine = "`n" while (($line = $reader.ReadLine()) -ne $null) { if ($line.Contains('uca1400')) { $line = $line -replace 'utf8mb4_uca1400_\w+', 'utf8mb4_unicode_ci' ` -replace 'utf8mb3_uca1400_\w+', 'utf8mb3_unicode_ci' } $writer.WriteLine($line) } $reader.Close(); $writer.Close()  
-  
+
+
+$src = "C:\Users\migue\Downloads\u839374897_erp_local.sql"
+$dst = "C:\Users\migue\Downloads\u839374897_erp_clean.sql"
+$enc = New-Object System.Text.UTF8Encoding($false)
+$reader = New-Object System.IO.StreamReader($src, $enc)
+$writer = New-Object System.IO.StreamWriter($dst, $false, $enc)
+$writer.NewLine = "`n"
+while (($line = $reader.ReadLine()) -ne $null) {
+  if ($line -match 'SQL_LOG_BIN|GTID_PURGED') { continue }
+  if ($line.Contains('DEFINER')) {
+    $line = $line -replace '/\*!\d+\s+DEFINER=`[^`]+`@`[^`]+`\s*\*/', '' `
+                  -replace 'DEFINER=`[^`]+`@`[^`]+`\s*', ''
+  }
+  $writer.WriteLine($line)
+}
+$reader.Close(); $writer.Close()
+
+
+$src = "C:\Users\migue\Downloads\u839374897_erp_clean.sql"
+$dst = "C:\Users\migue\Downloads\vistas_fix.sql"
+$enc = New-Object System.Text.UTF8Encoding($false)
+$writer = New-Object System.IO.StreamWriter($dst, $false, $enc)
+$writer.NewLine = "`n"
+$i = 0
+foreach ($l in [System.IO.File]::ReadLines($src)) {
+  $i++
+  if ($i -lt 3360100) { continue }
+  $l = $l -replace '(?i)(\S)(union\s+all)(select)', '$1 $2 $3'
+  $l = $l -replace '(?i)(\S)(union\s+all)\s', '$1 $2 '
+  $l = $l -replace '(?i)\s(union\s+all)(select)', ' $1 $2'
+  $writer.WriteLine($l)
+}
+$writer.Close()
+
+
 Verifica que no quedó ninguna referencia:  
-Select-String -Path $dst -Pattern "uca1400" -List  
+   Select-String -Path "ruta\archivo.sql" -Pattern "uca1400" -List
+   Select-String -Path "ruta\archivo.sql" -Pattern "DEFINER=" -List
+   Select-String -Path "ruta\archivo.sql" -Pattern "CREATE DATABASE|^USE " -List
 No debe imprimir nada.  
   
   
