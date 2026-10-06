@@ -1,4 +1,4 @@
-
+David
 
 1. Activar/desactivar la visibilidad de tiendas en ventas meta.
 2. Agregar la columna con el nombre de la promoción aplicada a la DB de ventas que alimenta Locker.
@@ -8,3 +8,8 @@
 6. Habilitar el nombre de la tienda, y no solo el código, en la consulta de compras de caja.
 7. Agregar la cuenta y la subcuenta a la DB de despachos costeados.
 
+Edvi
+1. Lider respaldo
+2. Actulizar datos central
+3. KPI de despachos
+4. Cambio de tabla de mermas validacion engativo
