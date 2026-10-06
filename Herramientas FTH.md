@@ -23,3 +23,19 @@ Nuevo colaborador : Franc ela
 - contactos_colaboradores.php : revisar 
 - Cumpleaños Colaboradores - agregar filtro de periodo 
 Envio Isabela * habilitar wasender*
+- Panel de Control
+eicion francela 
+- Plazas Activas
+edicoin francela
+- Requisición de Personal
+- Auditorías de Efectivo
+- Auditorías de Desempeño
+- Reclamos de Clientes
+- KPI Reseñas Google
+- Catálogo de Herramientas
+- Desempeño de Tienda
+- Ventas
+- Analisis RFM
+- Sobre Nosotros Portal
+fracncela
+
