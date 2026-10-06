@@ -12,4 +12,6 @@ Eicion Sayda
 vista sayda isabella
 - HOrarios Programados
 vista sayda
-- 
+- Panel Equipos de Tiendas
+vista sayda usabella francela
+- Maestro Colaboradores
