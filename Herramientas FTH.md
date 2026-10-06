@@ -15,3 +15,6 @@ vista sayda
 - Panel Equipos de Tiendas
 vista sayda usabella francela
 - Maestro Colaboradores
+Vista SAyda Isabella Francela
+Edicion Datos de colaborador: 
+Nuevo colaborador : Franc ela 
