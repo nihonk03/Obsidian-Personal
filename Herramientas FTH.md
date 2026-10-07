@@ -40,10 +40,3 @@ edicoin francela
 fracncela
 
 
-VIlla
-Calli
-Leon
-unica
-natura
-matagalpa
-Altamira
