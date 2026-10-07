@@ -40,3 +40,5 @@ edicoin francela
 fracncela
 
 
+Historico de compras , precios
+Subir OC a sistema 
