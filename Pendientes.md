@@ -7,6 +7,7 @@ David
 5. Agregar al KPI de despachos "Productos con errores en despacho": diferencia entre recibido y preparado, contando productos con problemas, no cantidades.
 6. Habilitar el nombre de la tienda, y no solo el código, en la consulta de compras de caja.
 7. Agregar la cuenta y la subcuenta a la DB de despachos costeados.
+8. no mapea producto despacho de presentacion_producto para costo en el caso de la naranja entera 
 
 Edvi
 
