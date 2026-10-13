@@ -9,7 +9,4 @@ David
 7. Agregar la cuenta y la subcuenta a la DB de despachos costeados.
 
 Edvi
-1. Lider respaldo
-2. Actulizar datos central
-3. KPI de despachos
-4. Cambio de tabla de mermas validacion engativo
+
