@@ -8,6 +8,7 @@ David
 6. Habilitar el nombre de la tienda, y no solo el código, en la consulta de compras de caja.
 7. Agregar la cuenta y la subcuenta a la DB de despachos costeados.
 8. no mapea producto despacho de presentacion_producto para costo en el caso de la naranja entera 
+9. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
 
