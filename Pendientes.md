@@ -11,3 +11,7 @@ David
 
 Edvi
 
+
+Herramientas_Personales\Presupuesto_Sinsa  
+  
+es posible empaquetar esta herramienta en algun ejecutable sencillo que pueda madnar el archivo a alguien y lo pueda abrie en su laptop windows si encesidad de tener nodejs instalado ,
