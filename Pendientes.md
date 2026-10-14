@@ -15,4 +15,8 @@ Edvi
 
 Herramientas_Personales\Presupuesto_Sinsa  
   
-es posible empaquetar esta herramienta en algun ejecutable sencillo que pueda madnar el archivo a alguien y lo pueda abrie en su laptop windows si encesidad de tener nodejs instalado ,
+es posible empaquetar esta herramienta en algun ejecutable sencillo que pueda madnar el archivo a alguien y lo pueda abrie en su laptop windows si encesidad de tener nodejs instalado 
+
+
+Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
+Habilitar camvio de ingrediente en combos
