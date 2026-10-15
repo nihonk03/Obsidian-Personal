@@ -12,7 +12,7 @@ David
 Edvi
 
 
-
+asignacion lideres y anc sincronizados en edicion
 
 Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
 
