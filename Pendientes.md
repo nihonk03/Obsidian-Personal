@@ -16,3 +16,7 @@ asignacion lideres y anc sincronizados en edicion
 
 Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
 
+1760  135
+704  434
+362  -50
+
