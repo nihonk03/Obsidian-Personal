@@ -37,5 +37,8 @@ MOdifcar proceso de ferias y apeturas
 7 Cafetera
 8 Main
 9 Generador
+10 Generador
+
+
 
 
