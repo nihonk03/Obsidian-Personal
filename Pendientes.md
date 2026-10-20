@@ -19,7 +19,7 @@ Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
 MOdifcar proceso de ferias y apeturas
 
 
-20 Setiembre
+31 Setiembre
 - Elimianr combo rosa unitario
 23 setiembre
 - Cambio de precios nuevos
