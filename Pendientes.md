@@ -31,3 +31,4 @@ MOdifcar proceso de ferias y apeturas
 
 
 "Realiza un **outpainting / extensión de lienzo** a los lados (izquierda y derecha) y hacia abajo. **Mantén la imagen original 100% intacta en el centro, sin modificar ni alterar ningún texto, fruta, logo ni color existente**. Continúa y extiende fluidamente los patrones vectoriales de hojas tropicales, bordes orgánicos, texturas de madera y fondos hacia los nuevos bordes, respetando la paleta de colores y el estilo gráfico exacto para dar continuidad natural al diseño."
+
