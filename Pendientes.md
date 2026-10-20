@@ -28,3 +28,14 @@ MOdifcar proceso de ferias y apeturas
 - Eliminar Combo Rosas
 
 
+1 Luces y abanicos
+2 Tomas generles (CPU, PArlante, DVR , Modem)
+3 Equipos Frios 
+4 Mquina de Hielo
+5 Licuadoras
+6 Waffleras 
+7 Cafetera
+8 Main
+9 Generador
+
+
