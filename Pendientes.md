@@ -28,15 +28,6 @@ MOdifcar proceso de ferias y apeturas
 - Eliminar Combo Rosas
 
 
-2
-5
-4
-7
-10
-9
-11
-12
-13
 
 
 
