@@ -18,6 +18,9 @@ Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
 
 MOdifcar proceso de ferias y apeturas
 
+nuevo centro de costos
+
+
 
 31 Setiembre
 - Elimianr combo rosa unitario
