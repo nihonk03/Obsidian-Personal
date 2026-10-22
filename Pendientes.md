@@ -33,6 +33,11 @@ nuevo centro de costos
 
 
 
+sku editable
+Dexripcion
+proovedor principal
+
+
 
 
 
