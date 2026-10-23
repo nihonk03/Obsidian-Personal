@@ -170,3 +170,8 @@ PIT032v3d a PIT032v4d Semillas de Marañon Pitaya 99
 PIT027v2 a PIT027v3 Semillas de Pistachos Pitaya 82
 PIT027v2d a PIT027v3d Semillas de Pistachos Pitaya 99
 
+PIT020v2 a PIT020v3 Cocoa en Polvo Grande Pitaya 150
+PIT002v3 a PIT002v4 Semilla de Cacao Grande Pitaya 207
+PIT002v3d a PIT002v4d Semilla de Cacao Grande Pitaya 249
+PIT008v2 a PIT008v3 Granola Grande Pitaya 150
+PIT008v3d a PIT008v4d Granola Grande Pitaya 179
