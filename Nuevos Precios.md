@@ -190,14 +190,3 @@ Promociojnes club
 218 a 278 2 Waffle especial x C$285
 
 
-9
-13
-22
-7
-19
-2
-11
-10
-20
-12
-4
