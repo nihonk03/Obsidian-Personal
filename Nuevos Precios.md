@@ -180,3 +180,11 @@ C170 a C181 Aveny Bran NV 35
 C170d a C170v2d Aveny Bran NV 49
 C177 a C182 Agua 600mL 30
 C178 a C183 Agua 1L 35
+
+
+Promociojnes club
+217 a 274 2 Batidos premium 16oz x C$256
+238 a 275 2 Batido Proteina 16oz C$230
+237 a 276 2 Batido Especiales 16oz C$219
+236 a 277 2 Batidos clasico 16oz x C$188
+218 a 278 2 Waffle especial x C$285
