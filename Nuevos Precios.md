@@ -155,3 +155,18 @@ W18v12d a W18v13d Waffle Proteina c/ Miel 225
 
 C179 a C180 Galleta de Avena 29
 C155v3d a C155v4d Galleta de Avena 30
+
+
+PIT031v2 a PIT031v3 Mix Cacao Energy Pitaya 82
+PIT031v2d a PIT031v3d Mix Cacao Energy Pitaya 99
+PIT030v2 a PIT030v3 Mix Supremo Pitaya 82
+PIT030v2d a PIT030v3d Mix Supremo Pitaya 99
+PIT028v2 a PIT028v3 Mix Tropical Pitaya 82
+PIT028v2d a PIT028v3d Mix Tropical Pitaya 99
+PIT026v2 a PIT026v3 Semilla de Almendras Pitaya 82
+PIT026v2d a PIT026v3d Semilla de Almendras Pitaya 99
+PIT032v3 a PIT032v4 Semillas de Marañon Pitaya 82
+PIT032v3d a PIT032v4d Semillas de Marañon Pitaya 99
+PIT027v2 a PIT027v3 Semillas de Pistachos Pitaya 82
+PIT027v2d a PIT027v3d Semillas de Pistachos Pitaya 99
+
