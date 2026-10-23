@@ -188,3 +188,16 @@ Promociojnes club
 237 a 276 2 Batido Especiales 16oz C$219
 236 a 277 2 Batidos clasico 16oz x C$188
 218 a 278 2 Waffle especial x C$285
+
+
+9
+13
+22
+7
+19
+2
+11
+10
+20
+12
+4
