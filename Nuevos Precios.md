@@ -133,21 +133,25 @@ SB7v30d a SB7v31d Ometepe 240
 SB7v28 a SB7v29 Ometepe 198
 
 
-W09v21 NO SE CREO W09v22 DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ Chocolate
-W09v23d NO SE CREO W09v24d DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ Chocolate
-W10v21 NO SE CREO W10v22 DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ L Condensada
-W10v23d NO SE CREO W10v24d DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ L Condensada
-W11v21 NO SE CREO W11v22 DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ Miel
-W11v23d NO SE CREO W11v24d DETECCION DE TAMANO O PEDIDOSYA Waffle Clasico c/ Miel
-W14v10 NO SE CREO W14v11 DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Leche Condensada
-W14v11d NO SE CREO W14v12d DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Leche Condensada
-W15v10 NO SE CREO W15v11 DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Miel
-W15v11d NO SE CREO W15v12d DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Miel
-W13v10 NO SE CREO W13v11 DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Chocolate
-W13v11d NO SE CREO W13v12d DETECCION DE TAMANO O PEDIDOSYA Waffle Especial c/ Chocolate
-W16v11 NO SE CREO W16v12 DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Chocolate
-W16v12d NO SE CREO W16v13d DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Chocolate
-W17v11 NO SE CREO W17v12 DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Leche Condensada
-W17v12d NO SE CREO W17v13d DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Leche Condensada
-W18v11 NO SE CREO W18v12 DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Miel
-W18v12d NO SE CREO W18v13d DETECCION DE TAMANO O PEDIDOSYA Waffle Proteina c/ Miel
+W09v21 a W09v22 Waffle Clasico c/ Chocolate 130
+W09v23d a W09v24d Waffle Clasico c/ Chocolate 165
+W10v21 a W10v22 Waffle Clasico c/ L Condensada 130
+W10v23d a W10v24d Waffle Clasico c/ L Condensada 165
+W11v21 a W11v22 Waffle Clasico c/ Miel 130
+W11v23d a W11v24d Waffle Clasico c/ Miel 165
+W14v10 a W14v11 Waffle Especial c/ Leche Condensada 155
+W14v11d a W14v12d Waffle Especial c/ Leche Condensada 189
+W15v10 a W15v11 Waffle Especial c/ Miel 155
+W15v11d a W15v12d Waffle Especial c/ Miel 189
+W13v10 a W13v11 Waffle Especial c/ Chocolate 155
+W13v11d a W13v12d Waffle Especial c/ Chocolate 189
+W16v11 a W16v12 Waffle Proteina c/ Chocolate 182
+W16v12d a W16v13d Waffle Proteina c/ Chocolate 225
+W17v11 a W17v12 Waffle Proteina c/ Leche Condensada 182
+W17v12d a W17v13d Waffle Proteina c/ Leche Condensada 225
+W18v11 a W18v12 Waffle Proteina c/ Miel 182
+W18v12d a W18v13d Waffle Proteina c/ Miel 225
+
+
+C179 a C180 Galleta de Avena 29
+C155v3d a C155v4d Galleta de Avena 30
