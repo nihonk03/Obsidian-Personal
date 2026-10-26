@@ -38,8 +38,11 @@ Endulzantes
 2. Actualizacion sistema tiendas
 3. Subida masiva modulos Compras, Contabilidad
 4. Configuracion PC Leon
-5. 
-
+5. USbir 10 promociones desde promociones_access_csv   Ativo  =1 Local=0
+ promociones club y general
+6. Subir arhicvo .md de POS y Promociones a carpeta POS
+7. Herramienta Edicion de pgina principal batidospitaya.com en ERP
+ 
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
 
