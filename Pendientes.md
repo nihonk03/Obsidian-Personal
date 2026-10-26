@@ -10,12 +10,35 @@ David
 7. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
-1. Nuevow productos venta ERP
-2. Actualizacion de Main Contabilidad
-3. Actualizacion sistema tiendas
-4. Subida masiva modulos Compras, Contabilidad
-5. Configuracion PC Leon
-6. 
+1. Nuevow productos venta ERP 3 batidos x subgrupo inc limonada, 3 waffles , 3 bowl , 3 marca pitaya, 3 externo , membresia 
+
+Batidos y Limonadas
+	clasicos
+	premium
+	Limonadas
+Bowl
+	bowl
+	minibowl
+waffles
+	clasico
+	pritena
+	especial
+Mostradore
+	Marca PItaya
+	Externos
+Membresi
+	membresia
+Extras
+	Extras
+Endulzantes
+	Endulzantes
+
+
+1. Actualizacion de Main Contabilidad
+2. Actualizacion sistema tiendas
+3. Subida masiva modulos Compras, Contabilidad
+4. Configuracion PC Leon
+5. 
 
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
