@@ -10,6 +10,12 @@ David
 7. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
+1. Nuevow productos venta ERP
+2. Actualizacion de Main Contabilidad
+3. Actualizacion sistema tiendas
+4. Subida masiva modulos Compras, Contabilidad
+5. Configuracion PC Leon
+6. 
 
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
