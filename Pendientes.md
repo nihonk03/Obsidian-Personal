@@ -71,6 +71,8 @@ proovedor principal
 
 
 
+Presupuestos_Ferreterias\ferreterias\sinsa\presupuestos\index.html
 
+en este archivo el buscador no fuinciona eficientemente por ejemplo pongo "abanico industrial" y si existe un item llamadao "abanico de techo industrial" no lo filtra
 
 
