@@ -63,7 +63,9 @@ nuevo centro de costos
 - Eliminar Combo Rosas
 
 
-
+MIguel
+- Comandas de tripleberry y limonada con calala al seleccionar normal de azúcar indica agregar 4 1/2 onz de azúcar
+- Listado de acceso a operaciones a katehrine
 
 sku editable
 Dexripcion
