@@ -75,5 +75,5 @@ proovedor principal
 
 - NUevos subcuenta y cuenta 
 - Nuevos combos
-- 
+- incluir vasos en conteo ciclico
 
