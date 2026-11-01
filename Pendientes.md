@@ -79,5 +79,19 @@ descargar matriz de pedidos de grutas frescas a un excel
 - incluir vasos en conteo ciclico
 
 
-h069
+2
+7
+9
+4
+5
+10
+25
+16
+11
+12
+13
+22
+25
+
+
 
