@@ -81,4 +81,4 @@ descargar matriz de pedidos de grutas frescas a un excel
 
 
 
-
+Listo ahora si, estos cambios afectan cuando yo descrgue el repositorio en otra pc , quizas por ahi vino el problema porque se estuvo trabajando en 2 pcs distitnas con el repositorio, limpia todos los archivos y codigo de pruebas ,
