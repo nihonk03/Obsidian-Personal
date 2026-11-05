@@ -84,3 +84,7 @@ Extras:
 
 1. conversion en funcion de precio de venta
 2. 
+
+
+
+migracion Orden de comrpa y compra
