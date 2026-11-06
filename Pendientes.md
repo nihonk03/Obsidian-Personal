@@ -11,37 +11,11 @@ David
 
 Edvi
 1. Nuevow productos venta ERP 3 batidos x subgrupo inc limonada, 3 waffles , 3 bowl , 3 marca pitaya, 3 externo , membresia 
-
-Batidos y Limonadas
-	clasicos
-	premium
-	Limonadas
-Bowl
-	bowl
-	minibowl
-waffles
-	clasico
-	pritena
-	especial
-Mostradore
-	Marca PItaya
-	Externos
-Membresi
-	membresia
-Extras
-	Extras
-Endulzantes
-	Endulzantes
-
-
-1. Actualizacion de Main Contabilidad
-2. Actualizacion sistema tiendas
-3. Subida masiva modulos Compras, Contabilidad
-4. Configuracion PC Leon
-5. USbir 10 promociones desde promociones_access_csv   Ativo  =1 Local=0
+2. Subida masiva modulos Compras, Contabilidad
+3. Configuracion PC Leon
+4. USbir 10 promociones desde promociones_access_csv   Ativo  =1 Local=0
  promociones club y general
-6. Subir arhicvo .md de POS y Promociones a carpeta POS
-7. Herramienta Edicion de pgina principal batidospitaya.com en ERP
+5. Herramienta Edicion de pgina principal batidospitaya.com en ERP
  
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
@@ -49,18 +23,7 @@ asignacion lideres y anc sincronizados en edicion
 Revisar pedido 180 en revision de conteo ciclico eliminar pendientes
 
 MOdifcar proceso de ferias y apeturas
-
-nuevo centro de costos
-
-
-
-31 Setiembre
-- Elimianr combo rosa unitario
-23 setiembre
-- Cambio de precios nuevos
-23 setiembre
-- Cambio de combo Pitayaween
-- Eliminar Combo Rosas
+Despacho hacia centor de costos y no locales
 
 
 MIguel
