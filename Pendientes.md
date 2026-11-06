@@ -10,12 +10,11 @@ David
 7. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
-1. Nuevow productos venta ERP 3 batidos x subgrupo inc limonada, 3 waffles , 3 bowl , 3 marca pitaya, 3 externo , membresia 
-2. Subida masiva modulos Compras, Contabilidad
-3. Configuracion PC Leon
-4. USbir 10 promociones desde promociones_access_csv   Ativo  =1 Local=0
+1. Subida masiva modulos Compras, Contabilidad
+2. Configuracion PC Leon
+
  promociones club y general
-5. Herramienta Edicion de pgina principal batidospitaya.com en ERP
+3. Herramienta Edicion de pgina principal batidospitaya.com en ERP
  
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
