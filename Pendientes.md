@@ -30,24 +30,11 @@ MIguel
 - Comandas de tripleberry y limonada con calala al seleccionar normal de azúcar indica agregar 4 1/2 onz de azúcar
 - Listado de acceso a operaciones a katehrine
 
-sku editable
-Dexripcion
-proovedor principal
-descargar matriz de pedidos de grutas frescas a un excel
 
 
-
-- NUevos subcuenta y cuenta 
-- Nuevos combos
 - incluir vasos en conteo ciclico
 
 341577749
-
-
-Extras:
-
-1. conversion en funcion de precio de venta
-2. 
 
 
 
