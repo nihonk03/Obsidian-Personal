@@ -41,5 +41,8 @@ migracion Orden de comrpa y compra
 
 
 Nuevo número para Whatsapp Api: 76453067
-miguelon0003
-miguelon0003
+
+
+
+Producto: nombreproductocoti([Compras]![CodCotizacion])
+Producto: nombreproductocoti([Compras]![CodCotizacion])
