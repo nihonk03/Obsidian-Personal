@@ -13,3 +13,11 @@ Cambio de INgredientes de receta
 
 
 
+Lista de promociones check solo mostrar aplicables formato bajo
+personalizacion combo facturado mostrar elecciones
+lista de cmbos inactivos , edicion activo/inactivo cambiar fecha desde hasta
+color por itpo de cliente 
+menu  por nombre real del menu y color de fondo tipo cliente
+orden de grupo en menu numerico
+	elimianr Curioso 20oz — Ajusta opciones repetitivo
+	sin cambio a cmabiar a, una vez eelgido con icono de flechas y reslatado nombre estandarizar a mestro
