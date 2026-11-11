@@ -21,3 +21,7 @@ menu  por nombre real del menu y color de fondo tipo cliente
 orden de grupo en menu numerico
 	elimianr Curioso 20oz — Ajusta opciones repetitivo
 	sin cambio a cmabiar a, una vez eelgido con icono de flechas y reslatado nombre estandarizar a mestro
+mantener eliminacion
+
+
+saborizantes 
