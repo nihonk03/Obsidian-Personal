@@ -43,6 +43,8 @@ migracion Orden de comrpa y compra
 Nuevo número para Whatsapp Api: 76453067
 
 
+pos.batidospitaya.com/modulos/pos/facturas_nueva.php  
+  
+Vamos a restructurar los menus a un nuevo nivel con las siguientes consideraciones
 
-Producto: nombreproductocoti([Compras]![CodCotizacion])
-Producto: nombreproductocoti([Compras]![CodCotizacion])
+1. EL catalogo se guarda en catalogo_menu_pos donde cada item se enlaza a un sbgrupo y grupo mayor
