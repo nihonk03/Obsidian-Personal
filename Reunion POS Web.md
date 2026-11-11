@@ -10,3 +10,6 @@ Cambio de INgredientes de receta
 2. Validacion costo existencia
 3. Validacion peso
 
+
+
+
