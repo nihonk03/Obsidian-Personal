@@ -42,3 +42,7 @@ validacion de prergistro lleno / endinrte ingreso de nuemro de mebresia manual
 mostarr boton de membresia nueva en cliente general 
 Agregar item de cupon para venta\
 agregar item de puntos para venta
+
+
+
+
