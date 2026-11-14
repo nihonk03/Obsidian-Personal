@@ -1,1 +1,0 @@
-The MCP tool seems to have issues. Let me try a different query format and read more key files in parallel.

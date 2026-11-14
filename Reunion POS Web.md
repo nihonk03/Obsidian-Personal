@@ -1,8 +1,5 @@
-Nuevo club pitaya
-1. QR clientes preregistro
-2. QR despues de facturacion
-3. Ficha fisica relleno de vendedor
-4. QR de preregistro con Foto de cedula para extraer fechas /numero y llenar amnuamente celular y correo 
+Procedimiento para Nuevo club pitaya
+1. QR de preregistro con Foto de cedula para extraer fechas /numero y llenar amnuamente celular y correo 
 	1. Foto de cedula/residencia/pasaporte para extraer fechas /numero 
 	2. DIcatado de datos verbal
 	3. (NO) opcion de pendiente de datos hbailitado
