@@ -42,5 +42,3 @@ Agregar item de cupon para venta\
 agregar item de puntos para venta
 
 
-
-
