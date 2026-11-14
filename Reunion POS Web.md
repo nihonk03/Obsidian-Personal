@@ -8,6 +8,16 @@ Nuevo club pitaya
 	3. (NO) opcion de pendiente de datos hbailitado
 	4. Sin Cedula NO SE VENDE
 
+
+5. Modal: membresia + telefono 
+6. ENvio de mensaje wsp a cliente con link con preformulario 
+7. Formulario preregistro
+	1. Foto de cedula/residencia/pasaporte para extraer fechas /numero 
+	2. [NO]Llenado manual de datos
+	3. Llenado manual de correo 
+
+
+
 -Foto cedula opcional
 
 Cambio de INgredientes de receta
@@ -42,3 +52,7 @@ validacion de prergistro lleno / endinrte ingreso de nuemro de mebresia manual
 mostarr boton de membresia nueva en cliente general 
 Agregar item de cupon para venta\
 agregar item de puntos para venta
+
+Boton de activar propina arriba de metodo de pago 
+nro re datos de pos o trasnferencia no es ocpional
+comas en miles separacion
