@@ -10,8 +10,12 @@ David
 7. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
+1. Modificacion de factura a como esta en contabilidad
 
-
+Miguel
+1. Migracion de orden de compra  y facturas a erp
+2. Convertir a eretail ferreterias
+3. Estandarizacion de herramientas
 
  
 Facturacion de bolonia hecho mal 
