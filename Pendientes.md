@@ -51,3 +51,9 @@ pos.batidospitaya.com/modulos/pos/facturas_nueva.php
 Vamos a restructurar los menus a un nuevo nivel con las siguientes consideraciones
 
 1. EL catalogo se guarda en catalogo_menu_pos donde cada item se enlaza a un sbgrupo y grupo mayor
+
+
+
+Reunion katherine
+- mermas
+- mantenimiento
