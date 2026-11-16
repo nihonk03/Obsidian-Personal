@@ -10,11 +10,9 @@ David
 7. Claudia, puedes investigar con miguel porque hay 2 OC con la misma numeracion 6837
 
 Edvi
-1. Subida masiva modulos Compras, Contabilidad
-2. Configuracion PC Leon
 
- promociones club y general
-3. Herramienta Edicion de pgina principal batidospitaya.com en ERP
+
+
  
 Facturacion de bolonia hecho mal 
 asignacion lideres y anc sincronizados en edicion
