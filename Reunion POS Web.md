@@ -1,9 +1,9 @@
 Procedimiento para Nuevo club pitaya
-1. Modal: membresia + telefono 
-2. ENvio de mensaje wsp a cliente con link con preformulario 
-3. Formulario preregistro de cliente y atencion al cliente
-	1. Foto de cedula/residencia/pasaporte para extraer fechas /numero 
-	2. Llenado manual de correo 
+- [x] 1. Modal: membresia + telefono 
+- [x] 1. ENvio de mensaje wsp a cliente con link con preformulario 
+- [x] 1. Formulario preregistro de cliente y atencion al cliente
+	- [x] 1. Foto de cedula/residencia/pasaporte para extraer fechas /numero 
+	- [x] 1. Llenado manual de correo 
 
 
 procedimiento de cambio de Ingredientes de receta
@@ -33,10 +33,10 @@ Modulo de personalizacion de producto
 - Revisar nuevos precios de extras a plantear
 
 POanel de cliente:
-- cambiar nombre de cliente casual a cliente general
+- [x] - cambiar nombre de cliente casual a cliente general
 - Historial de compras de cllientes: 3 ultimas facturas 
 - Check de preregistro lleno con cedula
-- Mover boton de nueva membresia a este panel
+- [x] - Mover boton de nueva membresia a este panel
 
 Global
 - CAMBIAR termino FACTURA A TICKET 
@@ -44,9 +44,9 @@ Global
 
 
 Panel de productos facturados
-- Membresia sin opcion de cambio de cantidad ni notas
-- Nuevo campo de numero de memebresia
-- No se mostrara validacion de prergistro lleno durante la facturacion
+- [x] - Membresia sin opcion de cambio de cantidad ni notas
+- [x] - Nuevo campo de numero de memebresia
+- [x] - No se mostrara validacion de prergistro lleno durante la facturacion
  
 
 Propuestas a elaborar:
