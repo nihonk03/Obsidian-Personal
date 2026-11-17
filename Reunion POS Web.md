@@ -115,3 +115,35 @@ https://club.batidospitaya.com/preregistro/?t=MTIzNDU2Nzk6OWRjOTc2MjljODIzMzdkNT
 
 Historial de ventas
 - |Método de Pago|  agregar filtro de encabezado
+
+
+Index:
+- Aperturar turno
+- 
+Dominio independiente para maracacion
+
+cierre de sesion con cierre de caja
+pagina inciial hisotiral ventas, boton abrir caja cerrar caja
+
+cierre  de caja mensaje de confirmacion activado cierre de caja automaticamente
+cambiar turno AM PM
+- Monto real de cupon canjeado 
+- ELiminar Ver tickets de turno de cierre de caja
+- cambiar datáfono
+- 2do intento a ciegas , tercer intento con validacion
+- QUitar Cant. esperada: 0 | Contada: 0 | Dif: 0
+- Fuera de tolerancia cambiar a no Cuadra
+- ##### Ventas — Efectivo (C$ + USD)  sumar registros de efectivo + y - en una sola linea por ticket juntar tipos de codroba y dolares en una sola linea
+##### Ventas — Tarjeta / POS Banco
+- agregar agregar nuro ticket 
+- Si la factura es solo POS o Solo efectivo se puede cambiar modalidad
+- Jhabilitar facyuracion con boton y ajusta hora de cierre si factura , duma dinamicamente 
+
+Imprimible de cierre
+- cambiar logo
+- eliminar signo de moneda 
+- eliminar Cant. esp.: 0 | Contada: 0
+- eliminar caja de INTENTOS DE CONTEO
+- Mostrar ecuacion de 
+- incirpporar balance de efectivo actual
+- Campo de firma de lider  con observaciones
