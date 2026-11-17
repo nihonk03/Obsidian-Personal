@@ -59,3 +59,9 @@ Reunion katherine
 - mantenimiento
 - Formulario UAM
 - Formulario sorteo de concierto
+
+
+
+
+batidospitaya.com: ##### Ya somos mas de 5mil miembros!! por contador dinamico real
+- desde panel de edicion pitaya.com

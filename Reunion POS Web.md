@@ -58,5 +58,60 @@ Panel de Pago:
 - Cambiar nro de codigo de ticket pos banco o codigo de trasnferencia a obligatorio
 
 
+## Ventana de modal de club##
+- codigo de pais
+- cambiar lupa por vlaidar
+- lotes de mmebresias eistente pra limites
+- reducir url de preformulario
+- quitar analizar cn IA
+- Toca para tomar foto de cedul
+- ##### Completa tu perfil cLUB piTAYA
+- Foto de tu cédula de identidad por "Para agilizar el registro solo reuqieres tomar una foto de tu docuemnto de identidad"
+- Subir Cedula por Registriar y Ocultar boton despues de subir 
+- Guardar mi perfil por Activar mi mmebresia
+- mayusculasminusculas estandar
+-  No es una cédula nicaragüense válida — Intenta con una foto más clara. por  Intenta con una foto más clara.
+- Mostrar numero de mebresia comoc ampo junto a datos IA y numero de celular 
+- sin degradado
+- svg en blanco
+-  COmpleta Tu Perfil : quitar encabezado
+- #### ¡Perfil completado! por membresia Activada  con animacon de papelitos
+- DAMARIS JOSEL. 💚 BInevenido al Club Pitaya
+- Ya puedes disfrutar todos los beneficios de tu membresía **#12345679**.  por Recarda compartir tu numero de membresia #### en cada compra
+- Link de Batidos pitaya Menu y club beneficios
+- Numero de servicio al cliente en preregistro con icono wsp y redireccionamiento 
+
+¡Bienvenido al Club Pitaya! 🎉
+
+Tu membresía #12345679 ha sido registrada.
+
+📝 Completa tu perfil para activarla y acceder a  los beneficios:
+https://club.batidospitaya.com/preregistro/?t=MTIzNDU2Nzk6OWRjOTc2MjljODIzMzdkNTdlMmIyNzNhYjI1NjAxMjBlZTBiMzdjNTQ4ZWI2YmIxNzlmNzg0ZjBiMzg4ZTM0ZA
+
+¡Visitanos y sigue acumulando puntos! 💚
+
++ flyer de beneficios
 
 
+- Revision de nuevos precios de extras segunda etapa
+- Compactar menu una hoja
+- Menu como impreso , agregar numeracion
+- Lmonadas sin Limonadas*
+- mover tipo de cambio de metodo de apgo
+- Fondo de cupon seleccionado igual que otros
+
+
+
+##Imprimibles##
+- Cambiar a logo pitaya + arco arroba
+- Sublineas menos tamano de linea y de ancho a ancho
+- Propina (2%)  cambiar a Propina Voluntaria (2%)
+- Elimiunar Fecha: 17-Nov-26 en comanda , resaltar hora 
+- Pedido: 162 antes de nombre de estacion grande
+- cliente hora una linea
+- COMPLETAR PEDIDO CON... grande
+- Membresía Club Pitaya no salir en competar on 
+
+
+Historial de ventas
+- |Método de Pago|  agregar filtro de encabezado
