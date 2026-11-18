@@ -69,3 +69,4 @@ batidospitaya.com: ##### Ya somos mas de 5mil miembros!! por contador dinamico r
 Claude
 Orden de compra
 Factura
+procedimiento de aprtura y cirerre de turno
