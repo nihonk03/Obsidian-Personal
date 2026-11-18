@@ -147,3 +147,12 @@ Imprimible de cierre
 - Mostrar ecuacion de 
 - incirpporar balance de efectivo actual
 - Campo de firma de lider  con observaciones
+
+
+7
+9
+5
+10
+4
+11
+12
