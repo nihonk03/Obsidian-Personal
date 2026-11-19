@@ -67,10 +67,9 @@ batidospitaya.com: ##### Ya somos mas de 5mil miembros!! por contador dinamico r
 
 
 Claude
-Orden de compra
-Factura
+Orden de compra + factura  + ingreso
+
 procedimiento de aprtura y cirerre de turno
-pagina web principal productos en para buscador web
-pitayaov para amrtingarrix
+
 
 
