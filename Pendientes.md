@@ -80,3 +80,4 @@ El registro de pagos e ingresos esta bloqueado y limitado a la OC, no se peude r
 Un solo maestro de OC permisos para ver informacion y acciones distintas areas
 
 
+estandar de diseno como cupones 
