@@ -73,5 +73,10 @@ procedimiento de aprtura y cirerre de turno
 
 Versionado: un registro de OC y otra anexa de versiones , detalle de OC con tabla nexa para versiones
 realcion factura OC : una misma tabl o tablas distintas 
+Cantidades , tner 3 cantidades idnependientes por linea de OC es rebindante?
+
+El registro de pagos e ingresos esta bloqueado y limitado a la OC, no se peude registrar mas por lo tanto no habria ocpion de version de OC auntomatico
+
+
 
 
