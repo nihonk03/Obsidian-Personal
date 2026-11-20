@@ -71,4 +71,7 @@ Orden de compra + factura  + ingreso
 procedimiento de aprtura y cirerre de turno
 
 
+Versionado: un registro de OC y otra anexa de versiones , detalle de OC con tabla nexa para versiones
+realcion factura OC : una misma tabl o tablas distintas 
+
 
