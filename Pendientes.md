@@ -83,3 +83,5 @@ Un solo maestro de OC permisos para ver informacion y acciones distintas areas
 estandar de diseno como cupones 
 
 
+[MiguelGotea/ai_keyvault](https://github.com/MiguelGotea/ai_keyvault)
+[MiguelGotea/ai_keyvault_data](https://github.com/MiguelGotea/ai_keyvault_data)
