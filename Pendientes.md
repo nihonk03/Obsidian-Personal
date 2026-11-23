@@ -84,3 +84,8 @@ estandar de diseno como cupones
 
 
 instalar servicio propio de convertir voz a texto 
+
+
+Ya documente todos los hallazgos en ai_keyvault\docs\research\busquea_rutas.md, ai_keyvault\docs\research\supuesto-tokens-local.md, ai_keyvault\resultados_codex.md y ai_keyvault\reusltados_agy.md, hice un cambio en el python ai_keyvault\agent\cooldown-logger\cooldown_logger.py y registre la respuesta en el .md
+
+Ya tstee la conecion al ssh en otro chat y sin ningun problema, me recomienda esto **Forma de ejecución:** Si intentó conectarse usando la terminal local directa (`ssh root@...` en Windows PowerShell) sin llaves/credenciales configuradas en el entorno local, en lugar de invocar las herramientas MCP dedicadas (`ssh-mcp:run-command`).
