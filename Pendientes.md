@@ -87,3 +87,18 @@ instalar servicio propio de convertir voz a texto
 
 
 
+
+
+1. SI
+2. No puede registrar la factura aun mientr exuste una version en tramite, lo unicoq ue admite es rececpcion y pagos esto es porque despues de una oc aprobada ya se activan los envios del provedor y por ende los pagos pero si hay neceisdad de acambiar la oc por ende la fatcura es un tramite administrativo solmente
+3. No, hasta que se haga unc OC versionada aprobada se registra la factura nuevamente porque descartar una version no implica nos quedamos conla anterior si no que a fuerzas tiene que registrar una version valida auque sea la misma de una verison anterior o de 2 versiones anteriores no importa
+4. si correcto
+5. No, al final todo debe de nacer de la OC poruqe es el unico documento firmado fisicamente por lo tanto es la fuente de la verdad , si permitimos que editen factures de datos que viene de la OC en una auditoria habr problemas de informacion
+6. SI y SI
+
+Cabe reslatar que este procedimiento en la practuica de Pitaya y de manera resumida es que se crea una OC y puede tener iteraciones hasta que porfin lo aproeban , solo se confirma la aprobacion conuna foto del documento fisico firmado, ese es el disparador y enllavado de la oc para que se accionene las 2 areas en paraleleo seugn las caracteristicas de la OC , uno de receibir producto y otro de gesitonar pagos; si durantes la recepcion o gestion de pago hay incongruencias ocmbios internos o del aldo del provedor entonces se activa un procedimiento admimistrativo de versionado siempre manteniendo el codigo de la primera versio como OC padre y las demas versiones solo se ven al suuario como OC padre v1, v2 , v3 etc que neuvamente pasna por la aprobacion para que permita finalmente registrar la factura corrctmente pero nunca se detienen los procedimientos de pagos ni de recepcion porque desde el primer disparador ya se coorina con proveedor eoss envios lo demas son solo temas admnistrativos a solucionarse , el proceso acaba ya con la factura registrada que va en sintonia con la OC version x que este aprobada y todos los pagos hehcos y rececpciones hechas, asi que la fuente de la verdad siempre ser la OC Vx aprobada y el numero de procedimiento es simepre la primera version aprobada
+
+Revisa si hay alguna duda mas o contradiccion o ambiguedad
+
+
+
