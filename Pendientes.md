@@ -72,14 +72,6 @@ instalar servicio propio de convertir voz a texto
 
 
 
-Un solo maestro de OC permisos para ver informacion y acciones distintas areas
-
-
-estandar de diseno como cupones 
-
-
-
-
 
 
 
