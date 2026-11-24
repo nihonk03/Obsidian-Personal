@@ -70,6 +70,29 @@ procedimiento de aprtura y cirerre de turno
 instalar servicio propio de convertir voz a texto 
 
 
+Prueba foto de voucher
+Modificar descargable de marcaciones_nuevo (Descargar Marcaciones Excel) con columnas de version anterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
