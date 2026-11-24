@@ -70,9 +70,10 @@ procedimiento de aprtura y cirerre de turno
 instalar servicio propio de convertir voz a texto 
 
 
-- Prueba foto de voucher
+- Prueba foto de voucher depositos 
 - Modificar descargable de marcaciones_nuevo (Descargar Marcaciones Excel) con columnas de version anterior
-- Cmabio de turno de Leon
+- Cmabio de turno de Leon manual
+- Pruebas de cambio de peurtos para los 2 DVR Altamira
 
 
 
