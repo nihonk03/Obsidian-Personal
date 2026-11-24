@@ -75,6 +75,7 @@ Edvi epndientes
 - Modificar descargable de marcaciones_nuevo (Descargar Marcaciones Excel) con columnas de version anterior
 - Cmabio de turno de Leon manual
 - Pruebas de cambio de peurtos para los 2 DVR Altamira
+- Lista de archivos que aun usan Operaioes.operativo
 
 
 
