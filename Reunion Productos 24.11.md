@@ -5,4 +5,6 @@
 5. Tipos despacho
 	- Regular: despacho programado (producto con calculo + producto  )
 	- titulos para nueva herramienta
-- 
+
+
+receta a presetnacion
