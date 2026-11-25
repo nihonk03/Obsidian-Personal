@@ -9,4 +9,4 @@
 
 receta a presetnacion
 
-2 ventanas recurrentes y no recurrentes
+botones de pedido ventanas recurrentes y no recurrentes  y adicionales para cds
