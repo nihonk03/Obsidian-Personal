@@ -83,7 +83,7 @@ Edvi epndientes
 
 
 
-Crea un PLAN2.md para trabajar como en el primer arranque donde cada fase se iba ajustando y docuemntando como guia adicional a la actualizacion del resto de archivos que ameriten
+
 
 
 
