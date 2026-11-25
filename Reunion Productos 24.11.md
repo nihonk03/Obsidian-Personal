@@ -8,3 +8,5 @@
 
 
 receta a presetnacion
+
+2 ventanas recurrentes y no recurrentes
