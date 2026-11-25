@@ -77,7 +77,7 @@ Edvi epndientes
 - Pruebas de cambio de peurtos para los 2 DVR Altamira
 - Lista de archivos que aun usan Operaioes.operativo
 
-152.231.32.12
+152.231.34.15
 
 
 
