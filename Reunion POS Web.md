@@ -151,3 +151,18 @@ Imprimible de cierre
 
 
 
+
+Con los colores actuales, **Hilos de Luz** (`#EFE6D3`) casi se funde con el fondo crema de la página (`#F6F3EC`), y **Bajo la Misma Lluvia** (`#DCEDEA`) es muy pálido. Ninguno de los dos se separa del fondo, así que lo más efectivo es elegir un fondo base con algo más de cuerpo y subir un poco la saturación de ambos pósters. Todas las propuestas mantienen el verde de marca `#4F7D6F` y el texto `#2B3A36`.
+
+| Propuesta | Fondo base | Hilos de Luz | Bajo la Misma Lluvia | Carácter |  
+|---|---|---|---|---|  
+| **A. Salvia suave** | `#E6ECE3` | `#E8D5B0` (arena) | `#A9CFC8` (agua) | Fresca y natural, la más cercana a tu marca |  
+| **B. Arena cálida** | `#EDE4D3` | `#D9C29A` (miel pálida) | `#B7D6D0` (menta agua) | Cálida y acogedora, tipo papel |  
+| **C. Niebla azulada** | `#E8EEF1` | `#EBDDBF` (crema dorada) | `#B4D3D0` (verde lluvia) | Fría y limpia, hace que el beige "caliente" resalte |  
+| **D. Verde profundo** | `#2F4A42` | `#EFE6D3` (se queda igual) | `#CFE8E3` (más claro) | Contraste máximo, tema oscuro. Los textos de la página pasarían a claro (`#F6F3EC`) |
+
+**Mi recomendación:** la **A (Salvia suave)**. El arena de Hilos de Luz queda cálido contra el fondo verdoso (contraste de temperatura), y el tono agua de Lluvia mantiene la armonía con el verde de marca sin parecer pálido. Si prefieres algo más editorial y cálido, la **B**.
+
+Si quieres, aplico la que elijas directamente en el catálogo, o te preparo una vista comparando las cuatro lado a lado.
+
+modifica el html con la propuesta A
