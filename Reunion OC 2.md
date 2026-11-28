@@ -11,3 +11,5 @@ ANULAR EN UGAR DE CANCELAR
 coluna de ultima compra y boontn de historial de compras 
 
 NOmbre de estados: Borrador , Generado (aprobado analista) , aprobado cds aprobado gg , anulado , Finalizado 
+
+RECEPCION CON CAMBIO 
