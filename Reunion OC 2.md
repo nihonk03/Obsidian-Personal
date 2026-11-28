@@ -13,3 +13,6 @@ coluna de ultima compra y boontn de historial de compras
 NOmbre de estados: Borrador , Generado (aprobado analista) , aprobado cds aprobado gg , anulado , Finalizado 
 
 RECEPCION CON CAMBIO 
+FEHA DE VENCIMIENTO NI LOTE NI PESO 
+APROBACION EN HISTORIAL 
+ESTADO 
