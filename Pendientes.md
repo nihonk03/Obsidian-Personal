@@ -92,7 +92,14 @@ Edvi epndientes
 
 
 
+C:\Users\User\Desktop\Sistema\PitayaWeb\ai_keyvault  
+  
+EL programa ya esta funcional trabajando todo bien y vamos a hacer las siguientes mejoras:  
+  
 
+1. La pestana de Inicio y de cuentas vamos a separarlo por pestanas por cada proveedor
+2. Varifica si el nombre de la cuenta no se bloquea si agrego el mimo nombre en GAY y en CODEX no deberia bloquear el mismo nombre
+3. Elimina la caja "Como agregar una cuenta" para no perder espacio
 
 
 
